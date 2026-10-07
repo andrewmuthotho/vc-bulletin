@@ -15,6 +15,8 @@ import html
 import json
 import re
 import sys
+import time
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -30,13 +32,51 @@ MONEY = re.compile(r"(\$|usd|kes|ngn|€|£)\s?\d|\d+(\.\d+)?\s?(m|million|bn|bi
 
 # ---------- 1. COLLECT ----------
 
+BROWSER_HEADERS = {
+    # Some sites turn away anything that doesn't look like a normal browser, so we look like one.
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/129.0 Safari/537.36"),
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
+    "Accept-Language": "en-GB,en;q=0.9",
+}
+
+
 def fetch(url):
-    req = urllib.request.Request(url, headers={
-        "User-Agent": "Mozilla/5.0 (compatible; VCBulletin/1.0; personal news digest)",
-        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml",
-    })
-    with urllib.request.urlopen(req, timeout=25) as r:
-        return r.read()
+    last_error = None
+    for attempt in range(2):  # one retry, in case the site just hiccupped
+        try:
+            req = urllib.request.Request(url, headers=BROWSER_HEADERS)
+            with urllib.request.urlopen(req, timeout=25) as r:
+                return r.read()
+        except Exception as e:
+            last_error = e
+            time.sleep(3)
+    raise last_error
+
+
+def google_news_url(site):
+    # Plan B: Google News keeps its own feed of each site's recent articles.
+    q = urllib.parse.quote(f"site:{site} when:3d")
+    return f"https://news.google.com/rss/search?q={q}&hl=en-KE&gl=KE&ceid=KE:en"
+
+
+def fetch_stories(feed, fixture_dir=None):
+    """Try the site's own feed first; if that fails, fall back to Google News for that site."""
+    if fixture_dir:  # testing mode: read saved feed files instead of the internet
+        return parse_feed((Path(fixture_dir) / f"{feed['name']}.xml").read_bytes()), "direct"
+    try:
+        stories = parse_feed(fetch(feed["url"]))
+        if stories:
+            return stories, "direct"
+        raise ValueError("feed was empty")
+    except Exception as e:
+        print(f"   {feed['name']}: own feed failed ({e}), trying Google News", file=sys.stderr)
+    site = feed.get("site") or urllib.parse.urlparse(feed["url"]).netloc.replace("www.", "")
+    stories = parse_feed(fetch(google_news_url(site)))
+    for s in stories:
+        # Google adds " - Source Name" to every headline; trim it off.
+        s["title"] = re.sub(r"\s+-\s+[^-]+$", "", s["title"]).strip()
+    return stories, "via Google News"
 
 
 def clean(text):
@@ -218,11 +258,7 @@ def main(fixture_dir=None):
     stories, ok, failed = [], [], []
     for feed in config["feeds"]:
         try:
-            if fixture_dir:   # testing mode: read saved feed files instead of the internet
-                raw = (Path(fixture_dir) / f"{feed['name']}.xml").read_bytes()
-            else:
-                raw = fetch(feed["url"])
-            found = parse_feed(raw)
+            found, how = fetch_stories(feed, fixture_dir)
             ok.append(feed["name"])
         except Exception as e:  # one broken site shouldn't stop the whole bulletin
             print(f"!! {feed['name']}: {e}", file=sys.stderr)
@@ -235,7 +271,7 @@ def main(fixture_dir=None):
                 s["score"] += 1
             if s["score"] >= 1:
                 stories.append(s)
-        print(f"ok {feed['name']}: {len(found)} stories")
+        print(f"ok {feed['name']}: {len(found)} stories ({how})")
 
     items = (pick(stories, "africa", config["how_many_africa"], config["lookback_hours"], now)
              + pick(stories, "global", config["how_many_global"], config["lookback_hours"], now))
