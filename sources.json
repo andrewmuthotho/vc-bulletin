@@ -1,0 +1,25 @@
+{
+  "how_many_africa": 6,
+  "how_many_global": 3,
+  "lookback_hours": 36,
+  "feeds": [
+    {"name": "Disrupt Africa",       "region": "africa", "url": "https://disruptafrica.com/feed/"},
+    {"name": "TechCabal",            "region": "africa", "url": "https://techcabal.com/feed/"},
+    {"name": "Techpoint Africa",     "region": "africa", "url": "https://techpoint.africa/feed/"},
+    {"name": "WeeTracker",           "region": "africa", "url": "https://weetracker.com/feed/"},
+    {"name": "TechMoran",            "region": "africa", "url": "https://techmoran.com/feed/"},
+    {"name": "Launch Base Africa",   "region": "africa", "url": "https://launchbaseafrica.com/feed/"},
+    {"name": "The Condia",           "region": "africa", "url": "https://thecondia.com/feed/"},
+    {"name": "Africa: The Big Deal", "region": "africa", "url": "https://thebigdeal.substack.com/feed", "always_vc": true},
+    {"name": "TechCrunch",           "region": "global", "url": "https://techcrunch.com/category/venture/feed/", "always_vc": true},
+    {"name": "Crunchbase News",      "region": "global", "url": "https://news.crunchbase.com/feed/", "always_vc": true}
+  ],
+  "vc_words": [
+    "raise", "raises", "raised", "raising", "funding", "funded", "seed", "pre-seed",
+    "series a", "series b", "series c", "series d", "round", "investor", "investors",
+    "investment", "invests", "venture", "vc", "fund", "fundraise", "backed", "backs",
+    "acquire", "acquires", "acquired", "acquisition", "merger", "ipo", "valuation",
+    "unicorn", "equity", "debt financing", "exit", "stake", "accelerator",
+    "angel", "term sheet", "lp", "lps", "private equity", "venture capital"
+  ]
+}
