@@ -1,8 +1,15 @@
 {
   "date_label": "Wed 07 Oct",
-  "updated": "09:34 EAT, Wed 07 Oct 2026",
+  "updated": "09:54 EAT, Wed 07 Oct 2026",
   "count": 9,
   "items": [
+    {
+      "title": "FINCA Ventures Backs Six African Resilience Tech Startups with Catalytic Capital",
+      "source": "Launch Base Africa",
+      "link": "https://launchbaseafrica.com/2026/10/07/finca-ventures/?utm_source=rss&utm_medium=rss&utm_campaign=finca-ventures",
+      "region": "africa",
+      "age": "Wed 08:30"
+    },
     {
       "title": "Crypto accelerator Alliance invests $500,000 in Kenyan fintech Cloud9",
       "source": "TechCabal",
@@ -23,13 +30,6 @@
       "link": "https://disruptafrica.com/2026/10/06/egyptian-fintech-unicorn-mnt-halan-secures-76-5m-securitisation-deals/?utm_source=rss&utm_medium=rss&utm_campaign=egyptian-fintech-unicorn-mnt-halan-secures-76-5m-securitisation-deals",
       "region": "africa",
       "age": "Tue 12:00"
-    },
-    {
-      "title": "How Nigeria’s BlueBic is taking the admin burden off teachers",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/10/06/how-nigerias-bluebic-is-taking-the-admin-burden-off-teachers/?utm_source=rss&utm_medium=rss&utm_campaign=how-nigerias-bluebic-is-taking-the-admin-burden-off-teachers",
-      "region": "africa",
-      "age": "Tue 09:00"
     },
     {
       "title": "Ghana’s Complete Farmer Raises $2.4 Million to Expand Farmer Financing",
@@ -67,19 +67,18 @@
       "age": "Mon 22:38"
     }
   ],
-  "digest": "• Crypto accelerator Alliance invests $500,000 in Kenyan fintech Cloud9 — TechCabal\n• Why Airtel Money’s $7bn IPO doesn’t include its Nigerian fintech business — TechCabal\n• Egyptian fintech unicorn MNT-Halan secures $76.5m securitisation deals — Disrupt Africa\n• How Nigeria’s BlueBic is taking the admin burden off teachers — Disrupt Africa\n• Ghana’s Complete Farmer Raises $2.4 Million to Expand Farmer Financing — TechMoran\n• Sun King Raises $5 Million Acumen Investment for Zambia Expansion — TechMoran\n• Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed — TechCrunch\n• Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers — Crunchbase News\n• After Factory’s public spat with Khosla, Menlo proudly invests — TechCrunch",
+  "digest": "• FINCA Ventures Backs Six African Resilience Tech Startups with Catalytic Capital — Launch Base Africa\n• Crypto accelerator Alliance invests $500,000 in Kenyan fintech Cloud9 — TechCabal\n• Why Airtel Money’s $7bn IPO doesn’t include its Nigerian fintech business — TechCabal\n• Egyptian fintech unicorn MNT-Halan secures $76.5m securitisation deals — Disrupt Africa\n• Ghana’s Complete Farmer Raises $2.4 Million to Expand Farmer Financing — TechMoran\n• Sun King Raises $5 Million Acumen Investment for Zambia Expansion — TechMoran\n• Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed — TechCrunch\n• Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers — Crunchbase News\n• After Factory’s public spat with Khosla, Menlo proudly invests — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
+    "Techpoint Africa",
     "WeeTracker",
     "TechMoran",
     "Launch Base Africa",
+    "The Condia",
+    "Africa: The Big Deal",
     "TechCrunch",
     "Crunchbase News"
   ],
-  "sources_failed": [
-    "Techpoint Africa",
-    "The Condia",
-    "Africa: The Big Deal"
-  ]
+  "sources_failed": []
 }
