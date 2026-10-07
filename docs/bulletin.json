@@ -1,0 +1,85 @@
+{
+  "date_label": "Wed 07 Oct",
+  "updated": "09:34 EAT, Wed 07 Oct 2026",
+  "count": 9,
+  "items": [
+    {
+      "title": "Crypto accelerator Alliance invests $500,000 in Kenyan fintech Cloud9",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/10/06/cloud9-raises-500000-from-alliance/",
+      "region": "africa",
+      "age": "Tue 20:34"
+    },
+    {
+      "title": "Why Airtel Money’s $7bn IPO doesn’t include its Nigerian fintech business",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/10/06/airtel-money-ipo-nigeria-smartcash/",
+      "region": "africa",
+      "age": "Tue 19:04"
+    },
+    {
+      "title": "Egyptian fintech unicorn MNT-Halan secures $76.5m securitisation deals",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/10/06/egyptian-fintech-unicorn-mnt-halan-secures-76-5m-securitisation-deals/?utm_source=rss&utm_medium=rss&utm_campaign=egyptian-fintech-unicorn-mnt-halan-secures-76-5m-securitisation-deals",
+      "region": "africa",
+      "age": "Tue 12:00"
+    },
+    {
+      "title": "How Nigeria’s BlueBic is taking the admin burden off teachers",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/10/06/how-nigerias-bluebic-is-taking-the-admin-burden-off-teachers/?utm_source=rss&utm_medium=rss&utm_campaign=how-nigerias-bluebic-is-taking-the-admin-burden-off-teachers",
+      "region": "africa",
+      "age": "Tue 09:00"
+    },
+    {
+      "title": "Ghana’s Complete Farmer Raises $2.4 Million to Expand Farmer Financing",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/10/06/ghanas-complete-farmer-raises-2-4-million-to-expand-farmer-financing/",
+      "region": "africa",
+      "age": "Tue 00:49"
+    },
+    {
+      "title": "Sun King Raises $5 Million Acumen Investment for Zambia Expansion",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/10/06/sun-king-raises-5-million-acumen-investment-for-zambia-expansion/",
+      "region": "africa",
+      "age": "Tue 00:39"
+    },
+    {
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "region": "global",
+      "age": "Tue 17:00"
+    },
+    {
+      "title": "Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/",
+      "region": "global",
+      "age": "Tue 14:00"
+    },
+    {
+      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+      "region": "global",
+      "age": "Mon 22:38"
+    }
+  ],
+  "digest": "• Crypto accelerator Alliance invests $500,000 in Kenyan fintech Cloud9 — TechCabal\n• Why Airtel Money’s $7bn IPO doesn’t include its Nigerian fintech business — TechCabal\n• Egyptian fintech unicorn MNT-Halan secures $76.5m securitisation deals — Disrupt Africa\n• How Nigeria’s BlueBic is taking the admin burden off teachers — Disrupt Africa\n• Ghana’s Complete Farmer Raises $2.4 Million to Expand Farmer Financing — TechMoran\n• Sun King Raises $5 Million Acumen Investment for Zambia Expansion — TechMoran\n• Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed — TechCrunch\n• Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers — Crunchbase News\n• After Factory’s public spat with Khosla, Menlo proudly invests — TechCrunch",
+  "sources_ok": [
+    "Disrupt Africa",
+    "TechCabal",
+    "WeeTracker",
+    "TechMoran",
+    "Launch Base Africa",
+    "TechCrunch",
+    "Crunchbase News"
+  ],
+  "sources_failed": [
+    "Techpoint Africa",
+    "The Condia",
+    "Africa: The Big Deal"
+  ]
+}
