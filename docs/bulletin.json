@@ -1,14 +1,42 @@
 {
-  "date_label": "Thu 08 Oct",
-  "updated": "13:50 EAT, Thu 08 Oct 2026",
+  "date_label": "Fri 09 Oct",
+  "updated": "13:48 EAT, Fri 09 Oct 2026",
   "count": 9,
   "items": [
     {
-      "title": "NeoFleet Capital raises $4 million to finance taxi fleets across Africa and emerging markets",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/10/08/neofleet-raises-4-million/",
+      "title": "Nigerian Gaming Startup Vatar, Makers Of Lagos Life, Raises USD 500 K At USD 10 M Valuation",
+      "source": "WeeTracker",
+      "link": "https://weetracker.com/2026/10/09/vatar-raises-500k-10m-valuation-lagos-life/",
       "region": "africa",
-      "age": "Thu 12:42"
+      "age": "Fri 12:15"
+    },
+    {
+      "title": "Kenyan neobank Cloud9 secures Alliance investment, takes total funding to $1m",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/10/09/kenyan-neobank-cloud9-secures-alliance-investment-takes-total-funding-to-1m/?utm_source=rss&utm_medium=rss&utm_campaign=kenyan-neobank-cloud9-secures-alliance-investment-takes-total-funding-to-1m",
+      "region": "africa",
+      "age": "Fri 12:00"
+    },
+    {
+      "title": "Lagos Life maker Vatar raises $500,000 one week after launch",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/10/09/lagos-life-maker-vatar-raises-500000/",
+      "region": "africa",
+      "age": "Fri 10:17"
+    },
+    {
+      "title": "M-KOPA Acquires Finnish Software Firm KilpiTek for USD 8 M",
+      "source": "WeeTracker",
+      "link": "https://weetracker.com/2026/10/08/m-kopa-acquires-kilpitek-for-8m/",
+      "region": "africa",
+      "age": "Thu 16:29"
+    },
+    {
+      "title": "NeoFleet Capital raises $4m pre-seed to fund taxi fleets across Africa and the Global South",
+      "source": "The Condia",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YWlhWM3RsRkQ4YUNtY0p0SFliMEkzOUQzeWJ2aVVOUm5aUVJHLVd3OFdDd1F2N25aWDZ4OEc5Ymo0TmpyazBSeEdiXzZCVXNEZlVOY05GOGIwUXhvRldlbVpBQlFpUQ?oc=5",
+      "region": "africa",
+      "age": "Thu 16:20"
     },
     {
       "title": "Lighthouse Capital raising $50m to back mid-market businesses in SA, Kenya",
@@ -18,32 +46,18 @@
       "age": "Thu 12:00"
     },
     {
-      "title": "M-KOPA acquires Finnish device-locking company KilpiTek Oy for $8 million",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/10/07/m-kopa-acquires-finnish-device-locking/",
-      "region": "africa",
-      "age": "Wed 22:03"
+      "title": "Exclusive: Gudea Lands $7M To Predict Which Online Narratives Will Go Viral",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/",
+      "region": "global",
+      "age": "Thu 16:00"
     },
     {
-      "title": "MNT-Halan Hits $1.4 Billion Valuation After Al Ahly Capital Investment",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/10/07/mnt-halan-hits-1-4-billion-valuation-after-al-ahly-capital-investment/",
-      "region": "africa",
-      "age": "Wed 18:41"
-    },
-    {
-      "title": "Kenyan Fintech Cloud9 Raises USD 500 K From Alliance In USD 1 M Pre-Seed Round",
-      "source": "WeeTracker",
-      "link": "https://weetracker.com/2026/10/07/kenyan-fintech-cloud9-raises-500k-alliance/",
-      "region": "africa",
-      "age": "Wed 17:59"
-    },
-    {
-      "title": "Cloud9 Hits $1 Million Funding Milestone After $500,000 Alliance Investment",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/10/07/cloud9-hits-1-million-funding-milestone-after-500000-alliance-investment/",
-      "region": "africa",
-      "age": "Wed 16:04"
+      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+      "region": "global",
+      "age": "Thu 15:00"
     },
     {
       "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
@@ -51,23 +65,9 @@
       "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
       "region": "global",
       "age": "Thu 01:59"
-    },
-    {
-      "title": "From Ballet To Breach Prevention: How A Magician’s Son Raised $4.2M In Seed Funding For His Cybersecurity Startup",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen/",
-      "region": "global",
-      "age": "Wed 16:00"
-    },
-    {
-      "title": "There Was Never An Easy AI Era, And Investors Are Raising The Bar",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/ai-startup-investors-raising-bar-ipo-farid-leo/",
-      "region": "global",
-      "age": "Wed 14:00"
     }
   ],
-  "digest": "• NeoFleet Capital raises $4 million to finance taxi fleets across Africa and emerging markets — TechCabal\n• Lighthouse Capital raising $50m to back mid-market businesses in SA, Kenya — Disrupt Africa\n• M-KOPA acquires Finnish device-locking company KilpiTek Oy for $8 million — TechCabal\n• MNT-Halan Hits $1.4 Billion Valuation After Al Ahly Capital Investment — TechMoran\n• Kenyan Fintech Cloud9 Raises USD 500 K From Alliance In USD 1 M Pre-Seed Round — WeeTracker\n• Cloud9 Hits $1 Million Funding Milestone After $500,000 Alliance Investment — TechMoran\n• While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’ — TechCrunch\n• From Ballet To Breach Prevention: How A Magician’s Son Raised $4.2M In Seed Funding For His Cybersecurity Startup — Crunchbase News\n• There Was Never An Easy AI Era, And Investors Are Raising The Bar — Crunchbase News",
+  "digest": "• Nigerian Gaming Startup Vatar, Makers Of Lagos Life, Raises USD 500 K At USD 10 M Valuation — WeeTracker\n• Kenyan neobank Cloud9 secures Alliance investment, takes total funding to $1m — Disrupt Africa\n• Lagos Life maker Vatar raises $500,000 one week after launch — TechCabal\n• M-KOPA Acquires Finnish Software Firm KilpiTek for USD 8 M — WeeTracker\n• NeoFleet Capital raises $4m pre-seed to fund taxi fleets across Africa and the Global South — The Condia\n• Lighthouse Capital raising $50m to back mid-market businesses in SA, Kenya — Disrupt Africa\n• Exclusive: Gudea Lands $7M To Predict Which Online Narratives Will Go Viral — Crunchbase News\n• Vesta raises $30M to bring swarms of agents to mortgage lenders — TechCrunch\n• While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’ — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
