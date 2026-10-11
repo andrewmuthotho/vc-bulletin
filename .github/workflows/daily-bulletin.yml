@@ -3,7 +3,9 @@ name: Daily VC Bulletin
 
 on:
   schedule:
-    - cron: "30 3 * * *"   # 03:30 UTC = 06:30 Nairobi time, every day
+    - cron: "47 2 * * *" # 05:47 Nairobi time 
+    - cron: "47 3 * * *" # 06:47 Nairobi time (backup)
+    - cron: "53 4 * * *" # 07:53 Nairobi time (backup)
   workflow_dispatch:         # adds a "Run workflow" button so you can trigger it by hand
 
 permissions:
