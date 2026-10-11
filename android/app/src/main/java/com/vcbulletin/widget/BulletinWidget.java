@@ -56,6 +56,15 @@ public class BulletinWidget extends AppWidgetProvider {
     }
 
     static void drawAll(Context context, String headerOverride) {
+        try {
+            drawAllUnsafe(context, headerOverride);
+        } catch (Exception e) {
+            // Never let a drawing problem crash the app or the widget.
+            android.util.Log.e("VCBulletin", "Couldn't draw widget", e);
+        }
+    }
+
+    private static void drawAllUnsafe(Context context, String headerOverride) {
         AppWidgetManager manager = AppWidgetManager.getInstance(context);
         int[] ids = manager.getAppWidgetIds(new ComponentName(context, BulletinWidget.class));
         BulletinData.Bulletin bulletin = BulletinData.load(context);
@@ -96,8 +105,11 @@ public class BulletinWidget extends AppWidgetProvider {
 
         // 2. Tapping a headline opens that article in the browser.
         //    This is a "template": each row fills in its own web address.
+        //    It points at our own OpenLinkActivity: Android 14 refuses a fill-in-able
+        //    link that points at "any app", which is what crashed the first versions.
+        Intent openArticle = new Intent(context, OpenLinkActivity.class);
         PendingIntent articleTemplate = PendingIntent.getActivity(
-                context, 0, new Intent(Intent.ACTION_VIEW),
+                context, 0, openArticle,
                 PendingIntent.FLAG_UPDATE_CURRENT | PendingIntent.FLAG_MUTABLE);
         views.setPendingIntentTemplate(R.id.list, articleTemplate);
 

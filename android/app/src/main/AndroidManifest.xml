@@ -18,6 +18,14 @@
             </intent-filter>
         </activity>
 
+        <!-- Invisible go-between that opens a tapped headline in the browser. -->
+        <activity
+            android:name=".OpenLinkActivity"
+            android:exported="false"
+            android:excludeFromRecents="true"
+            android:noHistory="true"
+            android:theme="@android:style/Theme.NoDisplay" />
+
         <!-- The widget itself. -->
         <receiver
             android:name=".BulletinWidget"
