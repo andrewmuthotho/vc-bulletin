@@ -1,0 +1,47 @@
+# The app factory: turns the code in android/ into an installable file (an APK)
+# and puts it at a fixed download link. Runs whenever the android/ folder changes,
+# or by hand from the Actions tab.
+name: Build Widget App
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "android/**"
+      - ".github/workflows/build-widget.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write            # needed to publish the APK as a download
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the project files
+        uses: actions/checkout@v4
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Set up Gradle (the Android build tool)
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.9"
+
+      - name: Build the app
+        working-directory: android
+        run: gradle assembleDebug -PbuildNumber=${{ github.run_number }} --stacktrace
+
+      - name: Publish the APK to the download link
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp android/app/build/outputs/apk/debug/app-debug.apk vc-bulletin.apk
+          gh release view widget >/dev/null 2>&1 || \
+            gh release create widget --title "VC Bulletin widget" \
+              --notes "Latest build of the VC Bulletin widget app. Download vc-bulletin.apk on your phone to install or update."
+          gh release upload widget vc-bulletin.apk --clobber
