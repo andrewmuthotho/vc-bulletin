@@ -1,6 +1,6 @@
 {
-  "date_label": "Sat 10 Oct",
-  "updated": "13:03 EAT, Sat 10 Oct 2026",
+  "date_label": "Sun 11 Oct",
+  "updated": "13:13 EAT, Sun 11 Oct 2026",
   "count": 9,
   "items": [
     {
@@ -16,13 +16,6 @@
       "link": "https://techmoran.com/2026/10/09/tanzanias-east-africa-foods-raises-40m-to-expand-into-kenya/",
       "region": "africa",
       "age": "Fri 14:41"
-    },
-    {
-      "title": "Company behind viral Nigerian game Lagos Life raises $500k",
-      "source": "The Condia",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tdXdZVUVvYUhrMnJjNE1fckJ6TzRYZXBDZExXeXlfektBRjBfMXN4eVE5eEZtTWxYaFZ4MTdIcjdrSXNfZFJ4STZNYzVlREZYZTFQY0JiXzBGckpHSTB2c2VaV1g0YVR2VFJ4OHFnNA?oc=5",
-      "region": "africa",
-      "age": "Fri 12:55"
     },
     {
       "title": "Nigerian Gaming Startup Vatar, Makers Of Lagos Life, Raises USD 500 K At USD 10 M Valuation",
@@ -46,18 +39,11 @@
       "age": "Fri 10:17"
     },
     {
-      "title": "The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/",
-      "region": "global",
-      "age": "Fri 21:28"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-      "region": "global",
-      "age": "Fri 17:00"
+      "title": "NeoFleet Capital raises $4m pre-seed to fund taxi fleets across Africa and the Global South",
+      "source": "The Condia",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YWlhWM3RsRkQ4YUNtY0p0SFliMEkzOUQzeWJ2aVVOUm5aUVJHLVd3OFdDd1F2N25aWDZ4OEc5Ymo0TmpyazBSeEdiXzZCVXNEZlVOY05GOGIwUXhvRldlbVpBQlFpUQ?oc=5",
+      "region": "africa",
+      "age": "Thu 16:20"
     },
     {
       "title": "Active Investors Kept Up The Deal Pace In Q3, Even As Funding Fell",
@@ -65,9 +51,23 @@
       "link": "https://news.crunchbase.com/venture/q3-2026-active-investors-kept-deal-pace-a16z-insight-sequoia/",
       "region": "global",
       "age": "Fri 14:00"
+    },
+    {
+      "title": "Exclusive: Gudea Lands $7M To Predict Which Online Narratives Will Go Viral",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/",
+      "region": "global",
+      "age": "Thu 16:00"
+    },
+    {
+      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+      "region": "global",
+      "age": "Thu 15:00"
     }
   ],
-  "digest": "• SA’s WalaPay Raises USD 4.6 M Seed Funding For Stablecoin Payments — WeeTracker\n• Tanzania’s East Africa Foods Raises $40M to Expand into Kenya as Twiga Foods Enters Administration — TechMoran\n• Company behind viral Nigerian game Lagos Life raises $500k — The Condia\n• Nigerian Gaming Startup Vatar, Makers Of Lagos Life, Raises USD 500 K At USD 10 M Valuation — WeeTracker\n• Kenyan neobank Cloud9 secures Alliance investment, takes total funding to $1m — Disrupt Africa\n• Lagos Life maker Vatar raises $500,000 one week after launch — TechCabal\n• The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds — Crunchbase News\n• TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise — TechCrunch\n• Active Investors Kept Up The Deal Pace In Q3, Even As Funding Fell — Crunchbase News",
+  "digest": "• SA’s WalaPay Raises USD 4.6 M Seed Funding For Stablecoin Payments — WeeTracker\n• Tanzania’s East Africa Foods Raises $40M to Expand into Kenya as Twiga Foods Enters Administration — TechMoran\n• Nigerian Gaming Startup Vatar, Makers Of Lagos Life, Raises USD 500 K At USD 10 M Valuation — WeeTracker\n• Kenyan neobank Cloud9 secures Alliance investment, takes total funding to $1m — Disrupt Africa\n• Lagos Life maker Vatar raises $500,000 one week after launch — TechCabal\n• NeoFleet Capital raises $4m pre-seed to fund taxi fleets across Africa and the Global South — The Condia\n• Active Investors Kept Up The Deal Pace In Q3, Even As Funding Fell — Crunchbase News\n• Exclusive: Gudea Lands $7M To Predict Which Online Narratives Will Go Viral — Crunchbase News\n• Vesta raises $30M to bring swarms of agents to mortgage lenders — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
