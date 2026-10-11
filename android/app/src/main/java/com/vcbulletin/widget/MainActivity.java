@@ -45,5 +45,12 @@ public class MainActivity extends Activity {
         layout.addView(help);
         layout.addView(open);
         setContentView(layout);
+
+        // Opening the app also fetches the latest bulletin and redraws the widget.
+        final android.content.Context app = getApplicationContext();
+        new Thread(() -> {
+            BulletinData.refresh(app);
+            BulletinWidget.drawAll(app, null);
+        }).start();
     }
 }
