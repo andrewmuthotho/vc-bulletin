@@ -1,0 +1,40 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.vcbulletin.widget'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'com.vcbulletin.widget'
+        minSdk 26
+        targetSdk 34
+        // The build workflow passes the run number in, so each new build counts as an upgrade.
+        def buildNumber = (project.findProperty('buildNumber') ?: '1').toString()
+        versionCode buildNumber.toInteger()
+        versionName "1.${buildNumber}"
+    }
+
+    signingConfigs {
+        // A fixed signing key, so a new version installs over the old one instead of
+        // needing an uninstall each time.
+        fixed {
+            storeFile file('vcbulletin.keystore')
+            storePassword 'vcbulletin'
+            keyAlias 'vcbulletin'
+            keyPassword 'vcbulletin'
+        }
+    }
+
+    buildTypes {
+        debug {
+            signingConfig signingConfigs.fixed
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
