@@ -11,8 +11,13 @@ import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
 import java.util.List;
+import java.util.Locale;
+import java.util.TimeZone;
 
 /**
  * Everything to do with getting the bulletin: downloading bulletin.json,
@@ -32,9 +37,12 @@ final class BulletinData {
     }
 
     static class Bulletin {
-        String header = "Loading…";
+        String header = "LOADING…";   // the date line, e.g. "SUN 11-10-26 · 9 STORIES"
+        String edition = "";           // e.g. "№ 284" (day of the year)
         List<Story> stories = new ArrayList<>();
     }
+
+    private static final TimeZone NAIROBI = TimeZone.getTimeZone("Africa/Nairobi");
 
     private BulletinData() { }
 
@@ -57,7 +65,7 @@ final class BulletinData {
         boolean offline = "offline".equals(prefs.getString(KEY_STATUS, ""));
         Bulletin b = new Bulletin();
         if (json == null) {
-            b.header = offline ? "Couldn't reach the bulletin. Tap ↻ to retry." : "Loading…";
+            b.header = offline ? "OFFLINE · TAP ↻ TO RETRY" : "LOADING…";
             return b;
         }
         try {
@@ -74,12 +82,32 @@ final class BulletinData {
                 s.age = o.optString("age");
                 b.stories.add(s);
             }
-            b.header = data.optString("date_label") + " · " + b.stories.size() + " stories"
-                    + (offline ? " · offline" : "");
+            // The bulletin's date comes from its "updated" stamp,
+            // e.g. "13:13 EAT, Sun 11 Oct 2026". If that can't be read, use today.
+            Date date = parseUpdated(data.optString("updated"));
+            Calendar cal = Calendar.getInstance(NAIROBI, Locale.ENGLISH);
+            cal.setTime(date);
+            b.edition = "№ " + cal.get(Calendar.DAY_OF_YEAR);
+
+            SimpleDateFormat day = new SimpleDateFormat("EEE dd-MM-yy", Locale.ENGLISH);
+            day.setTimeZone(NAIROBI);
+            int n = b.stories.size();
+            b.header = (day.format(date) + " · " + n + (n == 1 ? " STORY" : " STORIES")
+                    + (offline ? " · OFFLINE" : "")).toUpperCase(Locale.ENGLISH);
         } catch (Exception e) {
-            b.header = "Bulletin file looks broken. Tap ↻ to retry.";
+            b.header = "BULLETIN UNREADABLE · TAP ↻";
         }
         return b;
+    }
+
+    private static Date parseUpdated(String updated) {
+        try {
+            SimpleDateFormat f = new SimpleDateFormat("HH:mm 'EAT', EEE dd MMM yyyy", Locale.ENGLISH);
+            f.setTimeZone(NAIROBI);
+            Date d = f.parse(updated);
+            if (d != null) return d;
+        } catch (Exception ignored) { }
+        return new Date();
     }
 
     private static String download() {

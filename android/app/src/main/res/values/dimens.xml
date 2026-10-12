@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="cc_radius">20dp</dimen>
+    <dimen name="cc_pad_h">18dp</dimen>
+    <dimen name="cc_pad_top">16dp</dimen>
+    <dimen name="cc_header_rule">2dp</dimen>
+    <dimen name="cc_row_rule">1dp</dimen>
+    <dimen name="cc_row_pad_v">9dp</dimen>
+    <dimen name="cc_num_col">20dp</dimen>
+    <dimen name="cc_num_gap">8dp</dimen>
+    <dimen name="cc_meta_gap">3dp</dimen>
+    <dimen name="cc_touch">48dp</dimen>
+</resources>

@@ -40,7 +40,7 @@ public class BulletinService extends RemoteViewsService {
             if (position >= stories.size()) {
                 return new RemoteViews(context.getPackageName(), R.layout.widget_item);
             }
-            return BulletinWidget.buildRow(context, stories.get(position));
+            return BulletinWidget.buildRow(context, position, stories.get(position));
         }
 
         @Override public RemoteViews getLoadingView() { return null; }

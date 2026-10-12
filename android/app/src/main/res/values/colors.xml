@@ -1,0 +1,8 @@
+<resources>
+    <!-- Carbon Copy · Carbon (dark) widget -->
+    <color name="cc_ground">#1A1A17</color>      <!-- widget background -->
+    <color name="cc_paper">#F3EEE3</color>       <!-- headlines, title, header rule, icon -->
+    <color name="cc_graphite">#A8A196</color>    <!-- meta lines, date line, row numbers -->
+    <color name="cc_rule">#3A3833</color>        <!-- hairlines between rows -->
+    <color name="cc_signal">#E8604A</color>      <!-- edition number ONLY -->
+</resources>

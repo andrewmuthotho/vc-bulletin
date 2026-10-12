@@ -36,7 +36,7 @@ public class BulletinWidget extends AppWidgetProvider {
     public void onReceive(Context context, Intent intent) {
         super.onReceive(context, intent);
         if (ACTION_REFRESH.equals(intent.getAction())) {
-            drawAll(context, "Refreshing…");
+            drawAll(context, "REFRESHING…");
             refreshInBackground(context);
         }
     }
@@ -80,6 +80,7 @@ public class BulletinWidget extends AppWidgetProvider {
                                    BulletinData.Bulletin bulletin, String headerOverride) {
         RemoteViews views = new RemoteViews(context.getPackageName(), R.layout.widget);
         views.setTextViewText(R.id.date, headerOverride != null ? headerOverride : bulletin.header);
+        views.setTextViewText(R.id.edition, bulletin.edition);
 
         // 1. The headline list.
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {
@@ -87,7 +88,7 @@ public class BulletinWidget extends AppWidgetProvider {
             RemoteViews.RemoteCollectionItems.Builder items =
                     new RemoteViews.RemoteCollectionItems.Builder();
             for (int i = 0; i < bulletin.stories.size(); i++) {
-                items.addItem(i, buildRow(context, bulletin.stories.get(i)));
+                items.addItem(i, buildRow(context, i, bulletin.stories.get(i)));
             }
             items.setHasStableIds(true).setViewTypeCount(1);
             views.setRemoteAdapter(R.id.list, items.build());
@@ -99,9 +100,9 @@ public class BulletinWidget extends AppWidgetProvider {
             views.setRemoteAdapter(R.id.list, serviceIntent);
         }
         views.setEmptyView(R.id.list, R.id.empty);
-        views.setTextViewText(R.id.empty, bulletin.stories.isEmpty() && bulletin.header.startsWith("Couldn't")
-                ? "No headlines yet. Tap ↻ to retry."
-                : "Fetching today's headlines…");
+        views.setTextViewText(R.id.empty, bulletin.header.startsWith("OFFLINE")
+                ? "NO HEADLINES YET · TAP ↻ TO RETRY"
+                : "FETCHING TODAY'S HEADLINES…");
 
         // 2. Tapping a headline opens that article in the browser.
         //    This is a "template": each row fills in its own web address.
@@ -129,12 +130,18 @@ public class BulletinWidget extends AppWidgetProvider {
         return views;
     }
 
-    /** One headline row: title on top, "Africa · Source · time" underneath. */
-    static RemoteViews buildRow(Context context, BulletinData.Story s) {
+    /**
+     * One headline row:
+     *   01  Headline as received from the source
+     *       [AFRICA] WEETRACKER · FRI 15:28
+     */
+    static RemoteViews buildRow(Context context, int position, BulletinData.Story s) {
         RemoteViews row = new RemoteViews(context.getPackageName(), R.layout.widget_item);
-        row.setTextViewText(R.id.title, s.title);
-        String region = "africa".equals(s.region) ? "Africa" : "Global";
-        row.setTextViewText(R.id.meta, region + " · " + s.source + " · " + s.age);
+        row.setTextViewText(R.id.number, String.format(java.util.Locale.ENGLISH, "%02d", position + 1));
+        row.setTextViewText(R.id.title, s.title);   // headlines are left exactly as received
+        String region = "africa".equals(s.region) ? "AFRICA" : "GLOBAL";
+        String meta = "[" + region + "] " + s.source + " · " + s.age;
+        row.setTextViewText(R.id.meta, meta.toUpperCase(java.util.Locale.ENGLISH));
         Intent fill = new Intent();
         fill.setData(Uri.parse(s.link));
         row.setOnClickFillInIntent(R.id.item, fill);
