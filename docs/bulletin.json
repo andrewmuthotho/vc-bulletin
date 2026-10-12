@@ -1,8 +1,15 @@
 {
   "date_label": "Mon 12 Oct",
-  "updated": "12:48 EAT, Mon 12 Oct 2026",
+  "updated": "14:21 EAT, Mon 12 Oct 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Infinite Partners raises $169.3 million to back South African growth businesses",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/10/12/infinite-partners-169-million-fund/",
+      "region": "africa",
+      "age": "Mon 13:16"
+    },
     {
       "title": "Almost half of Nigerian workers earn less than $150 monthly, report finds",
       "source": "TechCabal",
@@ -16,13 +23,6 @@
       "link": "https://disruptafrica.com/2026/10/12/kenyan-cross-border-payments-startup-gtxn-acquired-by-luno/?utm_source=rss&utm_medium=rss&utm_campaign=kenyan-cross-border-payments-startup-gtxn-acquired-by-luno",
       "region": "africa",
       "age": "Mon 12:00"
-    },
-    {
-      "title": "👨🏿‍🚀TechCabal Daily – OPay’s new Standard",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/10/12/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-opays-new-standard/",
-      "region": "africa",
-      "age": "Mon 10:35"
     },
     {
       "title": "$9 million later, Morocco’s YoLa Fresh shuts down",
@@ -41,7 +41,7 @@
     {
       "title": "Inside OPay’s New York IPO: Who Wins Big in Africa’s Landmark Fintech Exit?",
       "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/10/12/inside-opays-new-york-ipo-who-wins-big-in-africas-landmark-fintech-exit/?utm_source=rss&utm_medium=rss&utm_campaign=inside-opays-new-york-ipo-who-wins-big-in-africas-landmark-fintech-exit",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFg5c0pPeDZPSXB4VWZjWEJlVHliaDh4a3lGSmtUNXZlUEEtU3k0S0lYU2ZFZmRnZXIzamhQUFBNWks4dXo4X29TU28tbkdjYmZvX2NMZG5WMlJXUXdGS21Cb0VKS1E3X0hqbU1JWWxaa2Zqb0cwZzh3bEc0anVxc2w1N3A4RDF4YmRhWDU4clRJcncySFhPTDBjWkJSeXZfYTVwNk1kWnBNZGlScmxXLW9R?oc=5",
       "region": "africa",
       "age": "Mon 07:00"
     },
@@ -60,14 +60,14 @@
       "age": "Fri 21:28"
     },
     {
-      "title": "Active Investors Kept Up The Deal Pace In Q3, Even As Funding Fell",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/q3-2026-active-investors-kept-deal-pace-a16z-insight-sequoia/",
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
       "region": "global",
-      "age": "Fri 14:00"
+      "age": "Fri 17:00"
     }
   ],
-  "digest": "• Almost half of Nigerian workers earn less than $150 monthly, report finds — TechCabal\n• Kenyan cross-border payments startup GTXN acquired by Luno — Disrupt Africa\n• 👨🏿‍🚀TechCabal Daily – OPay’s new Standard — TechCabal\n• $9 million later, Morocco’s YoLa Fresh shuts down — Techpoint Africa\n• SA accommodation booking app LekkeSlaap acquired by investor consortium — Disrupt Africa\n• Inside OPay’s New York IPO: Who Wins Big in Africa’s Landmark Fintech Exit? — Launch Base Africa\n• The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds — Crunchbase News\n• Active Investors Kept Up The Deal Pace In Q3, Even As Funding Fell — Crunchbase News",
+  "digest": "• Infinite Partners raises $169.3 million to back South African growth businesses — TechCabal\n• Almost half of Nigerian workers earn less than $150 monthly, report finds — TechCabal\n• Kenyan cross-border payments startup GTXN acquired by Luno — Disrupt Africa\n• $9 million later, Morocco’s YoLa Fresh shuts down — Techpoint Africa\n• SA accommodation booking app LekkeSlaap acquired by investor consortium — Disrupt Africa\n• Inside OPay’s New York IPO: Who Wins Big in Africa’s Landmark Fintech Exit? — Launch Base Africa\n• The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds — Crunchbase News\n• TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
