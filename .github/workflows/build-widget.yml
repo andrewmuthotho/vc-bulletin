@@ -14,6 +14,11 @@ on:
 permissions:
   contents: write            # needed to publish the APK as a download
 
+env:
+  # Widget fonts. "custom" = Hanken Grotesk + DM Mono (downloaded during the build).
+  # Change to "system" if the custom fonts don't show properly on your phone.
+  CC_FONTS: custom
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -31,6 +36,10 @@ jobs:
         uses: gradle/actions/setup-gradle@v4
         with:
           gradle-version: "8.9"
+
+      - name: Get the widget fonts
+        working-directory: android
+        run: python3 fetch_fonts.py
 
       - name: Build the app
         working-directory: android
