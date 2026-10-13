@@ -1,7 +1,7 @@
 {
   "date_label": "Tue 13 Oct",
-  "updated": "12:45 EAT, Tue 13 Oct 2026",
-  "count": 8,
+  "updated": "14:09 EAT, Tue 13 Oct 2026",
+  "count": 9,
   "items": [
     {
       "title": "Endeavor Catalyst closes $320m Fund V",
@@ -46,28 +46,28 @@
       "age": "Mon 07:00"
     },
     {
+      "title": "Where The Next Generation Of Super Apps Will Be Built",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/fintech/building-next-generation-super-apps-okike-645-ventures/",
+      "region": "global",
+      "age": "Tue 14:00"
+    },
+    {
+      "title": "Fifth Wall’s Brendan Wallace On Why The Best Proptech Bets May Not Look Like Proptech",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/real-estate-proptech-ai-startups-qa-wallace-fifth-wall/",
+      "region": "global",
+      "age": "Tue 14:00"
+    },
+    {
       "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
       "region": "global",
       "age": "Mon 17:00"
-    },
-    {
-      "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "region": "global",
-      "age": "Sun 20:53"
-    },
-    {
-      "title": "",
-      "source": "",
-      "link": "",
-      "region": "",
-      "age": ""
     }
   ],
-  "digest": "• Endeavor Catalyst closes $320m Fund V — Disrupt Africa\n• Q3 2026: Fewer start-ups. Fewer investors. Bigger cheques 🎯 — Africa: The Big Deal\n• OPay targets $500M US IPO as H1 profit jumps 319% — The Condia\n• Infinite Partners raises $169.3 million to back South African growth businesses — TechCabal\n• SA accommodation booking app LekkeSlaap acquired by investor consortium — Disrupt Africa\n• Inside OPay’s New York IPO: Who Wins Big in Africa’s Landmark Fintech Exit? — Launch Base Africa\n• TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings — TechCrunch\n• The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know — TechCrunch",
+  "digest": "• Endeavor Catalyst closes $320m Fund V — Disrupt Africa\n• Q3 2026: Fewer start-ups. Fewer investors. Bigger cheques 🎯 — Africa: The Big Deal\n• OPay targets $500M US IPO as H1 profit jumps 319% — The Condia\n• Infinite Partners raises $169.3 million to back South African growth businesses — TechCabal\n• SA accommodation booking app LekkeSlaap acquired by investor consortium — Disrupt Africa\n• Inside OPay’s New York IPO: Who Wins Big in Africa’s Landmark Fintech Exit? — Launch Base Africa\n• Where The Next Generation Of Super Apps Will Be Built — Crunchbase News\n• Fifth Wall’s Brendan Wallace On Why The Best Proptech Bets May Not Look Like Proptech — Crunchbase News\n• TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
