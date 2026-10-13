@@ -1,35 +1,35 @@
 {
-  "date_label": "Mon 12 Oct",
-  "updated": "15:31 EAT, Mon 12 Oct 2026",
-  "count": 9,
+  "date_label": "Tue 13 Oct",
+  "updated": "12:45 EAT, Tue 13 Oct 2026",
+  "count": 8,
   "items": [
+    {
+      "title": "Endeavor Catalyst closes $320m Fund V",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/10/13/endeavor-catalyst-closes-320m-fund-v/?utm_source=rss&utm_medium=rss&utm_campaign=endeavor-catalyst-closes-320m-fund-v",
+      "region": "africa",
+      "age": "Tue 12:00"
+    },
+    {
+      "title": "Q3 2026: Fewer start-ups. Fewer investors. Bigger cheques 🎯",
+      "source": "Africa: The Big Deal",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvM0t4WWphMWt2UGU2NUFFWE1nMUk3SFpKRnplaFlocG1Fcld5RUoxSGxRM1BadVNsRXRodWNfSzV0SXZMMzNSSXFfa0EwRjlnQUw0?oc=5",
+      "region": "africa",
+      "age": "Tue 10:14"
+    },
+    {
+      "title": "OPay targets $500M US IPO as H1 profit jumps 319%",
+      "source": "The Condia",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fb25vT3Z4aGw2aU5OX1V0WEZfWEFYZ2ZYb0U0UE9pYmhVRnhiOGcwcmlEaml4VGpPaHBocDRydmFTVHdseWRkMHdDRmxqbXhjQzU2bjFpYWlUYXM?oc=5",
+      "region": "africa",
+      "age": "Tue 01:52"
+    },
     {
       "title": "Infinite Partners raises $169.3 million to back South African growth businesses",
       "source": "TechCabal",
       "link": "https://techcabal.com/2026/10/12/infinite-partners-169-million-fund/",
       "region": "africa",
       "age": "Mon 13:16"
-    },
-    {
-      "title": "Almost half of Nigerian workers earn less than $150 monthly, report finds",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/10/12/paidhr-salary-report/",
-      "region": "africa",
-      "age": "Mon 12:15"
-    },
-    {
-      "title": "Kenyan cross-border payments startup GTXN acquired by Luno",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/10/12/kenyan-cross-border-payments-startup-gtxn-acquired-by-luno/?utm_source=rss&utm_medium=rss&utm_campaign=kenyan-cross-border-payments-startup-gtxn-acquired-by-luno",
-      "region": "africa",
-      "age": "Mon 12:00"
-    },
-    {
-      "title": "$9 million later, Morocco’s YoLa Fresh shuts down",
-      "source": "Techpoint Africa",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lbFhNejlWSGdoeExnS3U3RWhxb0JVQ3g0NHN0TWcyQTZjOFVSZElhQnB1QjVTazlpVTJUNnFGYkVOZDNRZ0lZQUFvZTJpSEJFaURjWjhjQ0lzM0t6bFJqYnhFNm1tQQ?oc=5",
-      "region": "africa",
-      "age": "Mon 10:00"
     },
     {
       "title": "SA accommodation booking app LekkeSlaap acquired by investor consortium",
@@ -46,6 +46,13 @@
       "age": "Mon 07:00"
     },
     {
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "region": "global",
+      "age": "Mon 17:00"
+    },
+    {
       "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
@@ -53,21 +60,14 @@
       "age": "Sun 20:53"
     },
     {
-      "title": "The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/",
-      "region": "global",
-      "age": "Fri 21:28"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-      "region": "global",
-      "age": "Fri 17:00"
+      "title": "",
+      "source": "",
+      "link": "",
+      "region": "",
+      "age": ""
     }
   ],
-  "digest": "• Infinite Partners raises $169.3 million to back South African growth businesses — TechCabal\n• Almost half of Nigerian workers earn less than $150 monthly, report finds — TechCabal\n• Kenyan cross-border payments startup GTXN acquired by Luno — Disrupt Africa\n• $9 million later, Morocco’s YoLa Fresh shuts down — Techpoint Africa\n• SA accommodation booking app LekkeSlaap acquired by investor consortium — Disrupt Africa\n• Inside OPay’s New York IPO: Who Wins Big in Africa’s Landmark Fintech Exit? — Launch Base Africa\n• The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds — Crunchbase News\n• TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise — TechCrunch",
+  "digest": "• Endeavor Catalyst closes $320m Fund V — Disrupt Africa\n• Q3 2026: Fewer start-ups. Fewer investors. Bigger cheques 🎯 — Africa: The Big Deal\n• OPay targets $500M US IPO as H1 profit jumps 319% — The Condia\n• Infinite Partners raises $169.3 million to back South African growth businesses — TechCabal\n• SA accommodation booking app LekkeSlaap acquired by investor consortium — Disrupt Africa\n• Inside OPay’s New York IPO: Who Wins Big in Africa’s Landmark Fintech Exit? — Launch Base Africa\n• TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings — TechCrunch\n• The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
