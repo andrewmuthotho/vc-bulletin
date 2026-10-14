@@ -1,8 +1,22 @@
 {
-  "date_label": "Tue 13 Oct",
-  "updated": "15:13 EAT, Tue 13 Oct 2026",
+  "date_label": "Wed 14 Oct",
+  "updated": "11:03 EAT, Wed 14 Oct 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Kuunda Raises $5 Million to Expand Into 7 New Markets",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/10/14/kuunda-raises-5-million-to-expand-into-7-new-markets/",
+      "region": "africa",
+      "age": "Wed 00:27"
+    },
+    {
+      "title": "Bluecore Energy Secures Nuclear Fuel After $50 Million Funding Round",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/10/13/bluecore-energy-secures-nuclear-fuel-after-50-million-funding-round/",
+      "region": "africa",
+      "age": "Tue 21:58"
+    },
     {
       "title": "Endeavor Catalyst closes $320m Fund V",
       "source": "Disrupt Africa",
@@ -18,6 +32,13 @@
       "age": "Tue 10:14"
     },
     {
+      "title": "15 startups selected for Google for Startups Accelerator: South Africa programme",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/10/13/15-startups-selected-for-google-for-startups-accelerator-south-africa-programme/?utm_source=rss&utm_medium=rss&utm_campaign=15-startups-selected-for-google-for-startups-accelerator-south-africa-programme",
+      "region": "africa",
+      "age": "Tue 10:00"
+    },
+    {
       "title": "OPay targets $500M US IPO as H1 profit jumps 319%",
       "source": "The Condia",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fb25vT3Z4aGw2aU5OX1V0WEZfWEFYZ2ZYb0U0UE9pYmhVRnhiOGcwcmlEaml4VGpPaHBocDRydmFTVHdseWRkMHdDRmxqbXhjQzU2bjFpYWlUYXM?oc=5",
@@ -25,25 +46,11 @@
       "age": "Tue 01:52"
     },
     {
-      "title": "Infinite Partners raises $169.3 million to back South African growth businesses",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/10/12/infinite-partners-169-million-fund/",
-      "region": "africa",
-      "age": "Mon 13:16"
-    },
-    {
-      "title": "SA accommodation booking app LekkeSlaap acquired by investor consortium",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/10/12/sa-accommodation-booking-app-lekkeslaap-acquired-by-investor-consortium/?utm_source=rss&utm_medium=rss&utm_campaign=sa-accommodation-booking-app-lekkeslaap-acquired-by-investor-consortium",
-      "region": "africa",
-      "age": "Mon 09:00"
-    },
-    {
-      "title": "Inside OPay’s New York IPO: Who Wins Big in Africa’s Landmark Fintech Exit?",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/10/12/inside-opays-new-york-ipo-who-wins-big-in-africas-landmark-fintech-exit/?utm_source=rss&utm_medium=rss&utm_campaign=inside-opays-new-york-ipo-who-wins-big-in-africas-landmark-fintech-exit",
-      "region": "africa",
-      "age": "Mon 07:00"
+      "title": "TechCrunch Disrupt 2026: Day 1",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+      "region": "global",
+      "age": "Tue 17:00"
     },
     {
       "title": "Where The Next Generation Of Super Apps Will Be Built",
@@ -58,16 +65,9 @@
       "link": "https://news.crunchbase.com/venture/real-estate-proptech-ai-startups-qa-wallace-fifth-wall/",
       "region": "global",
       "age": "Tue 14:00"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-      "region": "global",
-      "age": "Mon 17:00"
     }
   ],
-  "digest": "• Endeavor Catalyst closes $320m Fund V — Disrupt Africa\n• Q3 2026: Fewer start-ups. Fewer investors. Bigger cheques 🎯 — Africa: The Big Deal\n• OPay targets $500M US IPO as H1 profit jumps 319% — The Condia\n• Infinite Partners raises $169.3 million to back South African growth businesses — TechCabal\n• SA accommodation booking app LekkeSlaap acquired by investor consortium — Disrupt Africa\n• Inside OPay’s New York IPO: Who Wins Big in Africa’s Landmark Fintech Exit? — Launch Base Africa\n• Where The Next Generation Of Super Apps Will Be Built — Crunchbase News\n• Fifth Wall’s Brendan Wallace On Why The Best Proptech Bets May Not Look Like Proptech — Crunchbase News\n• TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings — TechCrunch",
+  "digest": "• Kuunda Raises $5 Million to Expand Into 7 New Markets — TechMoran\n• Bluecore Energy Secures Nuclear Fuel After $50 Million Funding Round — TechMoran\n• Endeavor Catalyst closes $320m Fund V — Disrupt Africa\n• Q3 2026: Fewer start-ups. Fewer investors. Bigger cheques 🎯 — Africa: The Big Deal\n• 15 startups selected for Google for Startups Accelerator: South Africa programme — Disrupt Africa\n• OPay targets $500M US IPO as H1 profit jumps 319% — The Condia\n• TechCrunch Disrupt 2026: Day 1 — TechCrunch\n• Where The Next Generation Of Super Apps Will Be Built — Crunchbase News\n• Fifth Wall’s Brendan Wallace On Why The Best Proptech Bets May Not Look Like Proptech — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
