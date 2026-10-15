@@ -1,8 +1,15 @@
 {
   "date_label": "Thu 15 Oct",
-  "updated": "11:36 EAT, Thu 15 Oct 2026",
+  "updated": "12:28 EAT, Thu 15 Oct 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Kenya’s Solarise Africa awarded $1.12m grant to expand to Uganda, Zambia",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/10/15/kenyas-solarise-africa-awarded-1-12m-grant-to-expand-to-uganda-zambia/?utm_source=rss&utm_medium=rss&utm_campaign=kenyas-solarise-africa-awarded-1-12m-grant-to-expand-to-uganda-zambia",
+      "region": "africa",
+      "age": "Thu 12:00"
+    },
     {
       "title": "👨🏿‍🚀TechCabal Daily – Dangote IPO heads south",
       "source": "TechCabal",
@@ -39,13 +46,6 @@
       "age": "Wed 08:28"
     },
     {
-      "title": "Kuunda Raises $5 Million to Expand Into 7 New Markets",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/10/14/kuunda-raises-5-million-to-expand-into-7-new-markets/",
-      "region": "africa",
-      "age": "Wed 00:27"
-    },
-    {
       "title": "TechCrunch Disrupt 2026: Day 2",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
@@ -67,7 +67,7 @@
       "age": "Wed 14:00"
     }
   ],
-  "digest": "• 👨🏿‍🚀TechCabal Daily – Dangote IPO heads south — TechCabal\n• Nigerian E-Mobility Startup MAX Raises USD 29 M In Series B3 Funding With Nithio Investment — WeeTracker\n• Cascador, Sterling Bank launch $200m fund to help Nigerian SMEs access loans — The Condia\n• Cascador and Sterling launch $200 million fund to derisk startup loans — TechCabal\n• Nine Years After Its Founding, OPay’s IPO Filing Leaves Questions Over Employee Stock Options — Launch Base Africa\n• Kuunda Raises $5 Million to Expand Into 7 New Markets — TechMoran\n• TechCrunch Disrupt 2026: Day 2 — TechCrunch\n• Exclusive: Stella & Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo — Crunchbase News\n• 38 Companies Join The Crunchbase Unicorn Board In Blockbuster September, Led By Semiconductor, Fintech And Space Tech Companies — Crunchbase News",
+  "digest": "• Kenya’s Solarise Africa awarded $1.12m grant to expand to Uganda, Zambia — Disrupt Africa\n• 👨🏿‍🚀TechCabal Daily – Dangote IPO heads south — TechCabal\n• Nigerian E-Mobility Startup MAX Raises USD 29 M In Series B3 Funding With Nithio Investment — WeeTracker\n• Cascador, Sterling Bank launch $200m fund to help Nigerian SMEs access loans — The Condia\n• Cascador and Sterling launch $200 million fund to derisk startup loans — TechCabal\n• Nine Years After Its Founding, OPay’s IPO Filing Leaves Questions Over Employee Stock Options — Launch Base Africa\n• TechCrunch Disrupt 2026: Day 2 — TechCrunch\n• Exclusive: Stella & Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo — Crunchbase News\n• 38 Companies Join The Crunchbase Unicorn Board In Blockbuster September, Led By Semiconductor, Fintech And Space Tech Companies — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
