@@ -1,28 +1,21 @@
 {
-  "date_label": "Sat 17 Oct",
-  "updated": "11:51 EAT, Sat 17 Oct 2026",
+  "date_label": "Sun 18 Oct",
+  "updated": "10:26 EAT, Sun 18 Oct 2026",
   "count": 9,
   "items": [
+    {
+      "title": "JAMB’s Canadian ambition: A $20 ticket to a system parents fought to leave",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/10/17/jamb-canada-exam-centre/",
+      "region": "africa",
+      "age": "Sat 15:00"
+    },
     {
       "title": "PalmPay UK posts £21.3m loss after writing off £3.65m loan",
       "source": "The Condia",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByV2RlLUhHb3FYLU5TMkJ2a0ZVcVMxdFV3aTdBNlFjMjZZRDVHUlBKZ3h3X3dQaVB4MXN2VHJKaDRHQ05DMjdkb0kwVVJRS21sUHN6aUJwZEJOWUItMWU3T3FjUjZ6aDZBSGxlbl9B?oc=5",
       "region": "africa",
       "age": "Fri 18:31"
-    },
-    {
-      "title": "Moniepoint's UK arm posts £2.06m profit in 2025",
-      "source": "The Condia",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04d1otenZQa2xqUkw2SHlWZ2IwOTFjOVp3b0xicTdzZDB1RDRTYUpORHJBSEhHZGlCeWptTzhJMGZqcmI4QXhvUmZ5OWIyd1k5bVJzcEE5YmRNbFVvVmNjU3BfUTJLLVNMcnow?oc=5",
-      "region": "africa",
-      "age": "Fri 11:40"
-    },
-    {
-      "title": "South Africa’s digital jobs drive faces a $152 million funding test",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/10/16/south-africa-152m-digital-skills-jobs/",
-      "region": "africa",
-      "age": "Fri 11:26"
     },
     {
       "title": "EBRD Backs Nigerian Grid-Tech Startup Beacon Power Services in $20.9m Push",
@@ -39,25 +32,18 @@
       "age": "Fri 08:00"
     },
     {
-      "title": "Kuunda Co-Founder Andrew Milne Dies at 54 Days After $5 Million Share Sale",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/10/16/kuunda-co-founder-andrew-milne-dies-at-54-days-after-5-million-share-sale/",
+      "title": "Test Your Knowledge on Airtel Money’s London IPO!",
+      "source": "The Condia",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Fbk84TEZZcXVaQUVoeDduTHYwSlBXR05GWFdHWWFyX3M0ZkR4VDUydDI3cWZiVkJ2VUdlWFRoeDJTanRBd3JfeGJzdGRtbzE3bFg3SmcxYVpXLUdmQWZMcTB0QQ?oc=5",
       "region": "africa",
-      "age": "Fri 00:08"
+      "age": "Fri 04:35"
     },
     {
-      "title": "The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/",
-      "region": "global",
-      "age": "Fri 20:57"
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "region": "global",
-      "age": "Fri 19:30"
+      "title": "Kenya’s Solarise Africa awarded $1.12m grant to expand to Uganda, Zambia",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/10/15/kenyas-solarise-africa-awarded-1-12m-grant-to-expand-to-uganda-zambia/?utm_source=rss&utm_medium=rss&utm_campaign=kenyas-solarise-africa-awarded-1-12m-grant-to-expand-to-uganda-zambia",
+      "region": "africa",
+      "age": "Thu 12:00"
     },
     {
       "title": "Asia’s Startup Funding At Near Record High In Q3, Driven By AI",
@@ -65,9 +51,23 @@
       "link": "https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/",
       "region": "global",
       "age": "Fri 14:00"
+    },
+    {
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "region": "global",
+      "age": "Thu 21:00"
+    },
+    {
+      "title": "Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/",
+      "region": "global",
+      "age": "Thu 14:00"
     }
   ],
-  "digest": "• PalmPay UK posts £21.3m loss after writing off £3.65m loan — The Condia\n• Moniepoint's UK arm posts £2.06m profit in 2025 — The Condia\n• South Africa’s digital jobs drive faces a $152 million funding test — TechCabal\n• EBRD Backs Nigerian Grid-Tech Startup Beacon Power Services in $20.9m Push — Launch Base Africa\n• Climate Fintech Nithio Launches $150M Debt Fund to Back Africa’s Electric Vehicle Fleets — Launch Base Africa\n• Kuunda Co-Founder Andrew Milne Dies at 54 Days After $5 Million Share Sale — TechMoran\n• The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch — Crunchbase News\n• An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet — TechCrunch\n• Asia’s Startup Funding At Near Record High In Q3, Driven By AI — Crunchbase News",
+  "digest": "• JAMB’s Canadian ambition: A $20 ticket to a system parents fought to leave — TechCabal\n• PalmPay UK posts £21.3m loss after writing off £3.65m loan — The Condia\n• EBRD Backs Nigerian Grid-Tech Startup Beacon Power Services in $20.9m Push — Launch Base Africa\n• Climate Fintech Nithio Launches $150M Debt Fund to Back Africa’s Electric Vehicle Fleets — Launch Base Africa\n• Test Your Knowledge on Airtel Money’s London IPO! — The Condia\n• Kenya’s Solarise Africa awarded $1.12m grant to expand to Uganda, Zambia — Disrupt Africa\n• Asia’s Startup Funding At Near Record High In Q3, Driven By AI — Crunchbase News\n• Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16 — TechCrunch\n• Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
