@@ -1,8 +1,36 @@
 {
-  "date_label": "Sun 18 Oct",
-  "updated": "12:09 EAT, Sun 18 Oct 2026",
+  "date_label": "Mon 19 Oct",
+  "updated": "11:06 EAT, Mon 19 Oct 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Vodacom keeps Safaricom shares as Kenyan court fast-tracks acquisition appeal",
+      "source": "Techpoint Africa",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZcU5IN01JREdrSmszV2J3M1VGa0lfdmR3cWQ5Y3kxWm45cTFvTDgzM1ktTGNGT0V3U2lTU2lBc1lwbUV3UFBSaVBXcC13UnE0NVV6d1U4N2FEU0NRYzlTWF9pQ2owUQ?oc=5",
+      "region": "africa",
+      "age": "Mon 10:00"
+    },
+    {
+      "title": "👨🏿‍🚀TechCabal Daily – A bigger piece of Cairo",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/10/19/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-a-bigger-piece-of-cairo/",
+      "region": "africa",
+      "age": "Mon 09:15"
+    },
+    {
+      "title": "SA-founded clinical AI startup Healthleap raises $38m seed, Series A funding",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/10/19/sa-founded-clinical-ai-startup-healthleap-raises-38m-seed-series-a-funding/?utm_source=rss&utm_medium=rss&utm_campaign=sa-founded-clinical-ai-startup-healthleap-raises-38m-seed-series-a-funding",
+      "region": "africa",
+      "age": "Mon 09:00"
+    },
+    {
+      "title": "Court hands UBA major victory in landmark ₦156bn debt recovery judgement against the Vaswani Brothers and Stallion Group",
+      "source": "Techpoint Africa",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPalRKUHlSczJLVHJUdEx2YXJmYlFIekp0d1Z3UGhyNlBpdHRBZG1kd09keUFsME8tZF9WYWxZSnA3clVZRDMxdFRPVGVhS0t1THhnQTgzZnpOeC04UFVnZVlwb3hJN0lGZ2RPREZ4WUZ3NXVzMmdwOGN5cmtHZTZMeXRzSUllTXhPTkp3dlRwQ05UU1Z1eGN1TzI0MDlTbFVjeG9BdXl5SzRSTU51akdEbTlMU0RyMjYzazdGT0FGWnp5b1JSX19jaFR5THBLamZFaXIyQVBKR05rZG5HVW9XeFRsYzVWVVZySTNHYng2amR3eXdndmRqbg?oc=5",
+      "region": "africa",
+      "age": "Sat 17:19"
+    },
     {
       "title": "JAMB’s Canadian ambition: A $20 ticket to a system parents fought to leave",
       "source": "TechCabal",
@@ -18,32 +46,18 @@
       "age": "Fri 18:31"
     },
     {
-      "title": "EBRD Backs Nigerian Grid-Tech Startup Beacon Power Services in $20.9m Push",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/10/16/ebrd-beacon-power-services/?utm_source=rss&utm_medium=rss&utm_campaign=ebrd-beacon-power-services",
-      "region": "africa",
-      "age": "Fri 08:30"
+      "title": "The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/",
+      "region": "global",
+      "age": "Fri 20:57"
     },
     {
-      "title": "Climate Fintech Nithio Launches $150M Debt Fund to Back Africa’s Electric Vehicle Fleets",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/10/16/nithio-african-debt-fund/?utm_source=rss&utm_medium=rss&utm_campaign=nithio-african-debt-fund",
-      "region": "africa",
-      "age": "Fri 08:00"
-    },
-    {
-      "title": "Test Your Knowledge on Airtel Money’s London IPO!",
-      "source": "The Condia",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Fbk84TEZZcXVaQUVoeDduTHYwSlBXR05GWFdHWWFyX3M0ZkR4VDUydDI3cWZiVkJ2VUdlWFRoeDJTanRBd3JfeGJzdGRtbzE3bFg3SmcxYVpXLUdmQWZMcTB0QQ?oc=5",
-      "region": "africa",
-      "age": "Fri 04:35"
-    },
-    {
-      "title": "Kuunda Co-Founder Andrew Milne Dies at 54 Days After $5 Million Share Sale",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/10/16/kuunda-co-founder-andrew-milne-dies-at-54-days-after-5-million-share-sale/",
-      "region": "africa",
-      "age": "Fri 00:08"
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "region": "global",
+      "age": "Fri 19:30"
     },
     {
       "title": "Asia’s Startup Funding At Near Record High In Q3, Driven By AI",
@@ -51,23 +65,9 @@
       "link": "https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/",
       "region": "global",
       "age": "Fri 14:00"
-    },
-    {
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-      "region": "global",
-      "age": "Thu 21:00"
-    },
-    {
-      "title": "Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/",
-      "region": "global",
-      "age": "Thu 14:00"
     }
   ],
-  "digest": "• JAMB’s Canadian ambition: A $20 ticket to a system parents fought to leave — TechCabal\n• PalmPay UK posts £21.3m loss after writing off £3.65m loan — The Condia\n• EBRD Backs Nigerian Grid-Tech Startup Beacon Power Services in $20.9m Push — Launch Base Africa\n• Climate Fintech Nithio Launches $150M Debt Fund to Back Africa’s Electric Vehicle Fleets — Launch Base Africa\n• Test Your Knowledge on Airtel Money’s London IPO! — The Condia\n• Kuunda Co-Founder Andrew Milne Dies at 54 Days After $5 Million Share Sale — TechMoran\n• Asia’s Startup Funding At Near Record High In Q3, Driven By AI — Crunchbase News\n• Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16 — TechCrunch\n• Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions — Crunchbase News",
+  "digest": "• Vodacom keeps Safaricom shares as Kenyan court fast-tracks acquisition appeal — Techpoint Africa\n• 👨🏿‍🚀TechCabal Daily – A bigger piece of Cairo — TechCabal\n• SA-founded clinical AI startup Healthleap raises $38m seed, Series A funding — Disrupt Africa\n• Court hands UBA major victory in landmark ₦156bn debt recovery judgement against the Vaswani Brothers and Stallion Group — Techpoint Africa\n• JAMB’s Canadian ambition: A $20 ticket to a system parents fought to leave — TechCabal\n• PalmPay UK posts £21.3m loss after writing off £3.65m loan — The Condia\n• The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch — Crunchbase News\n• An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet — TechCrunch\n• Asia’s Startup Funding At Near Record High In Q3, Driven By AI — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
