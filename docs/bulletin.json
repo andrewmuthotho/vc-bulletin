@@ -1,21 +1,35 @@
 {
-  "date_label": "Mon 19 Oct",
-  "updated": "13:19 EAT, Mon 19 Oct 2026",
-  "count": 8,
+  "date_label": "Tue 20 Oct",
+  "updated": "10:56 EAT, Tue 20 Oct 2026",
+  "count": 9,
   "items": [
+    {
+      "title": "Disrupt Africa and Touch Inspiration Launch Accelerator to Target Non-Technical African Founders",
+      "source": "Launch Base Africa",
+      "link": "https://launchbaseafrica.com/2026/10/20/disrupt-africa-and-touch-inspiration-launch-accelerator-to-target-non-technical-african-founders/?utm_source=rss&utm_medium=rss&utm_campaign=disrupt-africa-and-touch-inspiration-launch-accelerator-to-target-non-technical-african-founders",
+      "region": "africa",
+      "age": "Tue 08:00"
+    },
+    {
+      "title": "Nedbank Completes Acquisition of 66% of Kenya’s NCBA in $850 Million-Plus Deal",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/10/19/nedbank-completes-acquisition-of-66-of-kenyas-ncba-in-850-million-plus-deal/",
+      "region": "africa",
+      "age": "Mon 20:22"
+    },
+    {
+      "title": "How Five35 Ventures made 3.5 times its investment on Complete Farmer",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/10/19/five35-ventures-complete-farmer-exit/",
+      "region": "africa",
+      "age": "Mon 18:40"
+    },
     {
       "title": "10 African startups named semi-finalists for $2m Milken-Motsepe Prize in Circular Economy",
       "source": "Disrupt Africa",
       "link": "https://disruptafrica.com/2026/10/19/10-african-startups-named-semi-finalists-for-2m-milken-motsepe-prize-in-circular-economy/?utm_source=rss&utm_medium=rss&utm_campaign=10-african-startups-named-semi-finalists-for-2m-milken-motsepe-prize-in-circular-economy",
       "region": "africa",
       "age": "Mon 12:00"
-    },
-    {
-      "title": "Vodacom keeps Safaricom shares as Kenyan court fast-tracks acquisition appeal",
-      "source": "Techpoint Africa",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZcU5IN01JREdrSmszV2J3M1VGa0lfdmR3cWQ5Y3kxWm45cTFvTDgzM1ktTGNGT0V3U2lTU2lBc1lwbUV3UFBSaVBXcC13UnE0NVV6d1U4N2FEU0NRYzlTWF9pQ2owUQ?oc=5",
-      "region": "africa",
-      "age": "Mon 10:00"
     },
     {
       "title": "👨🏿‍🚀TechCabal Daily – A bigger piece of Cairo",
@@ -32,42 +46,28 @@
       "age": "Mon 09:00"
     },
     {
-      "title": "Healthleap Secures $38M to Scale AI That Flags Overlooked Hospital Conditions",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/10/19/healthleap-funding/?utm_source=rss&utm_medium=rss&utm_campaign=healthleap-funding",
-      "region": "africa",
-      "age": "Mon 08:30"
-    },
-    {
-      "title": "The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/",
-      "region": "global",
-      "age": "Fri 20:57"
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
       "region": "global",
-      "age": "Fri 19:30"
+      "age": "Mon 21:37"
     },
     {
-      "title": "Asia’s Startup Funding At Near Record High In Q3, Driven By AI",
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "region": "global",
+      "age": "Mon 21:00"
+    },
+    {
+      "title": "LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region",
       "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/",
+      "link": "https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/",
       "region": "global",
-      "age": "Fri 14:00"
-    },
-    {
-      "title": "",
-      "source": "",
-      "link": "",
-      "region": "",
-      "age": ""
+      "age": "Mon 14:00"
     }
   ],
-  "digest": "• 10 African startups named semi-finalists for $2m Milken-Motsepe Prize in Circular Economy — Disrupt Africa\n• Vodacom keeps Safaricom shares as Kenyan court fast-tracks acquisition appeal — Techpoint Africa\n• 👨🏿‍🚀TechCabal Daily – A bigger piece of Cairo — TechCabal\n• SA-founded clinical AI startup Healthleap raises $38m seed, Series A funding — Disrupt Africa\n• Healthleap Secures $38M to Scale AI That Flags Overlooked Hospital Conditions — Launch Base Africa\n• The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch — Crunchbase News\n• An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet — TechCrunch\n• Asia’s Startup Funding At Near Record High In Q3, Driven By AI — Crunchbase News",
+  "digest": "• Disrupt Africa and Touch Inspiration Launch Accelerator to Target Non-Technical African Founders — Launch Base Africa\n• Nedbank Completes Acquisition of 66% of Kenya’s NCBA in $850 Million-Plus Deal — TechMoran\n• How Five35 Ventures made 3.5 times its investment on Complete Farmer — TechCabal\n• 10 African startups named semi-finalists for $2m Milken-Motsepe Prize in Circular Economy — Disrupt Africa\n• 👨🏿‍🚀TechCabal Daily – A bigger piece of Cairo — TechCabal\n• SA-founded clinical AI startup Healthleap raises $38m seed, Series A funding — Disrupt Africa\n• Tenstorrent hits $6.2B valuation to scale open-weight AI chips — TechCrunch\n• AI assistant startup Town nabs unicorn valuation 4 months after launch — TechCrunch\n• LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
