@@ -1,14 +1,21 @@
 {
   "date_label": "Tue 20 Oct",
-  "updated": "11:53 EAT, Tue 20 Oct 2026",
+  "updated": "12:40 EAT, Tue 20 Oct 2026",
   "count": 9,
   "items": [
     {
-      "title": "Disrupt Africa and Touch Inspiration Launch Accelerator to Target Non-Technical African Founders",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/10/20/disrupt-africa-and-touch-inspiration-launch-accelerator-to-target-non-technical-african-founders/?utm_source=rss&utm_medium=rss&utm_campaign=disrupt-africa-and-touch-inspiration-launch-accelerator-to-target-non-technical-african-founders",
+      "title": "Egypt’s Tactful AI gets backing from former e& CEO Hatem Dowidar",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/10/20/egypts-tactful-ai-gets-backing-from-former-e-ceo-hatem-dowidar/?utm_source=rss&utm_medium=rss&utm_campaign=egypts-tactful-ai-gets-backing-from-former-e-ceo-hatem-dowidar",
       "region": "africa",
-      "age": "Tue 08:00"
+      "age": "Tue 12:00"
+    },
+    {
+      "title": "Egypt’s Tech IPO Freeze Thaws as MNT-Halan Draws Record Demand",
+      "source": "Launch Base Africa",
+      "link": "https://launchbaseafrica.com/2026/10/20/mnt-halan-ipo-2/?utm_source=rss&utm_medium=rss&utm_campaign=mnt-halan-ipo-2",
+      "region": "africa",
+      "age": "Tue 08:28"
     },
     {
       "title": "Nedbank Completes Acquisition of 66% of Kenya’s NCBA in $850 Million-Plus Deal",
@@ -23,13 +30,6 @@
       "link": "https://techcabal.com/2026/10/19/five35-ventures-complete-farmer-exit/",
       "region": "africa",
       "age": "Mon 18:40"
-    },
-    {
-      "title": "10 African startups named semi-finalists for $2m Milken-Motsepe Prize in Circular Economy",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/10/19/10-african-startups-named-semi-finalists-for-2m-milken-motsepe-prize-in-circular-economy/?utm_source=rss&utm_medium=rss&utm_campaign=10-african-startups-named-semi-finalists-for-2m-milken-motsepe-prize-in-circular-economy",
-      "region": "africa",
-      "age": "Mon 12:00"
     },
     {
       "title": "👨🏿‍🚀TechCabal Daily – A bigger piece of Cairo",
@@ -67,7 +67,7 @@
       "age": "Mon 14:00"
     }
   ],
-  "digest": "• Disrupt Africa and Touch Inspiration Launch Accelerator to Target Non-Technical African Founders — Launch Base Africa\n• Nedbank Completes Acquisition of 66% of Kenya’s NCBA in $850 Million-Plus Deal — TechMoran\n• How Five35 Ventures made 3.5 times its investment on Complete Farmer — TechCabal\n• 10 African startups named semi-finalists for $2m Milken-Motsepe Prize in Circular Economy — Disrupt Africa\n• 👨🏿‍🚀TechCabal Daily – A bigger piece of Cairo — TechCabal\n• SA-founded clinical AI startup Healthleap raises $38m seed, Series A funding — Disrupt Africa\n• Tenstorrent hits $6.2B valuation to scale open-weight AI chips — TechCrunch\n• AI assistant startup Town nabs unicorn valuation 4 months after launch — TechCrunch\n• LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region — Crunchbase News",
+  "digest": "• Egypt’s Tactful AI gets backing from former e& CEO Hatem Dowidar — Disrupt Africa\n• Egypt’s Tech IPO Freeze Thaws as MNT-Halan Draws Record Demand — Launch Base Africa\n• Nedbank Completes Acquisition of 66% of Kenya’s NCBA in $850 Million-Plus Deal — TechMoran\n• How Five35 Ventures made 3.5 times its investment on Complete Farmer — TechCabal\n• 👨🏿‍🚀TechCabal Daily – A bigger piece of Cairo — TechCabal\n• SA-founded clinical AI startup Healthleap raises $38m seed, Series A funding — Disrupt Africa\n• Tenstorrent hits $6.2B valuation to scale open-weight AI chips — TechCrunch\n• AI assistant startup Town nabs unicorn valuation 4 months after launch — TechCrunch\n• LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
