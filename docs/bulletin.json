@@ -1,8 +1,15 @@
 {
   "date_label": "Wed 21 Oct",
-  "updated": "11:00 EAT, Wed 21 Oct 2026",
+  "updated": "11:54 EAT, Wed 21 Oct 2026",
   "count": 9,
   "items": [
+    {
+      "title": "African VC is getting more selective. This investor shares what it takes to get an investor's attention",
+      "source": "The Condia",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lNjJwNVZRSWxqWTZCSUxKbzIwa3ZscFpZcUpVWDBNRlVyNkRTaHU5Qmx0aUk2UUVUNUhGTkdfNzVCcnloSDk0ZWtRUFBxQ2hoSU5EbDFZTml4aWpJTkRuamFQY1kwX3R4d0lSeWdLajZHdVk?oc=5",
+      "region": "africa",
+      "age": "Wed 11:00"
+    },
     {
       "title": "MNT-Halan IPO draws 43 times retail demand as shares jump 18%",
       "source": "Techpoint Africa",
@@ -16,13 +23,6 @@
       "link": "https://disruptafrica.com/2026/10/21/egyptian-fintech-mnt-halan-begins-trading-on-egx-after-heavily-oversubscribed-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=egyptian-fintech-mnt-halan-begins-trading-on-egx-after-heavily-oversubscribed-ipo",
       "region": "africa",
       "age": "Wed 09:00"
-    },
-    {
-      "title": "Eva Ngigi Sarwari, Equity’s head of payments, dies on business trip to China",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/10/20/eva-ngigi-sarwari-equity-dies-china/",
-      "region": "africa",
-      "age": "Tue 17:19"
     },
     {
       "title": "MNT-Halan shares jump 18% on Egyptian stock market debut after $150m IPO",
@@ -67,7 +67,7 @@
       "age": "Tue 14:00"
     }
   ],
-  "digest": "• MNT-Halan IPO draws 43 times retail demand as shares jump 18% — Techpoint Africa\n• Egyptian fintech MNT-Halan begins trading on EGX after heavily oversubscribed IPO — Disrupt Africa\n• Eva Ngigi Sarwari, Equity’s head of payments, dies on business trip to China — TechCabal\n• MNT-Halan shares jump 18% on Egyptian stock market debut after $150m IPO — The Condia\n• Gabon’s first angel network is building more than a portfolio — TechCabal\n• Egypt’s Tactful AI gets backing from former e& CEO Hatem Dowidar — Disrupt Africa\n• Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull — TechCrunch\n• How To Build A Billion-Dollar Company Without Venture Capital — Crunchbase News\n• Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer — Crunchbase News",
+  "digest": "• African VC is getting more selective. This investor shares what it takes to get an investor's attention — The Condia\n• MNT-Halan IPO draws 43 times retail demand as shares jump 18% — Techpoint Africa\n• Egyptian fintech MNT-Halan begins trading on EGX after heavily oversubscribed IPO — Disrupt Africa\n• MNT-Halan shares jump 18% on Egyptian stock market debut after $150m IPO — The Condia\n• Gabon’s first angel network is building more than a portfolio — TechCabal\n• Egypt’s Tactful AI gets backing from former e& CEO Hatem Dowidar — Disrupt Africa\n• Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull — TechCrunch\n• How To Build A Billion-Dollar Company Without Venture Capital — Crunchbase News\n• Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
