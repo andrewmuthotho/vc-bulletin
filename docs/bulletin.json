@@ -1,8 +1,22 @@
 {
   "date_label": "Thu 22 Oct",
-  "updated": "10:58 EAT, Thu 22 Oct 2026",
+  "updated": "11:56 EAT, Thu 22 Oct 2026",
   "count": 9,
   "items": [
+    {
+      "title": "SA’s Happy Pay launches pay-per-sale ad platform after $6.1m pilot",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/10/22/sas-happy-pay-launches-pay-per-sale-ad-platform-after-6-1m-pilot/?utm_source=rss&utm_medium=rss&utm_campaign=sas-happy-pay-launches-pay-per-sale-ad-platform-after-6-1m-pilot",
+      "region": "africa",
+      "age": "Thu 11:00"
+    },
+    {
+      "title": "What does AI say when investors look you up?",
+      "source": "Techpoint Africa",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nTTJDcFpCVFJHSzBDSWo3LW5iYTNxOXRMeEExU3hWSUVKNnp5YXFNS1N3M3hMQy1abDlIWF9xaEZLZjR1cVhxUGtkWkxCbFFEUU1fUTNoLXNpYTQ?oc=5",
+      "region": "africa",
+      "age": "Wed 15:52"
+    },
     {
       "title": "Can You Navigate the Changing Tide of African VC?",
       "source": "The Condia",
@@ -25,25 +39,11 @@
       "age": "Wed 11:00"
     },
     {
-      "title": "Egyptian fintech MNT-Halan begins trading on EGX after heavily oversubscribed IPO",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/10/21/egyptian-fintech-mnt-halan-begins-trading-on-egx-after-heavily-oversubscribed-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=egyptian-fintech-mnt-halan-begins-trading-on-egx-after-heavily-oversubscribed-ipo",
-      "region": "africa",
-      "age": "Wed 09:00"
-    },
-    {
       "title": "Aries Media Ventures Launches Fund I to Back Underfunded Mediatech Startups in Sub-Saharan Africa",
       "source": "Launch Base Africa",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUU1TVRjVktrTTFiRkdseFI2d002WHNpNXViLTFFYkY2bFpvQzFVelJ2c284R1IzT05jYzVMN2t1Y0lfWGlfa0xtcUhfTUQ4N0NnQWFwTWVGek5STlBTRTBZRXhjbWxhSHZ6Tkp1RG02OHpRUFl6UHp0d1doMzVUc1ZDNkg?oc=5",
       "region": "africa",
       "age": "Wed 08:30"
-    },
-    {
-      "title": "9,228 Daily Swaps: Egyptian Billionaire-Backed Blu EV Tests the Limits of Battery-as-a-Service in MENA",
-      "source": "Launch Base Africa",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORE9vQ1U5cEduTms2aVhWTklzR2x5cmoyZmFUQjBvWHhFa3FrekhkUDFtWmZFdGZ6NXY1YjZJUXFOdC1Gc1hTb0hINTBhcFFtRHlHVm8tbklITl9mUXlCaDRXaW01WDRaM0pEc3JiYUZpRTJmUV9JdU8yYjJFSFdlWmhsSUxvelNBblBsb1RKWE1ScjRPOURXV3c4OWVieHVQd2NEdnphYThTQ1BZWDcyN05DcS0xNXZIWi1DQXYxV0JOM3JyTFhVTHVRRUJnc2FGaU1NWWN4SWc?oc=5",
-      "region": "africa",
-      "age": "Wed 08:20"
     },
     {
       "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
@@ -67,7 +67,7 @@
       "age": "Wed 14:00"
     }
   ],
-  "digest": "• Can You Navigate the Changing Tide of African VC? — The Condia\n• 3 Nigerian startups selected for MARL’s global accelerator — Disrupt Africa\n• African VC is getting more selective. This investor shares what it takes to get an investor's attention — The Condia\n• Egyptian fintech MNT-Halan begins trading on EGX after heavily oversubscribed IPO — Disrupt Africa\n• Aries Media Ventures Launches Fund I to Back Underfunded Mediatech Startups in Sub-Saharan Africa — Launch Base Africa\n• 9,228 Daily Swaps: Egyptian Billionaire-Backed Blu EV Tests the Limits of Battery-as-a-Service in MENA — Launch Base Africa\n• Legal AI startup Legora raises $550M Series E at $8.8B valuation — TechCrunch\n• Blacksmith hits unicorn valuation after Sequoia leads Series C — TechCrunch\n• When A Startup Sells, Its Employees’ Equity Plans Can Change Overnight — Crunchbase News",
+  "digest": "• SA’s Happy Pay launches pay-per-sale ad platform after $6.1m pilot — Disrupt Africa\n• What does AI say when investors look you up? — Techpoint Africa\n• Can You Navigate the Changing Tide of African VC? — The Condia\n• 3 Nigerian startups selected for MARL’s global accelerator — Disrupt Africa\n• African VC is getting more selective. This investor shares what it takes to get an investor's attention — The Condia\n• Aries Media Ventures Launches Fund I to Back Underfunded Mediatech Startups in Sub-Saharan Africa — Launch Base Africa\n• Legal AI startup Legora raises $550M Series E at $8.8B valuation — TechCrunch\n• Blacksmith hits unicorn valuation after Sequoia leads Series C — TechCrunch\n• When A Startup Sells, Its Employees’ Equity Plans Can Change Overnight — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
