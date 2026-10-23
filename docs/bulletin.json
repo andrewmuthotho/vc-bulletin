@@ -1,8 +1,29 @@
 {
-  "date_label": "Thu 22 Oct",
-  "updated": "12:40 EAT, Thu 22 Oct 2026",
-  "count": 9,
+  "date_label": "Fri 23 Oct",
+  "updated": "10:57 EAT, Fri 23 Oct 2026",
+  "count": 8,
   "items": [
+    {
+      "title": "👨🏿‍🚀TechCabal Daily – Equity, but make it liquid",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/10/23/techcabal-daily-equity-but-make-it-liquid/",
+      "region": "africa",
+      "age": "Fri 09:16"
+    },
+    {
+      "title": "Kenyan startup StudyLabAI gives students an AI tutor built on their own course material",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/10/23/kenyan-startup-studylabai-gives-students-an-ai-tutor-built-on-their-own-course-material/?utm_source=rss&utm_medium=rss&utm_campaign=kenyan-startup-studylabai-gives-students-an-ai-tutor-built-on-their-own-course-material",
+      "region": "africa",
+      "age": "Fri 09:00"
+    },
+    {
+      "title": "SCOOP: Lagos Life’s parent company is in talks to raise a $2.5 million pre-seed round",
+      "source": "The Condia",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQzlfVEdJQVQ2VmpJWFJfYldFeE9PU0FwX2h3MWNrX3RjRjVpX2xxVUFHV3VBM0ROXzRSdUtwT0F3VV9xTHVIbDJCNzFMZmFLUFYxR2FsVnFjRlMxYkt5YXVZOUFoNFJZd3VXR2xtRmR1NFRXNWtJOGZGZjNxRHhUZEt3?oc=5",
+      "region": "africa",
+      "age": "Thu 20:27"
+    },
     {
       "title": "Egyptian prop-tech Aqar Exit raises $183k funding",
       "source": "Disrupt Africa",
@@ -11,63 +32,42 @@
       "age": "Thu 12:00"
     },
     {
-      "title": "What does AI say when investors look you up?",
-      "source": "Techpoint Africa",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nTTJDcFpCVFJHSzBDSWo3LW5iYTNxOXRMeEExU3hWSUVKNnp5YXFNS1N3M3hMQy1abDlIWF9xaEZLZjR1cVhxUGtkWkxCbFFEUU1fUTNoLXNpYTQ?oc=5",
-      "region": "africa",
-      "age": "Wed 15:52"
-    },
-    {
-      "title": "Can You Navigate the Changing Tide of African VC?",
-      "source": "The Condia",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MdmpYenlUUHoyVk5ITnNxYWIzZW5uNGFYR1dHZkVrejV6Yl9LWldnenEwdlpReTNZUjVOYlVjY2RjYVQ1NW5TX2dCVGNEOExGdmtEcldfUGxqOE9FZmxVMGJncWlRNmZ0aDhlWS13?oc=5",
-      "region": "africa",
-      "age": "Wed 13:25"
-    },
-    {
-      "title": "3 Nigerian startups selected for MARL’s global accelerator",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/10/21/3-nigerian-startups-selected-for-marls-global-accelerator/?utm_source=rss&utm_medium=rss&utm_campaign=3-nigerian-startups-selected-for-marls-global-accelerator",
-      "region": "africa",
-      "age": "Wed 12:00"
-    },
-    {
-      "title": "African VC is getting more selective. This investor shares what it takes to get an investor's attention",
-      "source": "The Condia",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lNjJwNVZRSWxqWTZCSUxKbzIwa3ZscFpZcUpVWDBNRlVyNkRTaHU5Qmx0aUk2UUVUNUhGTkdfNzVCcnloSDk0ZWtRUFBxQ2hoSU5EbDFZTml4aWpJTkRuamFQY1kwX3R4d0lSeWdLajZHdVk?oc=5",
-      "region": "africa",
-      "age": "Wed 11:00"
-    },
-    {
-      "title": "Aries Media Ventures Launches Fund I to Back Underfunded Mediatech Startups in Sub-Saharan Africa",
+      "title": "Khazna Joins Egypt’s Consumer Finance M&A Rush With Pharos Acquisition",
       "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/10/21/aries-media-ventures-africa-mediatech/?utm_source=rss&utm_medium=rss&utm_campaign=aries-media-ventures-africa-mediatech",
+      "link": "https://launchbaseafrica.com/2026/10/22/khazna-consumer-finance-license/?utm_source=rss&utm_medium=rss&utm_campaign=khazna-consumer-finance-license",
       "region": "africa",
-      "age": "Wed 08:30"
+      "age": "Thu 08:30"
     },
     {
-      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
       "region": "global",
-      "age": "Wed 21:51"
+      "age": "Fri 02:15"
     },
     {
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "title": "Investors break down how founders can raise a Series A today",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "link": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
       "region": "global",
-      "age": "Wed 20:18"
+      "age": "Thu 18:15"
     },
     {
-      "title": "When A Startup Sells, Its Employees’ Equity Plans Can Change Overnight",
+      "title": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout",
       "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/ma/acquired-startup-employees-equity-plans-from-honig/",
+      "link": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
       "region": "global",
-      "age": "Wed 14:00"
+      "age": "Thu 16:00"
+    },
+    {
+      "title": "",
+      "source": "",
+      "link": "",
+      "region": "",
+      "age": ""
     }
   ],
-  "digest": "• Egyptian prop-tech Aqar Exit raises $183k funding — Disrupt Africa\n• What does AI say when investors look you up? — Techpoint Africa\n• Can You Navigate the Changing Tide of African VC? — The Condia\n• 3 Nigerian startups selected for MARL’s global accelerator — Disrupt Africa\n• African VC is getting more selective. This investor shares what it takes to get an investor's attention — The Condia\n• Aries Media Ventures Launches Fund I to Back Underfunded Mediatech Startups in Sub-Saharan Africa — Launch Base Africa\n• Legal AI startup Legora raises $550M Series E at $8.8B valuation — TechCrunch\n• Blacksmith hits unicorn valuation after Sequoia leads Series C — TechCrunch\n• When A Startup Sells, Its Employees’ Equity Plans Can Change Overnight — Crunchbase News",
+  "digest": "• 👨🏿‍🚀TechCabal Daily – Equity, but make it liquid — TechCabal\n• Kenyan startup StudyLabAI gives students an AI tutor built on their own course material — Disrupt Africa\n• SCOOP: Lagos Life’s parent company is in talks to raise a $2.5 million pre-seed round — The Condia\n• Egyptian prop-tech Aqar Exit raises $183k funding — Disrupt Africa\n• Khazna Joins Egypt’s Consumer Finance M&A Rush With Pharos Acquisition — Launch Base Africa\n• Warhound raises $200M to engineer war dogs and arm them with Anduril gear — TechCrunch\n• Investors break down how founders can raise a Series A today — TechCrunch\n• Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
