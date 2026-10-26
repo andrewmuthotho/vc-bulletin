@@ -1,14 +1,28 @@
 {
   "date_label": "Mon 26 Oct",
-  "updated": "11:08 EAT, Mon 26 Oct 2026",
-  "count": 9,
+  "updated": "12:23 EAT, Mon 26 Oct 2026",
+  "count": 7,
   "items": [
     {
-      "title": "👨🏿‍🚀TechCabal Daily – OPay wants $336 million",
+      "title": "Nigeria to get two new AI-ready data centres in a $1 billion investment",
       "source": "TechCabal",
-      "link": "https://techcabal.com/2026/10/26/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-opay-wants-336-million/",
+      "link": "https://techcabal.com/2026/10/26/infragora-1-billion-data-centres/",
       "region": "africa",
-      "age": "Mon 09:16"
+      "age": "Mon 12:19"
+    },
+    {
+      "title": "Tanzania’s Medikea raises $1.2 million to expand integrated healthcare network",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/10/26/medikea-raises-1-2-million/",
+      "region": "africa",
+      "age": "Mon 12:16"
+    },
+    {
+      "title": "Tanzanian e-health startup Medikea raises $1.2m pre-seed funding",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/10/26/tanzanian-e-health-startup-medikea-raises-1-2m-pre-seed-funding/?utm_source=rss&utm_medium=rss&utm_campaign=tanzanian-e-health-startup-medikea-raises-1-2m-pre-seed-funding",
+      "region": "africa",
+      "age": "Mon 12:00"
     },
     {
       "title": "What Silicon Valley playbooks get wrong about African markets",
@@ -16,34 +30,6 @@
       "link": "https://disruptafrica.com/2026/10/26/what-silicon-valley-playbooks-get-wrong-about-african-markets/?utm_source=rss&utm_medium=rss&utm_campaign=what-silicon-valley-playbooks-get-wrong-about-african-markets",
       "region": "africa",
       "age": "Mon 09:00"
-    },
-    {
-      "title": "Endeavor Catalyst Raises $320 Million to Back Startups Beyond Silicon Valley",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/10/24/endeavor-catalyst-raises-320-million-to-back-startups-beyond-silicon-valley/",
-      "region": "africa",
-      "age": "Sat 00:03"
-    },
-    {
-      "title": "Beneath the headline: African tech funding, January–September 2026",
-      "source": "The Condia",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VUjVlUmJySm5UZW0xcGQxakxLY1V6dUxVZTBTWlp5d2hmeGJkQnBqQUhWeEwtWXFfYlE3QTVHQXZLSlhKTjI3MkZ4VE1iUVpCMEdJMlZsQl93aV9HN2FUWWVlckR3MnFNU2c?oc=5",
-      "region": "africa",
-      "age": "Fri 16:50"
-    },
-    {
-      "title": "Africa’s deep tech ambitions are running into an ecosystem raised on software",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/10/23/africa-deep-tech-ambitions-software/",
-      "region": "africa",
-      "age": "Fri 15:47"
-    },
-    {
-      "title": "Saudi Event-Tech Startup INVE Raises $300,000 in Pre-Seed Funding from Outliers VC",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/10/23/saudi-event-tech-startup-inve-raises-300000-in-pre-seed-funding-from-outliers-vc/",
-      "region": "africa",
-      "age": "Fri 15:18"
     },
     {
       "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
@@ -65,9 +51,23 @@
       "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
       "region": "global",
       "age": "Fri 19:02"
+    },
+    {
+      "title": "",
+      "source": "",
+      "link": "",
+      "region": "",
+      "age": ""
+    },
+    {
+      "title": "",
+      "source": "",
+      "link": "",
+      "region": "",
+      "age": ""
     }
   ],
-  "digest": "• 👨🏿‍🚀TechCabal Daily – OPay wants $336 million — TechCabal\n• What Silicon Valley playbooks get wrong about African markets — Disrupt Africa\n• Endeavor Catalyst Raises $320 Million to Back Startups Beyond Silicon Valley — TechMoran\n• Beneath the headline: African tech funding, January–September 2026 — The Condia\n• Africa’s deep tech ambitions are running into an ecosystem raised on software — TechCabal\n• Saudi Event-Tech Startup INVE Raises $300,000 in Pre-Seed Funding from Outliers VC — TechMoran\n• VCs, Superhuman Mail founder share red flags about product-market fit — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings — Crunchbase News\n• What some of Anthropic’s backers are worth before its IPO — TechCrunch",
+  "digest": "• Nigeria to get two new AI-ready data centres in a $1 billion investment — TechCabal\n• Tanzania’s Medikea raises $1.2 million to expand integrated healthcare network — TechCabal\n• Tanzanian e-health startup Medikea raises $1.2m pre-seed funding — Disrupt Africa\n• What Silicon Valley playbooks get wrong about African markets — Disrupt Africa\n• VCs, Superhuman Mail founder share red flags about product-market fit — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings — Crunchbase News\n• What some of Anthropic’s backers are worth before its IPO — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
