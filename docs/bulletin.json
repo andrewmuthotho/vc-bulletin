@@ -1,8 +1,22 @@
 {
   "date_label": "Mon 26 Oct",
-  "updated": "12:23 EAT, Mon 26 Oct 2026",
-  "count": 7,
+  "updated": "13:34 EAT, Mon 26 Oct 2026",
+  "count": 9,
   "items": [
+    {
+      "title": "Nigerian buy now, pay later startup Klump announces shutdown, says it declined an acquisition offer",
+      "source": "Techpoint Africa",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GaTB6UnlNVEM4bFJkZnQ2c1JKbGxBZnl3XzZOMTRVMnY2TGROdnhoWm9QcTVGdkdwWUtWSFBOaWRqS2NlbEpzdFZCZ3VNeXBLemwyTHNJSXFpUUU?oc=5",
+      "region": "africa",
+      "age": "Mon 12:36"
+    },
+    {
+      "title": "Airtel Money Revenue Climbs 34% to $830 Million as Digital Finance Growth Accelerates",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/10/26/airtel-money-revenue-climbs-34-to-830-million-as-digital-finance-growth-accelerates/",
+      "region": "africa",
+      "age": "Mon 12:34"
+    },
     {
       "title": "Nigeria to get two new AI-ready data centres in a $1 billion investment",
       "source": "TechCabal",
@@ -51,23 +65,9 @@
       "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
       "region": "global",
       "age": "Fri 19:02"
-    },
-    {
-      "title": "",
-      "source": "",
-      "link": "",
-      "region": "",
-      "age": ""
-    },
-    {
-      "title": "",
-      "source": "",
-      "link": "",
-      "region": "",
-      "age": ""
     }
   ],
-  "digest": "• Nigeria to get two new AI-ready data centres in a $1 billion investment — TechCabal\n• Tanzania’s Medikea raises $1.2 million to expand integrated healthcare network — TechCabal\n• Tanzanian e-health startup Medikea raises $1.2m pre-seed funding — Disrupt Africa\n• What Silicon Valley playbooks get wrong about African markets — Disrupt Africa\n• VCs, Superhuman Mail founder share red flags about product-market fit — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings — Crunchbase News\n• What some of Anthropic’s backers are worth before its IPO — TechCrunch",
+  "digest": "• Nigerian buy now, pay later startup Klump announces shutdown, says it declined an acquisition offer — Techpoint Africa\n• Airtel Money Revenue Climbs 34% to $830 Million as Digital Finance Growth Accelerates — TechMoran\n• Nigeria to get two new AI-ready data centres in a $1 billion investment — TechCabal\n• Tanzania’s Medikea raises $1.2 million to expand integrated healthcare network — TechCabal\n• Tanzanian e-health startup Medikea raises $1.2m pre-seed funding — Disrupt Africa\n• What Silicon Valley playbooks get wrong about African markets — Disrupt Africa\n• VCs, Superhuman Mail founder share red flags about product-market fit — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings — Crunchbase News\n• What some of Anthropic’s backers are worth before its IPO — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
