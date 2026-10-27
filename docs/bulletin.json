@@ -1,8 +1,15 @@
 {
   "date_label": "Tue 27 Oct",
-  "updated": "11:23 EAT, Tue 27 Oct 2026",
+  "updated": "12:22 EAT, Tue 27 Oct 2026",
   "count": 8,
   "items": [
+    {
+      "title": "South Africa’s CrissCross raises undisclosed Circle Ventures investment in stablecoin push",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/10/27/crisscross-raises-funds/",
+      "region": "africa",
+      "age": "Tue 11:25"
+    },
     {
       "title": "Court rejects Uber Kenya’s bid to exit riders’ deactivation case",
       "source": "Techpoint Africa",
@@ -16,13 +23,6 @@
       "link": "https://techcabal.com/2026/10/26/dpi-closes-112-million-nclude-fund/",
       "region": "africa",
       "age": "Mon 18:13"
-    },
-    {
-      "title": "Nigeria to get two new AI-ready data centres in a $1 billion investment",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/10/26/infragora-1-billion-data-centres/",
-      "region": "africa",
-      "age": "Mon 12:19"
     },
     {
       "title": "Tanzanian e-health startup Medikea raises $1.2m pre-seed funding",
@@ -67,7 +67,7 @@
       "age": ""
     }
   ],
-  "digest": "• Court rejects Uber Kenya’s bid to exit riders’ deactivation case — Techpoint Africa\n• DPI closes $112 million Nclude fund with 93% of capital from Africa — TechCabal\n• Nigeria to get two new AI-ready data centres in a $1 billion investment — TechCabal\n• Tanzanian e-health startup Medikea raises $1.2m pre-seed funding — Disrupt Africa\n• What Silicon Valley playbooks get wrong about African markets — Disrupt Africa\n• Ghanaian Agritech Vitara Bags $2M From EU-Backed AgriFI and Acumen to Digitise Shea Supply Chain — Launch Base Africa\n• Some Observations About Anthropic’s IPO Filing — Crunchbase News\n• California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year — Crunchbase News",
+  "digest": "• South Africa’s CrissCross raises undisclosed Circle Ventures investment in stablecoin push — TechCabal\n• Court rejects Uber Kenya’s bid to exit riders’ deactivation case — Techpoint Africa\n• DPI closes $112 million Nclude fund with 93% of capital from Africa — TechCabal\n• Tanzanian e-health startup Medikea raises $1.2m pre-seed funding — Disrupt Africa\n• What Silicon Valley playbooks get wrong about African markets — Disrupt Africa\n• Ghanaian Agritech Vitara Bags $2M From EU-Backed AgriFI and Acumen to Digitise Shea Supply Chain — Launch Base Africa\n• Some Observations About Anthropic’s IPO Filing — Crunchbase News\n• California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
