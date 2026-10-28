@@ -1,8 +1,36 @@
 {
-  "date_label": "Tue 27 Oct",
-  "updated": "13:04 EAT, Tue 27 Oct 2026",
-  "count": 8,
+  "date_label": "Wed 28 Oct",
+  "updated": "12:00 EAT, Wed 28 Oct 2026",
+  "count": 9,
   "items": [
+    {
+      "title": "Applications open for Cape Venture Bridge programme for Western Cape startups",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/10/28/applications-open-for-cape-venture-bridge-programme-for-western-cape-startups/?utm_source=rss&utm_medium=rss&utm_campaign=applications-open-for-cape-venture-bridge-programme-for-western-cape-startups",
+      "region": "africa",
+      "age": "Wed 10:00"
+    },
+    {
+      "title": "Rwanda files $386 million counterclaim against South Korea’s telco",
+      "source": "Techpoint Africa",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzN2Z1cUhLOUZSbWlHT25OLVg4RXNPenRWSE04RGIwb3BlMDZidl93TGl0aFIzM0g1YVJMdzNjYnJwYWVpOGFadkU4bE80ZlVaYndva29VTTFfRVd1a3U0cWR1anB0UQ?oc=5",
+      "region": "africa",
+      "age": "Wed 10:00"
+    },
+    {
+      "title": "Madica Secures $6 Million from Flourish Ventures to Back 30 More African Startups",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/10/27/madica-secures-6-million-from-flourish-ventures-to-back-30-more-african-startups/",
+      "region": "africa",
+      "age": "Tue 23:38"
+    },
+    {
+      "title": "Flourish Ventures invests fresh $6 million in Madica’s startup programme",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/10/27/madica-raise-6-million/",
+      "region": "africa",
+      "age": "Tue 19:00"
+    },
     {
       "title": "South Africa’s CrissCross raises undisclosed Circle Ventures investment in stablecoin push",
       "source": "TechCabal",
@@ -11,63 +39,35 @@
       "age": "Tue 11:25"
     },
     {
-      "title": "Court rejects Uber Kenya’s bid to exit riders’ deactivation case",
-      "source": "Techpoint Africa",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBidFBZdGJBbUtlM25RUmVWY0t5NExQUG9KT1VuMXJ3dTFVdXBQbXk3a2dzUHZPNGVDUnVtT3d5Smh0ZkkwdEdnTFZaMFhkX1J0UERKUFVsQzFQUVczN3ljZjNWZi1xdw?oc=5",
-      "region": "africa",
-      "age": "Tue 10:00"
-    },
-    {
-      "title": "DPI closes $112 million Nclude fund with 93% of capital from Africa",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/10/26/dpi-closes-112-million-nclude-fund/",
-      "region": "africa",
-      "age": "Mon 18:13"
-    },
-    {
-      "title": "Tanzanian e-health startup Medikea raises $1.2m pre-seed funding",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/10/26/tanzanian-e-health-startup-medikea-raises-1-2m-pre-seed-funding/?utm_source=rss&utm_medium=rss&utm_campaign=tanzanian-e-health-startup-medikea-raises-1-2m-pre-seed-funding",
-      "region": "africa",
-      "age": "Mon 12:00"
-    },
-    {
-      "title": "What Silicon Valley playbooks get wrong about African markets",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/10/26/what-silicon-valley-playbooks-get-wrong-about-african-markets/?utm_source=rss&utm_medium=rss&utm_campaign=what-silicon-valley-playbooks-get-wrong-about-african-markets",
-      "region": "africa",
-      "age": "Mon 09:00"
-    },
-    {
-      "title": "Ghanaian Agritech Vitara Bags $2M From EU-Backed AgriFI and Acumen to Digitise Shea Supply Chain",
+      "title": "Madica Secures $6M from Flourish Ventures to Extend African Pre-Seed Investment Pilot",
       "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/10/26/vitara-agritech-funding/?utm_source=rss&utm_medium=rss&utm_campaign=vitara-agritech-funding",
+      "link": "https://launchbaseafrica.com/2026/10/27/madica-secures-6m-from-flourish-ventures-to-extend-african-pre-seed-investment-pilot/?utm_source=rss&utm_medium=rss&utm_campaign=madica-secures-6m-from-flourish-ventures-to-extend-african-pre-seed-investment-pilot",
       "region": "africa",
-      "age": "Mon 08:43"
+      "age": "Tue 08:30"
     },
     {
-      "title": "Some Observations About Anthropic’s IPO Filing",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/",
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
       "region": "global",
-      "age": "Mon 23:10"
+      "age": "Wed 01:17"
     },
     {
-      "title": "California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
       "region": "global",
-      "age": "Mon 14:00"
+      "age": "Tue 21:55"
     },
     {
-      "title": "",
-      "source": "",
-      "link": "",
-      "region": "",
-      "age": ""
+      "title": "Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/",
+      "region": "global",
+      "age": "Tue 14:00"
     }
   ],
-  "digest": "• South Africa’s CrissCross raises undisclosed Circle Ventures investment in stablecoin push — TechCabal\n• Court rejects Uber Kenya’s bid to exit riders’ deactivation case — Techpoint Africa\n• DPI closes $112 million Nclude fund with 93% of capital from Africa — TechCabal\n• Tanzanian e-health startup Medikea raises $1.2m pre-seed funding — Disrupt Africa\n• What Silicon Valley playbooks get wrong about African markets — Disrupt Africa\n• Ghanaian Agritech Vitara Bags $2M From EU-Backed AgriFI and Acumen to Digitise Shea Supply Chain — Launch Base Africa\n• Some Observations About Anthropic’s IPO Filing — Crunchbase News\n• California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year — Crunchbase News",
+  "digest": "• Applications open for Cape Venture Bridge programme for Western Cape startups — Disrupt Africa\n• Rwanda files $386 million counterclaim against South Korea’s telco — Techpoint Africa\n• Madica Secures $6 Million from Flourish Ventures to Back 30 More African Startups — TechMoran\n• Flourish Ventures invests fresh $6 million in Madica’s startup programme — TechCabal\n• South Africa’s CrissCross raises undisclosed Circle Ventures investment in stablecoin push — TechCabal\n• Madica Secures $6M from Flourish Ventures to Extend African Pre-Seed Investment Pilot — Launch Base Africa\n• From 8VC to Benchmark, here’s what’s hiding in October SEC filings — TechCrunch\n• Disruptive raises $10B fund to make big bets on at least 10 companies — TechCrunch\n• Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
