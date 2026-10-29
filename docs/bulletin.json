@@ -1,6 +1,6 @@
 {
   "date_label": "Thu 29 Oct",
-  "updated": "13:26 EAT, Thu 29 Oct 2026",
+  "updated": "14:08 EAT, Thu 29 Oct 2026",
   "count": 9,
   "items": [
     {
@@ -46,28 +46,28 @@
       "age": "Wed 08:00"
     },
     {
+      "title": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
+      "region": "global",
+      "age": "Thu 14:00"
+    },
+    {
+      "title": "Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/",
+      "region": "global",
+      "age": "Thu 14:00"
+    },
+    {
       "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
       "region": "global",
       "age": "Wed 16:00"
-    },
-    {
-      "title": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
-      "region": "global",
-      "age": "Wed 15:00"
-    },
-    {
-      "title": "The Invisible Graph: How Companies Grow Revenue And Still Lose Value",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/ma/grow-revenue-lose-enterprise-value-sagie/",
-      "region": "global",
-      "age": "Wed 14:00"
     }
   ],
-  "digest": "• Madica secures $6m from Flourish Ventures to extend African pre-seed investment pilot — Disrupt Africa\n• BII Backs Okra Solar with $7m Debt Facility to Scale Mesh-Grids in Nigeria — Launch Base Africa\n• Talent Nation Raises Pre-Seed Funding to Train 1 Million African AI Engineers — TechMoran\n• Cascador, Sterling Bank Target $1 Billion in Nigerian Startup Loans — TechMoran\n• Investable.Africa launches platform to connect African startups with investors — Disrupt Africa\n• DPI Takes Egypt’s $112m Nclude Fund Regional — Launch Base Africa\n• 7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open — TechCrunch\n• Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label — Crunchbase News\n• The Invisible Graph: How Companies Grow Revenue And Still Lose Value — Crunchbase News",
+  "digest": "• Madica secures $6m from Flourish Ventures to extend African pre-seed investment pilot — Disrupt Africa\n• BII Backs Okra Solar with $7m Debt Facility to Scale Mesh-Grids in Nigeria — Launch Base Africa\n• Talent Nation Raises Pre-Seed Funding to Train 1 Million African AI Engineers — TechMoran\n• Cascador, Sterling Bank Target $1 Billion in Nigerian Startup Loans — TechMoran\n• Investable.Africa launches platform to connect African startups with investors — Disrupt Africa\n• DPI Takes Egypt’s $112m Nclude Fund Regional — Launch Base Africa\n• Series B Funding Is Up, But Fewer Deals Are Getting Done — Crunchbase News\n• Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups — Crunchbase News\n• 7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
