@@ -1,6 +1,6 @@
 {
   "date_label": "Fri 30 Oct",
-  "updated": "13:28 EAT, Fri 30 Oct 2026",
+  "updated": "14:03 EAT, Fri 30 Oct 2026",
   "count": 9,
   "items": [
     {
@@ -71,15 +71,14 @@
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
+    "Techpoint Africa",
+    "WeeTracker",
     "TechMoran",
     "Launch Base Africa",
+    "The Condia",
+    "Africa: The Big Deal",
     "TechCrunch",
     "Crunchbase News"
   ],
-  "sources_failed": [
-    "Techpoint Africa",
-    "WeeTracker",
-    "The Condia",
-    "Africa: The Big Deal"
-  ]
+  "sources_failed": []
 }
