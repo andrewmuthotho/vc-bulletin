@@ -1,6 +1,6 @@
 {
   "date_label": "Sun 01 Nov",
-  "updated": "13:49 EAT, Sun 01 Nov 2026",
+  "updated": "14:31 EAT, Sun 01 Nov 2026",
   "count": 9,
   "items": [
     {
@@ -46,28 +46,28 @@
       "age": "Thu 21:54"
     },
     {
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "region": "global",
+      "age": "Sat 07:16"
+    },
+    {
+      "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/",
+      "region": "global",
+      "age": "Fri 14:00"
+    },
+    {
       "title": "OpenAI-backed Thrive Holdings acquires ADT",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "region": "global",
       "age": "Thu 22:56"
-    },
-    {
-      "title": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
-      "region": "global",
-      "age": "Thu 14:00"
-    },
-    {
-      "title": "Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/",
-      "region": "global",
-      "age": "Thu 14:00"
     }
   ],
-  "digest": "• OPay Scraps $304 Million US IPO Following Regulatory Probe — TechMoran\n• Iyinoluwa Aboyeji-backed Talent Nation Bags Pre-Seed Funding To Raise 1M African AI Engineers — WeeTracker\n• Madica Secures USD 6 M From Flourish Ventures To Back More African Startups — WeeTracker\n• Aboyeji-backed AI engineering talent platform Talent Nation raises pre-seed funding — Disrupt Africa\n• Kenafric Tests the Corporate VC Playbook for African Consumer Startups with $10M Fund — Launch Base Africa\n• Tanzanian Health Startup Medikea Raises $1.2 Million to Own Care, Not Just Connect It — TechMoran\n• OpenAI-backed Thrive Holdings acquires ADT — TechCrunch\n• Series B Funding Is Up, But Fewer Deals Are Getting Done — Crunchbase News\n• Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups — Crunchbase News",
+  "digest": "• OPay Scraps $304 Million US IPO Following Regulatory Probe — TechMoran\n• Iyinoluwa Aboyeji-backed Talent Nation Bags Pre-Seed Funding To Raise 1M African AI Engineers — WeeTracker\n• Madica Secures USD 6 M From Flourish Ventures To Back More African Startups — WeeTracker\n• Aboyeji-backed AI engineering talent platform Talent Nation raises pre-seed funding — Disrupt Africa\n• Kenafric Tests the Corporate VC Playbook for African Consumer Startups with $10M Fund — Launch Base Africa\n• Tanzanian Health Startup Medikea Raises $1.2 Million to Own Care, Not Just Connect It — TechMoran\n• Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up — TechCrunch\n• Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push — Crunchbase News\n• OpenAI-backed Thrive Holdings acquires ADT — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
