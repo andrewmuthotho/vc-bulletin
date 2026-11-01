@@ -1,8 +1,15 @@
 {
-  "date_label": "Sat 31 Oct",
-  "updated": "13:37 EAT, Sat 31 Oct 2026",
+  "date_label": "Sun 01 Nov",
+  "updated": "12:46 EAT, Sun 01 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "OPay Scraps $304 Million US IPO Following Regulatory Probe",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/10/31/opay-scraps-304-million-us-ipo-following-regulatory-probe/",
+      "region": "africa",
+      "age": "Sat 22:23"
+    },
     {
       "title": "Iyinoluwa Aboyeji-backed Talent Nation Bags Pre-Seed Funding To Raise 1M African AI Engineers",
       "source": "WeeTracker",
@@ -16,13 +23,6 @@
       "link": "https://weetracker.com/2026/10/30/madica-secures-6m-flourish-ventures-african-startups/",
       "region": "africa",
       "age": "Fri 17:25"
-    },
-    {
-      "title": "Exclusive: CredPal launches Atom, an investment platform, as it expands beyond buy now, pay later",
-      "source": "The Condia",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PdTlqaG9haGZpb1NLVGlWaEFzcU5ZU0prRzJVekVmMDJpQ0ZtZnQtRnB3amZuQnYyRE5uSTY0a3FxbzFvNGRZMzVIbnRCbTdoaTBmbjkxbWEwSkZZR1pQU2RkU1Z6MkduMnFKMHgyTHdqLTBwWHBB?oc=5",
-      "region": "africa",
-      "age": "Fri 17:04"
     },
     {
       "title": "Aboyeji-backed AI engineering talent platform Talent Nation raises pre-seed funding",
@@ -39,35 +39,35 @@
       "age": "Fri 08:15"
     },
     {
-      "title": "Inside Nigeria’s $7.5M Gates-backed AI scaling hub",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/10/29/nigeria-7-5m-gates-backed-ai-scaling-hub/",
+      "title": "Tanzanian Health Startup Medikea Raises $1.2 Million to Own Care, Not Just Connect It",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/10/29/tanzanian-health-startup-medikea-raises-1-2-million-to-own-care-not-just-connect-it/",
       "region": "africa",
-      "age": "Fri 01:51"
+      "age": "Thu 21:54"
     },
     {
-      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "region": "global",
-      "age": "Sat 07:16"
+      "age": "Thu 22:56"
     },
     {
-      "title": "The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup",
+      "title": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
       "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
+      "link": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
       "region": "global",
-      "age": "Fri 19:33"
+      "age": "Thu 14:00"
     },
     {
-      "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
+      "title": "Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups",
       "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/",
+      "link": "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/",
       "region": "global",
-      "age": "Fri 14:00"
+      "age": "Thu 14:00"
     }
   ],
-  "digest": "• Iyinoluwa Aboyeji-backed Talent Nation Bags Pre-Seed Funding To Raise 1M African AI Engineers — WeeTracker\n• Madica Secures USD 6 M From Flourish Ventures To Back More African Startups — WeeTracker\n• Exclusive: CredPal launches Atom, an investment platform, as it expands beyond buy now, pay later — The Condia\n• Aboyeji-backed AI engineering talent platform Talent Nation raises pre-seed funding — Disrupt Africa\n• Kenafric Tests the Corporate VC Playbook for African Consumer Startups with $10M Fund — Launch Base Africa\n• Inside Nigeria’s $7.5M Gates-backed AI scaling hub — TechCabal\n• Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup — Crunchbase News\n• Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push — Crunchbase News",
+  "digest": "• OPay Scraps $304 Million US IPO Following Regulatory Probe — TechMoran\n• Iyinoluwa Aboyeji-backed Talent Nation Bags Pre-Seed Funding To Raise 1M African AI Engineers — WeeTracker\n• Madica Secures USD 6 M From Flourish Ventures To Back More African Startups — WeeTracker\n• Aboyeji-backed AI engineering talent platform Talent Nation raises pre-seed funding — Disrupt Africa\n• Kenafric Tests the Corporate VC Playbook for African Consumer Startups with $10M Fund — Launch Base Africa\n• Tanzanian Health Startup Medikea Raises $1.2 Million to Own Care, Not Just Connect It — TechMoran\n• OpenAI-backed Thrive Holdings acquires ADT — TechCrunch\n• Series B Funding Is Up, But Fewer Deals Are Getting Done — Crunchbase News\n• Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
