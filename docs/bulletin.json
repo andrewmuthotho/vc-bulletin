@@ -1,6 +1,6 @@
 {
   "date_label": "Mon 02 Nov",
-  "updated": "13:00 EAT, Mon 02 Nov 2026",
+  "updated": "14:42 EAT, Mon 02 Nov 2026",
   "count": 9,
   "items": [
     {
@@ -32,18 +32,25 @@
       "age": "Sat 22:23"
     },
     {
-      "title": "OPay withdraws planned $304M US IPO after foreign inquiry",
-      "source": "The Condia",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94SjJwRWVRUmwxR2ItWHJ1dk9ZamlSVEgtdnB2YldjQzR6RVNQNE1YSG5qT1B3Q2duXzVLNjd5dDMxMXM2YnlfWlpWaGlxY0s1cTZlWkhKdWpXcWV2YUFCd3I5NUFtdWMxd0tBdDBfVHFxcGNfZTJyb2dkZy1LQQ?oc=5",
+      "title": "Iyinoluwa Aboyeji-backed Talent Nation Bags Pre-Seed Funding To Raise 1M African AI Engineers",
+      "source": "WeeTracker",
+      "link": "https://weetracker.com/2026/10/30/talent-nation-raises-pre-seed-funding-aboyeji/",
       "region": "africa",
-      "age": "Sat 16:33"
+      "age": "Fri 17:52"
     },
     {
-      "title": "OPay withdraws $304 million NYSE IPO hours after pricing, citing a foreign regulatory inquiry",
-      "source": "Techpoint Africa",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kTzV1Ry0xTXQ4VVFQQlFRSkVNMXNyNTJVMG1EZFdRRXowMHpMRFZGR3ZaS1NGaE9FS2M0NkZERzlKR09ZeFlNbTFFblB0VW5qY2hpNWJjRmNtZkE2cTd3YmcxVHM?oc=5",
+      "title": "Madica Secures USD 6 M From Flourish Ventures To Back More African Startups",
+      "source": "WeeTracker",
+      "link": "https://weetracker.com/2026/10/30/madica-secures-6m-flourish-ventures-african-startups/",
       "region": "africa",
-      "age": "Sat 10:37"
+      "age": "Fri 17:25"
+    },
+    {
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "region": "global",
+      "age": "Sun 00:36"
     },
     {
       "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
@@ -58,16 +65,9 @@
       "link": "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
       "region": "global",
       "age": "Fri 19:33"
-    },
-    {
-      "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/",
-      "region": "global",
-      "age": "Fri 14:00"
     }
   ],
-  "digest": "• Egypt’s Nclude fund hits US$112m final close under DPI Venture Capital — Disrupt Africa\n• ‘The Future Isn’t Just Grants’: How Salient’s i3 Network Brokered $19M in Deals for African Healthtech Startups — Launch Base Africa\n• ABA Life Secures $40Mn from Admaius to Test Morocco’s Unicorn Ambitions in Sovereign Health AI — Launch Base Africa\n• OPay Scraps $304 Million US IPO Following Regulatory Probe — TechMoran\n• OPay withdraws planned $304M US IPO after foreign inquiry — The Condia\n• OPay withdraws $304 million NYSE IPO hours after pricing, citing a foreign regulatory inquiry — Techpoint Africa\n• Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup — Crunchbase News\n• Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push — Crunchbase News",
+  "digest": "• Egypt’s Nclude fund hits US$112m final close under DPI Venture Capital — Disrupt Africa\n• ‘The Future Isn’t Just Grants’: How Salient’s i3 Network Brokered $19M in Deals for African Healthtech Startups — Launch Base Africa\n• ABA Life Secures $40Mn from Admaius to Test Morocco’s Unicorn Ambitions in Sovereign Health AI — Launch Base Africa\n• OPay Scraps $304 Million US IPO Following Regulatory Probe — TechMoran\n• Iyinoluwa Aboyeji-backed Talent Nation Bags Pre-Seed Funding To Raise 1M African AI Engineers — WeeTracker\n• Madica Secures USD 6 M From Flourish Ventures To Back More African Startups — WeeTracker\n• 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale — TechCrunch\n• Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
