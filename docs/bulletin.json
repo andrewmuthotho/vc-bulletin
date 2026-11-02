@@ -1,8 +1,29 @@
 {
-  "date_label": "Sun 01 Nov",
-  "updated": "14:31 EAT, Sun 01 Nov 2026",
+  "date_label": "Mon 02 Nov",
+  "updated": "13:00 EAT, Mon 02 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Egypt’s Nclude fund hits US$112m final close under DPI Venture Capital",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/11/02/egypts-nclude-fund-hits-us112m-final-close-under-dpi-venture-capital/?utm_source=rss&utm_medium=rss&utm_campaign=egypts-nclude-fund-hits-us112m-final-close-under-dpi-venture-capital",
+      "region": "africa",
+      "age": "Mon 09:00"
+    },
+    {
+      "title": "‘The Future Isn’t Just Grants’: How Salient’s i3 Network Brokered $19M in Deals for African Healthtech Startups",
+      "source": "Launch Base Africa",
+      "link": "https://launchbaseafrica.com/2026/11/02/the-future-isnt-just-grants-how-salients-i3-network-brokered-19m-in-deals-for-african-healthtech-startups/?utm_source=rss&utm_medium=rss&utm_campaign=the-future-isnt-just-grants-how-salients-i3-network-brokered-19m-in-deals-for-african-healthtech-startups",
+      "region": "africa",
+      "age": "Mon 08:30"
+    },
+    {
+      "title": "ABA Life Secures $40Mn from Admaius to Test Morocco’s Unicorn Ambitions in Sovereign Health AI",
+      "source": "Launch Base Africa",
+      "link": "https://launchbaseafrica.com/2026/11/02/aba-life-secures-40mn-from-admaius-to-test-moroccos-unicorn-ambitions-in-sovereign-health-ai/?utm_source=rss&utm_medium=rss&utm_campaign=aba-life-secures-40mn-from-admaius-to-test-moroccos-unicorn-ambitions-in-sovereign-health-ai",
+      "region": "africa",
+      "age": "Mon 08:29"
+    },
     {
       "title": "OPay Scraps $304 Million US IPO Following Regulatory Probe",
       "source": "TechMoran",
@@ -11,39 +32,18 @@
       "age": "Sat 22:23"
     },
     {
-      "title": "Iyinoluwa Aboyeji-backed Talent Nation Bags Pre-Seed Funding To Raise 1M African AI Engineers",
-      "source": "WeeTracker",
-      "link": "https://weetracker.com/2026/10/30/talent-nation-raises-pre-seed-funding-aboyeji/",
+      "title": "OPay withdraws planned $304M US IPO after foreign inquiry",
+      "source": "The Condia",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94SjJwRWVRUmwxR2ItWHJ1dk9ZamlSVEgtdnB2YldjQzR6RVNQNE1YSG5qT1B3Q2duXzVLNjd5dDMxMXM2YnlfWlpWaGlxY0s1cTZlWkhKdWpXcWV2YUFCd3I5NUFtdWMxd0tBdDBfVHFxcGNfZTJyb2dkZy1LQQ?oc=5",
       "region": "africa",
-      "age": "Fri 17:52"
+      "age": "Sat 16:33"
     },
     {
-      "title": "Madica Secures USD 6 M From Flourish Ventures To Back More African Startups",
-      "source": "WeeTracker",
-      "link": "https://weetracker.com/2026/10/30/madica-secures-6m-flourish-ventures-african-startups/",
+      "title": "OPay withdraws $304 million NYSE IPO hours after pricing, citing a foreign regulatory inquiry",
+      "source": "Techpoint Africa",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kTzV1Ry0xTXQ4VVFQQlFRSkVNMXNyNTJVMG1EZFdRRXowMHpMRFZGR3ZaS1NGaE9FS2M0NkZERzlKR09ZeFlNbTFFblB0VW5qY2hpNWJjRmNtZkE2cTd3YmcxVHM?oc=5",
       "region": "africa",
-      "age": "Fri 17:25"
-    },
-    {
-      "title": "Aboyeji-backed AI engineering talent platform Talent Nation raises pre-seed funding",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/10/30/aboyeji-backed-ai-engineering-talent-platform-talent-nation-raises-pre-seed-funding/?utm_source=rss&utm_medium=rss&utm_campaign=aboyeji-backed-ai-engineering-talent-platform-talent-nation-raises-pre-seed-funding",
-      "region": "africa",
-      "age": "Fri 12:00"
-    },
-    {
-      "title": "Kenafric Tests the Corporate VC Playbook for African Consumer Startups with $10M Fund",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/10/30/kenafric-tests-the-corporate-vc-playbook-for-african-consumer-startups-with-10m-fund/?utm_source=rss&utm_medium=rss&utm_campaign=kenafric-tests-the-corporate-vc-playbook-for-african-consumer-startups-with-10m-fund",
-      "region": "africa",
-      "age": "Fri 08:15"
-    },
-    {
-      "title": "Tanzanian Health Startup Medikea Raises $1.2 Million to Own Care, Not Just Connect It",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/10/29/tanzanian-health-startup-medikea-raises-1-2-million-to-own-care-not-just-connect-it/",
-      "region": "africa",
-      "age": "Thu 21:54"
+      "age": "Sat 10:37"
     },
     {
       "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
@@ -53,21 +53,21 @@
       "age": "Sat 07:16"
     },
     {
+      "title": "The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
+      "region": "global",
+      "age": "Fri 19:33"
+    },
+    {
       "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
       "source": "Crunchbase News",
       "link": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/",
       "region": "global",
       "age": "Fri 14:00"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "region": "global",
-      "age": "Thu 22:56"
     }
   ],
-  "digest": "• OPay Scraps $304 Million US IPO Following Regulatory Probe — TechMoran\n• Iyinoluwa Aboyeji-backed Talent Nation Bags Pre-Seed Funding To Raise 1M African AI Engineers — WeeTracker\n• Madica Secures USD 6 M From Flourish Ventures To Back More African Startups — WeeTracker\n• Aboyeji-backed AI engineering talent platform Talent Nation raises pre-seed funding — Disrupt Africa\n• Kenafric Tests the Corporate VC Playbook for African Consumer Startups with $10M Fund — Launch Base Africa\n• Tanzanian Health Startup Medikea Raises $1.2 Million to Own Care, Not Just Connect It — TechMoran\n• Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up — TechCrunch\n• Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push — Crunchbase News\n• OpenAI-backed Thrive Holdings acquires ADT — TechCrunch",
+  "digest": "• Egypt’s Nclude fund hits US$112m final close under DPI Venture Capital — Disrupt Africa\n• ‘The Future Isn’t Just Grants’: How Salient’s i3 Network Brokered $19M in Deals for African Healthtech Startups — Launch Base Africa\n• ABA Life Secures $40Mn from Admaius to Test Morocco’s Unicorn Ambitions in Sovereign Health AI — Launch Base Africa\n• OPay Scraps $304 Million US IPO Following Regulatory Probe — TechMoran\n• OPay withdraws planned $304M US IPO after foreign inquiry — The Condia\n• OPay withdraws $304 million NYSE IPO hours after pricing, citing a foreign regulatory inquiry — Techpoint Africa\n• Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup — Crunchbase News\n• Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
