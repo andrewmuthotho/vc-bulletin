@@ -1,14 +1,28 @@
 {
   "date_label": "Mon 02 Nov",
-  "updated": "14:42 EAT, Mon 02 Nov 2026",
-  "count": 9,
+  "updated": "15:53 EAT, Mon 02 Nov 2026",
+  "count": 8,
   "items": [
+    {
+      "title": "Enza Capital wants Africa to build its AI with its new fund",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/11/02/enza-capital-ai/",
+      "region": "africa",
+      "age": "Mon 14:51"
+    },
     {
       "title": "Egypt’s Nclude fund hits US$112m final close under DPI Venture Capital",
       "source": "Disrupt Africa",
       "link": "https://disruptafrica.com/2026/11/02/egypts-nclude-fund-hits-us112m-final-close-under-dpi-venture-capital/?utm_source=rss&utm_medium=rss&utm_campaign=egypts-nclude-fund-hits-us112m-final-close-under-dpi-venture-capital",
       "region": "africa",
       "age": "Mon 09:00"
+    },
+    {
+      "title": "👨🏿‍🚀TechCabal Daily – OPay’s IPO hits a wall",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/11/02/techcabal-daily-opays-ipo-hits-a-wall/",
+      "region": "africa",
+      "age": "Mon 08:46"
     },
     {
       "title": "‘The Future Isn’t Just Grants’: How Salient’s i3 Network Brokered $19M in Deals for African Healthtech Startups",
@@ -25,32 +39,11 @@
       "age": "Mon 08:29"
     },
     {
-      "title": "OPay Scraps $304 Million US IPO Following Regulatory Probe",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/10/31/opay-scraps-304-million-us-ipo-following-regulatory-probe/",
-      "region": "africa",
-      "age": "Sat 22:23"
-    },
-    {
-      "title": "Iyinoluwa Aboyeji-backed Talent Nation Bags Pre-Seed Funding To Raise 1M African AI Engineers",
-      "source": "WeeTracker",
-      "link": "https://weetracker.com/2026/10/30/talent-nation-raises-pre-seed-funding-aboyeji/",
-      "region": "africa",
-      "age": "Fri 17:52"
-    },
-    {
-      "title": "Madica Secures USD 6 M From Flourish Ventures To Back More African Startups",
-      "source": "WeeTracker",
-      "link": "https://weetracker.com/2026/10/30/madica-secures-6m-flourish-ventures-african-startups/",
-      "region": "africa",
-      "age": "Fri 17:25"
-    },
-    {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "title": "More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/",
       "region": "global",
-      "age": "Sun 00:36"
+      "age": "Mon 15:00"
     },
     {
       "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
@@ -65,9 +58,16 @@
       "link": "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
       "region": "global",
       "age": "Fri 19:33"
+    },
+    {
+      "title": "",
+      "source": "",
+      "link": "",
+      "region": "",
+      "age": ""
     }
   ],
-  "digest": "• Egypt’s Nclude fund hits US$112m final close under DPI Venture Capital — Disrupt Africa\n• ‘The Future Isn’t Just Grants’: How Salient’s i3 Network Brokered $19M in Deals for African Healthtech Startups — Launch Base Africa\n• ABA Life Secures $40Mn from Admaius to Test Morocco’s Unicorn Ambitions in Sovereign Health AI — Launch Base Africa\n• OPay Scraps $304 Million US IPO Following Regulatory Probe — TechMoran\n• Iyinoluwa Aboyeji-backed Talent Nation Bags Pre-Seed Funding To Raise 1M African AI Engineers — WeeTracker\n• Madica Secures USD 6 M From Flourish Ventures To Back More African Startups — WeeTracker\n• 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale — TechCrunch\n• Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup — Crunchbase News",
+  "digest": "• Enza Capital wants Africa to build its AI with its new fund — TechCabal\n• Egypt’s Nclude fund hits US$112m final close under DPI Venture Capital — Disrupt Africa\n• 👨🏿‍🚀TechCabal Daily – OPay’s IPO hits a wall — TechCabal\n• ‘The Future Isn’t Just Grants’: How Salient’s i3 Network Brokered $19M in Deals for African Healthtech Startups — Launch Base Africa\n• ABA Life Secures $40Mn from Admaius to Test Morocco’s Unicorn Ambitions in Sovereign Health AI — Launch Base Africa\n• More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year — Crunchbase News\n• Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
