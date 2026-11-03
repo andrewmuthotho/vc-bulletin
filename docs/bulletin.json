@@ -1,8 +1,15 @@
 {
   "date_label": "Tue 03 Nov",
-  "updated": "13:06 EAT, Tue 03 Nov 2026",
+  "updated": "14:23 EAT, Tue 03 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Airtel Nigeria’s $1 billion comeback comes with a growing mobile money business",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/11/03/airtel-nigeria-1bn-revenue-since-2022/",
+      "region": "africa",
+      "age": "Tue 13:44"
+    },
     {
       "title": "African-owned game Rise of Fearless raises $1 million for expansion",
       "source": "TechCabal",
@@ -16,13 +23,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9odWlQaEFROTd2RFE5WkZfOUdmbzdab05oc3BiUWs1MHRqNUVWT2R3YjNQUUYzTXR1VENjZ0xGajZjVk5Ub25UTWhnczRBenlVajZiSnVSQ0FiWU40dUYza29JSE41Zm92UHZkeg?oc=5",
       "region": "africa",
       "age": "Tue 11:04"
-    },
-    {
-      "title": "The non-technical founder’s dilemma — and how a new accelerator aims to solve it",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/11/03/the-non-technical-founders-dilemma-and-how-a-new-accelerator-aims-to-solve-it/?utm_source=rss&utm_medium=rss&utm_campaign=the-non-technical-founders-dilemma-and-how-a-new-accelerator-aims-to-solve-it",
-      "region": "africa",
-      "age": "Tue 09:00"
     },
     {
       "title": "Egypt’s Nclude fund hits US$112m final close under DPI Venture Capital",
@@ -67,7 +67,7 @@
       "age": "Mon 15:00"
     }
   ],
-  "digest": "• African-owned game Rise of Fearless raises $1 million for expansion — TechCabal\n• Rise of Fearless raises $1 million ahead of a relaunch — The Condia\n• The non-technical founder’s dilemma — and how a new accelerator aims to solve it — Disrupt Africa\n• Egypt’s Nclude fund hits US$112m final close under DPI Venture Capital — Disrupt Africa\n• ‘The Future Isn’t Just Grants’: How Salient’s i3 Network Brokered $19M in Deals for African Healthtech Startups — Launch Base Africa\n• ABA Life Secures $40Mn from Admaius to Test Morocco’s Unicorn Ambitions in Sovereign Health AI — Launch Base Africa\n• Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene — TechCrunch\n• Trajectory raises $45M to make AI model training accessible to nontechnical experts — TechCrunch\n• More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year — Crunchbase News",
+  "digest": "• Airtel Nigeria’s $1 billion comeback comes with a growing mobile money business — TechCabal\n• African-owned game Rise of Fearless raises $1 million for expansion — TechCabal\n• Rise of Fearless raises $1 million ahead of a relaunch — The Condia\n• Egypt’s Nclude fund hits US$112m final close under DPI Venture Capital — Disrupt Africa\n• ‘The Future Isn’t Just Grants’: How Salient’s i3 Network Brokered $19M in Deals for African Healthtech Startups — Launch Base Africa\n• ABA Life Secures $40Mn from Admaius to Test Morocco’s Unicorn Ambitions in Sovereign Health AI — Launch Base Africa\n• Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene — TechCrunch\n• Trajectory raises $45M to make AI model training accessible to nontechnical experts — TechCrunch\n• More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
