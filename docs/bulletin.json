@@ -1,21 +1,35 @@
 {
-  "date_label": "Tue 03 Nov",
-  "updated": "15:25 EAT, Tue 03 Nov 2026",
+  "date_label": "Wed 04 Nov",
+  "updated": "12:54 EAT, Wed 04 Nov 2026",
   "count": 9,
   "items": [
     {
-      "title": "Airtel Nigeria’s $1 billion comeback comes with a growing mobile money business",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/11/03/airtel-nigeria-1bn-revenue-since-2022/",
+      "title": "How Kenya’s PayServe is building the operating layer for managed real estate",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/11/04/how-kenyas-payserve-is-building-the-operating-layer-for-managed-real-estate/?utm_source=rss&utm_medium=rss&utm_campaign=how-kenyas-payserve-is-building-the-operating-layer-for-managed-real-estate",
       "region": "africa",
-      "age": "Tue 13:44"
+      "age": "Wed 09:00"
     },
     {
-      "title": "African-owned game Rise of Fearless raises $1 million for expansion",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/11/03/rise-of-fearless-raises-1-million/",
+      "title": "Journify Raises $12M Series A to Take Ad Signal Infrastructure into US and Europe",
+      "source": "Launch Base Africa",
+      "link": "https://launchbaseafrica.com/2026/11/04/journify-raises-12m-series-a-to-take-ad-signal-infrastructure-into-us-and-europe/?utm_source=rss&utm_medium=rss&utm_campaign=journify-raises-12m-series-a-to-take-ad-signal-infrastructure-into-us-and-europe",
       "region": "africa",
-      "age": "Tue 11:52"
+      "age": "Wed 08:28"
+    },
+    {
+      "title": "The Cost of Going Green: Inside Safaricom’s KSh20 Billion Energy Transition",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/11/03/the-cost-of-going-green-inside-safaricoms-ksh20-billion-energy-transition/",
+      "region": "africa",
+      "age": "Tue 21:16"
+    },
+    {
+      "title": "Gaming Platform Rise of Fearless Secures $1M for Expansion",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/11/03/gaming-platform-rise-of-fearless-secures-1m-to-scale-beyond-africa/",
+      "region": "africa",
+      "age": "Tue 16:59"
     },
     {
       "title": "Rise of Fearless raises $1 million ahead of a relaunch",
@@ -25,25 +39,18 @@
       "age": "Tue 11:04"
     },
     {
-      "title": "Egypt’s Nclude fund hits US$112m final close under DPI Venture Capital",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/11/02/egypts-nclude-fund-hits-us112m-final-close-under-dpi-venture-capital/?utm_source=rss&utm_medium=rss&utm_campaign=egypts-nclude-fund-hits-us112m-final-close-under-dpi-venture-capital",
+      "title": "Small Checks, Big Shift: What October’s Deal Flow Reveals About African Climate Tech",
+      "source": "Launch Base Africa",
+      "link": "https://launchbaseafrica.com/2026/11/03/small-checks-big-shift-what-octobers-deal-flow-reveals-about-african-climate-tech/?utm_source=rss&utm_medium=rss&utm_campaign=small-checks-big-shift-what-octobers-deal-flow-reveals-about-african-climate-tech",
       "region": "africa",
-      "age": "Mon 09:00"
+      "age": "Tue 08:30"
     },
     {
-      "title": "‘The Future Isn’t Just Grants’: How Salient’s i3 Network Brokered $19M in Deals for African Healthtech Startups",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/11/02/the-future-isnt-just-grants-how-salients-i3-network-brokered-19m-in-deals-for-african-healthtech-startups/?utm_source=rss&utm_medium=rss&utm_campaign=the-future-isnt-just-grants-how-salients-i3-network-brokered-19m-in-deals-for-african-healthtech-startups",
-      "region": "africa",
-      "age": "Mon 08:30"
-    },
-    {
-      "title": "ABA Life Secures $40Mn from Admaius to Test Morocco’s Unicorn Ambitions in Sovereign Health AI",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/11/02/aba-life-secures-40mn-from-admaius-to-test-moroccos-unicorn-ambitions-in-sovereign-health-ai/?utm_source=rss&utm_medium=rss&utm_campaign=aba-life-secures-40mn-from-admaius-to-test-moroccos-unicorn-ambitions-in-sovereign-health-ai",
-      "region": "africa",
-      "age": "Mon 08:29"
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "region": "global",
+      "age": "Wed 00:43"
     },
     {
       "title": "China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October",
@@ -58,16 +65,9 @@
       "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "region": "global",
       "age": "Tue 02:13"
-    },
-    {
-      "title": "More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/",
-      "region": "global",
-      "age": "Mon 15:00"
     }
   ],
-  "digest": "• Airtel Nigeria’s $1 billion comeback comes with a growing mobile money business — TechCabal\n• African-owned game Rise of Fearless raises $1 million for expansion — TechCabal\n• Rise of Fearless raises $1 million ahead of a relaunch — The Condia\n• Egypt’s Nclude fund hits US$112m final close under DPI Venture Capital — Disrupt Africa\n• ‘The Future Isn’t Just Grants’: How Salient’s i3 Network Brokered $19M in Deals for African Healthtech Startups — Launch Base Africa\n• ABA Life Secures $40Mn from Admaius to Test Morocco’s Unicorn Ambitions in Sovereign Health AI — Launch Base Africa\n• China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October — Crunchbase News\n• Trajectory raises $45M to make AI model training accessible to nontechnical experts — TechCrunch\n• More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year — Crunchbase News",
+  "digest": "• How Kenya’s PayServe is building the operating layer for managed real estate — Disrupt Africa\n• Journify Raises $12M Series A to Take Ad Signal Infrastructure into US and Europe — Launch Base Africa\n• The Cost of Going Green: Inside Safaricom’s KSh20 Billion Energy Transition — TechMoran\n• Gaming Platform Rise of Fearless Secures $1M for Expansion — TechMoran\n• Rise of Fearless raises $1 million ahead of a relaunch — The Condia\n• Small Checks, Big Shift: What October’s Deal Flow Reveals About African Climate Tech — Launch Base Africa\n• Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom — TechCrunch\n• China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October — Crunchbase News\n• Trajectory raises $45M to make AI model training accessible to nontechnical experts — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
