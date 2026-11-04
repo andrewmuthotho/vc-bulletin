@@ -1,8 +1,15 @@
 {
   "date_label": "Wed 04 Nov",
-  "updated": "12:54 EAT, Wed 04 Nov 2026",
+  "updated": "14:37 EAT, Wed 04 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Egypt’s Nclude VC Fund Reaches Final Close Above USD 112 M",
+      "source": "WeeTracker",
+      "link": "https://weetracker.com/2026/11/04/egypt-nclude-vc-fund-final-close-112m/",
+      "region": "africa",
+      "age": "Wed 13:47"
+    },
     {
       "title": "How Kenya’s PayServe is building the operating layer for managed real estate",
       "source": "Disrupt Africa",
@@ -39,13 +46,6 @@
       "age": "Tue 11:04"
     },
     {
-      "title": "Small Checks, Big Shift: What October’s Deal Flow Reveals About African Climate Tech",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/11/03/small-checks-big-shift-what-octobers-deal-flow-reveals-about-african-climate-tech/?utm_source=rss&utm_medium=rss&utm_campaign=small-checks-big-shift-what-octobers-deal-flow-reveals-about-african-climate-tech",
-      "region": "africa",
-      "age": "Tue 08:30"
-    },
-    {
       "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
@@ -60,14 +60,14 @@
       "age": "Tue 15:00"
     },
     {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
       "region": "global",
-      "age": "Tue 02:13"
+      "age": "Tue 11:01"
     }
   ],
-  "digest": "• How Kenya’s PayServe is building the operating layer for managed real estate — Disrupt Africa\n• Journify Raises $12M Series A to Take Ad Signal Infrastructure into US and Europe — Launch Base Africa\n• The Cost of Going Green: Inside Safaricom’s KSh20 Billion Energy Transition — TechMoran\n• Gaming Platform Rise of Fearless Secures $1M for Expansion — TechMoran\n• Rise of Fearless raises $1 million ahead of a relaunch — The Condia\n• Small Checks, Big Shift: What October’s Deal Flow Reveals About African Climate Tech — Launch Base Africa\n• Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom — TechCrunch\n• China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October — Crunchbase News\n• Trajectory raises $45M to make AI model training accessible to nontechnical experts — TechCrunch",
+  "digest": "• Egypt’s Nclude VC Fund Reaches Final Close Above USD 112 M — WeeTracker\n• How Kenya’s PayServe is building the operating layer for managed real estate — Disrupt Africa\n• Journify Raises $12M Series A to Take Ad Signal Infrastructure into US and Europe — Launch Base Africa\n• The Cost of Going Green: Inside Safaricom’s KSh20 Billion Energy Transition — TechMoran\n• Gaming Platform Rise of Fearless Secures $1M for Expansion — TechMoran\n• Rise of Fearless raises $1 million ahead of a relaunch — The Condia\n• Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom — TechCrunch\n• China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October — Crunchbase News\n• Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
