@@ -1,6 +1,6 @@
 {
   "date_label": "Wed 04 Nov",
-  "updated": "14:37 EAT, Wed 04 Nov 2026",
+  "updated": "15:36 EAT, Wed 04 Nov 2026",
   "count": 9,
   "items": [
     {
@@ -46,6 +46,13 @@
       "age": "Tue 11:04"
     },
     {
+      "title": "Most Venture Capital Is Going To Companies That Are Founded Or Led By Billionaires",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx/",
+      "region": "global",
+      "age": "Wed 15:00"
+    },
+    {
       "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
@@ -58,16 +65,9 @@
       "link": "https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/",
       "region": "global",
       "age": "Tue 15:00"
-    },
-    {
-      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
-      "region": "global",
-      "age": "Tue 11:01"
     }
   ],
-  "digest": "• Egypt’s Nclude VC Fund Reaches Final Close Above USD 112 M — WeeTracker\n• How Kenya’s PayServe is building the operating layer for managed real estate — Disrupt Africa\n• Journify Raises $12M Series A to Take Ad Signal Infrastructure into US and Europe — Launch Base Africa\n• The Cost of Going Green: Inside Safaricom’s KSh20 Billion Energy Transition — TechMoran\n• Gaming Platform Rise of Fearless Secures $1M for Expansion — TechMoran\n• Rise of Fearless raises $1 million ahead of a relaunch — The Condia\n• Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom — TechCrunch\n• China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October — Crunchbase News\n• Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene — TechCrunch",
+  "digest": "• Egypt’s Nclude VC Fund Reaches Final Close Above USD 112 M — WeeTracker\n• How Kenya’s PayServe is building the operating layer for managed real estate — Disrupt Africa\n• Journify Raises $12M Series A to Take Ad Signal Infrastructure into US and Europe — Launch Base Africa\n• The Cost of Going Green: Inside Safaricom’s KSh20 Billion Energy Transition — TechMoran\n• Gaming Platform Rise of Fearless Secures $1M for Expansion — TechMoran\n• Rise of Fearless raises $1 million ahead of a relaunch — The Condia\n• Most Venture Capital Is Going To Companies That Are Founded Or Led By Billionaires — Crunchbase News\n• Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom — TechCrunch\n• China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
