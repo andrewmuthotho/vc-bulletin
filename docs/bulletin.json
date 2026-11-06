@@ -1,6 +1,6 @@
 {
   "date_label": "Fri 06 Nov",
-  "updated": "14:34 EAT, Fri 06 Nov 2026",
+  "updated": "15:31 EAT, Fri 06 Nov 2026",
   "count": 9,
   "items": [
     {
@@ -46,6 +46,13 @@
       "age": "Thu 08:30"
     },
     {
+      "title": "General Catalyst Tops Lead Investors For October In Busy Month For US Startup Dealmaking",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/october-2026-lead-startup-investors/",
+      "region": "global",
+      "age": "Fri 15:00"
+    },
+    {
       "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
@@ -58,16 +65,9 @@
       "link": "https://news.crunchbase.com/venture/nurx-journey-clinical-founders-raise-mental-health-startup-siggy/",
       "region": "global",
       "age": "Thu 19:00"
-    },
-    {
-      "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/",
-      "region": "global",
-      "age": "Thu 17:00"
     }
   ],
-  "digest": "• Ethiopian gaming startup Rise of Fearless raises US$1m to scale African battle royale title — Disrupt Africa\n• Nigeria’s crypto firms face $744,000 capital rule as CBN, SEC divide oversight — TechCabal\n• Zipline Doubles Down on US Expansion With $1.5bn Raise Ring-Fenced for American Network — Launch Base Africa\n• African Stablecoin Payments Startup Yellow Card Acquires Brazilian Crypto Firm GoMoney — WeeTracker\n• Moroccan Adtech Startup Journify Raises USD 12 M Series A — WeeTracker\n• Yellow Card Acquires Brazil’s GoMoney to Secure Direct LatAm Foothold — Launch Base Africa\n• The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund — TechCrunch\n• Exclusive: Nurx And Journey Clinical Co-Founders Raise $6M For Mental Health Startup Siggy — Crunchbase News\n• Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet — Crunchbase News",
+  "digest": "• Ethiopian gaming startup Rise of Fearless raises US$1m to scale African battle royale title — Disrupt Africa\n• Nigeria’s crypto firms face $744,000 capital rule as CBN, SEC divide oversight — TechCabal\n• Zipline Doubles Down on US Expansion With $1.5bn Raise Ring-Fenced for American Network — Launch Base Africa\n• African Stablecoin Payments Startup Yellow Card Acquires Brazilian Crypto Firm GoMoney — WeeTracker\n• Moroccan Adtech Startup Journify Raises USD 12 M Series A — WeeTracker\n• Yellow Card Acquires Brazil’s GoMoney to Secure Direct LatAm Foothold — Launch Base Africa\n• General Catalyst Tops Lead Investors For October In Busy Month For US Startup Dealmaking — Crunchbase News\n• The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund — TechCrunch\n• Exclusive: Nurx And Journey Clinical Co-Founders Raise $6M For Mental Health Startup Siggy — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
