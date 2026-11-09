@@ -1,6 +1,6 @@
 {
   "date_label": "Mon 09 Nov",
-  "updated": "13:24 EAT, Mon 09 Nov 2026",
+  "updated": "15:10 EAT, Mon 09 Nov 2026",
   "count": 9,
   "items": [
     {
@@ -46,32 +46,31 @@
       "age": "Mon 08:43"
     },
     {
+      "title": "Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/",
+      "region": "global",
+      "age": "Mon 15:00"
+    },
+    {
+      "title": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
+      "region": "global",
+      "age": "Mon 15:00"
+    },
+    {
       "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
       "region": "global",
       "age": "Sun 20:30"
-    },
-    {
-      "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
-      "region": "global",
-      "age": "Fri 22:29"
-    },
-    {
-      "title": "General Catalyst Tops Lead Investors For October In Busy Month For US Startup Dealmaking",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/october-2026-lead-startup-investors/",
-      "region": "global",
-      "age": "Fri 15:00"
     }
   ],
-  "digest": "• TLG Capital Backs Koolboks With Debt to Expand Solar Freezer Sales — TechMoran\n• South African Fintech Yoco Secures USD 100 M Credit Facility From Victory Park Capital — WeeTracker\n• Nigeria’s Koolboks secures credit facility from TLG Capital to fund inventory growth — Disrupt Africa\n• Enza Raises $6 Million From 4DX, UK’s BII to Expand Across Africa’s Payments Market — TechMoran\n• Egypt’s enza raises $6m seed+ round to expand payments infrastructure across Africa — Disrupt Africa\n• SA Fintech Yoco Snags $100m Private Credit Facility to Scale SME Lending — Launch Base Africa\n• He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC. — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds — Crunchbase News\n• General Catalyst Tops Lead Investors For October In Busy Month For US Startup Dealmaking — Crunchbase News",
+  "digest": "• TLG Capital Backs Koolboks With Debt to Expand Solar Freezer Sales — TechMoran\n• South African Fintech Yoco Secures USD 100 M Credit Facility From Victory Park Capital — WeeTracker\n• Nigeria’s Koolboks secures credit facility from TLG Capital to fund inventory growth — Disrupt Africa\n• Enza Raises $6 Million From 4DX, UK’s BII to Expand Across Africa’s Payments Market — TechMoran\n• Egypt’s enza raises $6m seed+ round to expand payments infrastructure across Africa — Disrupt Africa\n• SA Fintech Yoco Snags $100m Private Credit Facility to Scale SME Lending — Launch Base Africa\n• Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut — Crunchbase News\n• Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table — Crunchbase News\n• He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC. — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
-    "Techpoint Africa",
     "WeeTracker",
     "TechMoran",
     "Launch Base Africa",
@@ -80,5 +79,7 @@
     "TechCrunch",
     "Crunchbase News"
   ],
-  "sources_failed": []
+  "sources_failed": [
+    "Techpoint Africa"
+  ]
 }
