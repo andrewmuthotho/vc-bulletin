@@ -1,8 +1,15 @@
 {
   "date_label": "Mon 09 Nov",
-  "updated": "15:10 EAT, Mon 09 Nov 2026",
+  "updated": "16:25 EAT, Mon 09 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Afreximbank’s fresh $118m creative bet needs open borders to pay off",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/11/09/afreximbank-makes-new-118m-creative-bet/",
+      "region": "africa",
+      "age": "Mon 15:18"
+    },
     {
       "title": "TLG Capital Backs Koolboks With Debt to Expand Solar Freezer Sales",
       "source": "TechMoran",
@@ -16,13 +23,6 @@
       "link": "https://weetracker.com/2026/11/09/yoco-100-million-credit-facility-victory-park-capital/",
       "region": "africa",
       "age": "Mon 12:04"
-    },
-    {
-      "title": "Nigeria’s Koolboks secures credit facility from TLG Capital to fund inventory growth",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/11/09/nigerias-koolboks-secures-credit-facility-from-tlg-capital-to-fund-inventory-growth/?utm_source=rss&utm_medium=rss&utm_campaign=nigerias-koolboks-secures-credit-facility-from-tlg-capital-to-fund-inventory-growth",
-      "region": "africa",
-      "age": "Mon 12:00"
     },
     {
       "title": "Enza Raises $6 Million From 4DX, UK’s BII to Expand Across Africa’s Payments Market",
@@ -67,10 +67,11 @@
       "age": "Sun 20:30"
     }
   ],
-  "digest": "• TLG Capital Backs Koolboks With Debt to Expand Solar Freezer Sales — TechMoran\n• South African Fintech Yoco Secures USD 100 M Credit Facility From Victory Park Capital — WeeTracker\n• Nigeria’s Koolboks secures credit facility from TLG Capital to fund inventory growth — Disrupt Africa\n• Enza Raises $6 Million From 4DX, UK’s BII to Expand Across Africa’s Payments Market — TechMoran\n• Egypt’s enza raises $6m seed+ round to expand payments infrastructure across Africa — Disrupt Africa\n• SA Fintech Yoco Snags $100m Private Credit Facility to Scale SME Lending — Launch Base Africa\n• Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut — Crunchbase News\n• Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table — Crunchbase News\n• He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC. — TechCrunch",
+  "digest": "• Afreximbank’s fresh $118m creative bet needs open borders to pay off — TechCabal\n• TLG Capital Backs Koolboks With Debt to Expand Solar Freezer Sales — TechMoran\n• South African Fintech Yoco Secures USD 100 M Credit Facility From Victory Park Capital — WeeTracker\n• Enza Raises $6 Million From 4DX, UK’s BII to Expand Across Africa’s Payments Market — TechMoran\n• Egypt’s enza raises $6m seed+ round to expand payments infrastructure across Africa — Disrupt Africa\n• SA Fintech Yoco Snags $100m Private Credit Facility to Scale SME Lending — Launch Base Africa\n• Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut — Crunchbase News\n• Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table — Crunchbase News\n• He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC. — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
+    "Techpoint Africa",
     "WeeTracker",
     "TechMoran",
     "Launch Base Africa",
@@ -79,7 +80,5 @@
     "TechCrunch",
     "Crunchbase News"
   ],
-  "sources_failed": [
-    "Techpoint Africa"
-  ]
+  "sources_failed": []
 }
