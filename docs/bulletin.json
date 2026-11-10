@@ -1,7 +1,7 @@
 {
   "date_label": "Tue 10 Nov",
-  "updated": "14:50 EAT, Tue 10 Nov 2026",
-  "count": 9,
+  "updated": "16:03 EAT, Tue 10 Nov 2026",
+  "count": 8,
   "items": [
     {
       "title": "Eight Nigerian founders get over $29,000 in government-backed business support",
@@ -46,6 +46,13 @@
       "age": "Mon 09:00"
     },
     {
+      "title": "The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/",
+      "region": "global",
+      "age": "Tue 15:00"
+    },
+    {
       "title": "Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut",
       "source": "Crunchbase News",
       "link": "https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/",
@@ -53,21 +60,14 @@
       "age": "Mon 15:00"
     },
     {
-      "title": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
-      "region": "global",
-      "age": "Mon 15:00"
-    },
-    {
-      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "region": "global",
-      "age": "Sun 20:30"
+      "title": "",
+      "source": "",
+      "link": "",
+      "region": "",
+      "age": ""
     }
   ],
-  "digest": "• Eight Nigerian founders get over $29,000 in government-backed business support — TechCabal\n• Why traction-first investing could make Africa miss its next category-defining companies — Disrupt Africa\n• Egyptian Payments Startup enza Raises USD 6 M Additional Seed Funding — WeeTracker\n• Ethiopian Gaming Startup Rise Of Fearless Raises USD 1 M From Epic Edges Capital — WeeTracker\n• Enza Raises $6 Million From 4DX, UK’s BII to Expand Across Africa’s Payments Market — TechMoran\n• Egypt’s enza raises $6m seed+ round to expand payments infrastructure across Africa — Disrupt Africa\n• Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut — Crunchbase News\n• Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table — Crunchbase News\n• He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC. — TechCrunch",
+  "digest": "• Eight Nigerian founders get over $29,000 in government-backed business support — TechCabal\n• Why traction-first investing could make Africa miss its next category-defining companies — Disrupt Africa\n• Egyptian Payments Startup enza Raises USD 6 M Additional Seed Funding — WeeTracker\n• Ethiopian Gaming Startup Rise Of Fearless Raises USD 1 M From Epic Edges Capital — WeeTracker\n• Enza Raises $6 Million From 4DX, UK’s BII to Expand Across Africa’s Payments Market — TechMoran\n• Egypt’s enza raises $6m seed+ round to expand payments infrastructure across Africa — Disrupt Africa\n• The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old — Crunchbase News\n• Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
