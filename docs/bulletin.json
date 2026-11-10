@@ -1,8 +1,15 @@
 {
   "date_label": "Tue 10 Nov",
-  "updated": "13:28 EAT, Tue 10 Nov 2026",
+  "updated": "14:50 EAT, Tue 10 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Eight Nigerian founders get over $29,000 in government-backed business support",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/",
+      "region": "africa",
+      "age": "Tue 14:31"
+    },
     {
       "title": "Why traction-first investing could make Africa miss its next category-defining companies",
       "source": "Disrupt Africa",
@@ -23,13 +30,6 @@
       "link": "https://weetracker.com/2026/11/09/rise-of-fearless-raises-1-million-epic-edges-capital/",
       "region": "africa",
       "age": "Mon 17:01"
-    },
-    {
-      "title": "How Kuramo wants to train Nigeria’s next generation of SME fund managers",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/11/09/kuramo-wants-to-train-nigersme-fund/",
-      "region": "africa",
-      "age": "Mon 16:41"
     },
     {
       "title": "Enza Raises $6 Million From 4DX, UK’s BII to Expand Across Africa’s Payments Market",
@@ -67,7 +67,7 @@
       "age": "Sun 20:30"
     }
   ],
-  "digest": "• Why traction-first investing could make Africa miss its next category-defining companies — Disrupt Africa\n• Egyptian Payments Startup enza Raises USD 6 M Additional Seed Funding — WeeTracker\n• Ethiopian Gaming Startup Rise Of Fearless Raises USD 1 M From Epic Edges Capital — WeeTracker\n• How Kuramo wants to train Nigeria’s next generation of SME fund managers — TechCabal\n• Enza Raises $6 Million From 4DX, UK’s BII to Expand Across Africa’s Payments Market — TechMoran\n• Egypt’s enza raises $6m seed+ round to expand payments infrastructure across Africa — Disrupt Africa\n• Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut — Crunchbase News\n• Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table — Crunchbase News\n• He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC. — TechCrunch",
+  "digest": "• Eight Nigerian founders get over $29,000 in government-backed business support — TechCabal\n• Why traction-first investing could make Africa miss its next category-defining companies — Disrupt Africa\n• Egyptian Payments Startup enza Raises USD 6 M Additional Seed Funding — WeeTracker\n• Ethiopian Gaming Startup Rise Of Fearless Raises USD 1 M From Epic Edges Capital — WeeTracker\n• Enza Raises $6 Million From 4DX, UK’s BII to Expand Across Africa’s Payments Market — TechMoran\n• Egypt’s enza raises $6m seed+ round to expand payments infrastructure across Africa — Disrupt Africa\n• Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut — Crunchbase News\n• Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table — Crunchbase News\n• He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC. — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
