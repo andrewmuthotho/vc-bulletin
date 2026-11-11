@@ -1,8 +1,15 @@
 {
   "date_label": "Wed 11 Nov",
-  "updated": "12:52 EAT, Wed 11 Nov 2026",
+  "updated": "14:28 EAT, Wed 11 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Enza Capital raises $21 million to back Africa’s AI startups",
+      "source": "The Condia",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95UXdfemRvWjUzNGFuVi0tRnp1ZDhuNFd0VGFxR21yRVUxd2hna1gxV0xHSlFFNThhVFk2RXJDSVdPTUpKbXFGUjVrQk8xZDZ0dUlBNFpUek9IenQ0bWZORw?oc=5",
+      "region": "africa",
+      "age": "Wed 13:24"
+    },
     {
       "title": "Lumepay Raises $6 Million as it Enters Kenya’s Cross-Border Payments Market",
       "source": "TechMoran",
@@ -30,13 +37,6 @@
       "link": "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/",
       "region": "africa",
       "age": "Tue 14:31"
-    },
-    {
-      "title": "Why traction-first investing could make Africa miss its next category-defining companies",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/11/10/why-traction-first-investing-could-make-africa-miss-its-next-category-defining-companies/?utm_source=rss&utm_medium=rss&utm_campaign=why-traction-first-investing-could-make-africa-miss-its-next-category-defining-companies",
-      "region": "africa",
-      "age": "Tue 12:00"
     },
     {
       "title": "South African Fintech Lumepay Raises $6M Pre-Seed to Build Africa’s Institutional Cross-Border Payments Rails",
@@ -67,7 +67,7 @@
       "age": "Tue 15:00"
     }
   ],
-  "digest": "• Lumepay Raises $6 Million as it Enters Kenya’s Cross-Border Payments Market — TechMoran\n• Yoco Raises $100 Million from Victory Park Capital to Expand Merchant Financing — TechMoran\n• SA Fintech Lumepay Raises USD 6 M Pre-Seed To Expand African Cross-Border Payments — WeeTracker\n• Eight Nigerian founders get over $29,000 in government-backed business support — TechCabal\n• Why traction-first investing could make Africa miss its next category-defining companies — Disrupt Africa\n• South African Fintech Lumepay Raises $6M Pre-Seed to Build Africa’s Institutional Cross-Border Payments Rails — Launch Base Africa\n• Proximal Ventures raises debut fund to back startups bringing AI to drug development — TechCrunch\n• Anthropic Seeks Record $88.5B Tied To Public Market Debut — Crunchbase News\n• The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old — Crunchbase News",
+  "digest": "• Enza Capital raises $21 million to back Africa’s AI startups — The Condia\n• Lumepay Raises $6 Million as it Enters Kenya’s Cross-Border Payments Market — TechMoran\n• Yoco Raises $100 Million from Victory Park Capital to Expand Merchant Financing — TechMoran\n• SA Fintech Lumepay Raises USD 6 M Pre-Seed To Expand African Cross-Border Payments — WeeTracker\n• Eight Nigerian founders get over $29,000 in government-backed business support — TechCabal\n• South African Fintech Lumepay Raises $6M Pre-Seed to Build Africa’s Institutional Cross-Border Payments Rails — Launch Base Africa\n• Proximal Ventures raises debut fund to back startups bringing AI to drug development — TechCrunch\n• Anthropic Seeks Record $88.5B Tied To Public Market Debut — Crunchbase News\n• The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
