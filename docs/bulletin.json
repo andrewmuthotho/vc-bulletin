@@ -1,8 +1,15 @@
 {
   "date_label": "Wed 11 Nov",
-  "updated": "14:28 EAT, Wed 11 Nov 2026",
+  "updated": "15:13 EAT, Wed 11 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "How venture capital funds handle performing assets when lifecycles expire",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/11/11/managing-venture-capital-fund-lifecycles/",
+      "region": "africa",
+      "age": "Wed 14:46"
+    },
     {
       "title": "Enza Capital raises $21 million to back Africa’s AI startups",
       "source": "The Condia",
@@ -30,13 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPczhESndHTEVBMm1PM0tvbGp4V3F5Y3JqMEtqdHFfdzhkZGtXZXpkUFV1eUhELXNlTDZfRkV6MEdtR19BSlZqZ0U4WmlVWU9Yc1F4YUV3NktSemhVN3IxYU8xRGxsYTM2eXR5NEJBOWEwMVB3dDItcGtBdHFvZUxpRUVQTEdCT1JyUTIxRXZR?oc=5",
       "region": "africa",
       "age": "Wed 00:46"
-    },
-    {
-      "title": "Eight Nigerian founders get over $29,000 in government-backed business support",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/",
-      "region": "africa",
-      "age": "Tue 14:31"
     },
     {
       "title": "South African Fintech Lumepay Raises $6M Pre-Seed to Build Africa’s Institutional Cross-Border Payments Rails",
@@ -67,7 +67,7 @@
       "age": "Tue 15:00"
     }
   ],
-  "digest": "• Enza Capital raises $21 million to back Africa’s AI startups — The Condia\n• Lumepay Raises $6 Million as it Enters Kenya’s Cross-Border Payments Market — TechMoran\n• Yoco Raises $100 Million from Victory Park Capital to Expand Merchant Financing — TechMoran\n• SA Fintech Lumepay Raises USD 6 M Pre-Seed To Expand African Cross-Border Payments — WeeTracker\n• Eight Nigerian founders get over $29,000 in government-backed business support — TechCabal\n• South African Fintech Lumepay Raises $6M Pre-Seed to Build Africa’s Institutional Cross-Border Payments Rails — Launch Base Africa\n• Proximal Ventures raises debut fund to back startups bringing AI to drug development — TechCrunch\n• Anthropic Seeks Record $88.5B Tied To Public Market Debut — Crunchbase News\n• The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old — Crunchbase News",
+  "digest": "• How venture capital funds handle performing assets when lifecycles expire — TechCabal\n• Enza Capital raises $21 million to back Africa’s AI startups — The Condia\n• Lumepay Raises $6 Million as it Enters Kenya’s Cross-Border Payments Market — TechMoran\n• Yoco Raises $100 Million from Victory Park Capital to Expand Merchant Financing — TechMoran\n• SA Fintech Lumepay Raises USD 6 M Pre-Seed To Expand African Cross-Border Payments — WeeTracker\n• South African Fintech Lumepay Raises $6M Pre-Seed to Build Africa’s Institutional Cross-Border Payments Rails — Launch Base Africa\n• Proximal Ventures raises debut fund to back startups bringing AI to drug development — TechCrunch\n• Anthropic Seeks Record $88.5B Tied To Public Market Debut — Crunchbase News\n• The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
