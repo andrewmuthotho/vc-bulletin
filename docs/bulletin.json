@@ -1,8 +1,15 @@
 {
   "date_label": "Thu 12 Nov",
-  "updated": "14:53 EAT, Thu 12 Nov 2026",
+  "updated": "16:19 EAT, Thu 12 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Enza Capital Raises USD 21 M First Close For USD 60 M AI Africa Fund",
+      "source": "WeeTracker",
+      "link": "https://weetracker.com/2026/11/12/enza-capital-raises-21-million-first-close-ai-africa-fund/",
+      "region": "africa",
+      "age": "Thu 15:52"
+    },
     {
       "title": "SA fintech startup Lumepay raises $6m pre-seed round",
       "source": "Disrupt Africa",
@@ -16,13 +23,6 @@
       "link": "https://techcabal.com/2026/11/11/managing-venture-capital-fund-lifecycles/",
       "region": "africa",
       "age": "Wed 14:46"
-    },
-    {
-      "title": "Enza Capital raises $21 million to back Africa’s AI startups",
-      "source": "The Condia",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95UXdfemRvWjUzNGFuVi0tRnp1ZDhuNFd0VGFxR21yRVUxd2hna1gxV0xHSlFFNThhVFk2RXJDSVdPTUpKbXFGUjVrQk8xZDZ0dUlBNFpUek9IenQ0bWZORw?oc=5",
-      "region": "africa",
-      "age": "Wed 13:24"
     },
     {
       "title": "Lumepay Raises $6 Million as it Enters Kenya’s Cross-Border Payments Market",
@@ -46,28 +46,28 @@
       "age": "Wed 08:30"
     },
     {
+      "title": "VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/protein-startups-raise-funding-medici/",
+      "region": "global",
+      "age": "Thu 15:00"
+    },
+    {
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "region": "global",
+      "age": "Wed 23:04"
+    },
+    {
       "title": "Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent Payments, Landlord Financing",
       "source": "Crunchbase News",
       "link": "https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/",
       "region": "global",
       "age": "Wed 16:00"
-    },
-    {
-      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-      "region": "global",
-      "age": "Tue 23:47"
-    },
-    {
-      "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
-      "region": "global",
-      "age": "Tue 21:51"
     }
   ],
-  "digest": "• SA fintech startup Lumepay raises $6m pre-seed round — Disrupt Africa\n• How venture capital funds handle performing assets when lifecycles expire — TechCabal\n• Enza Capital raises $21 million to back Africa’s AI startups — The Condia\n• Lumepay Raises $6 Million as it Enters Kenya’s Cross-Border Payments Market — TechMoran\n• Yoco Raises $100 Million from Victory Park Capital to Expand Merchant Financing — TechMoran\n• Enza Capital Raises $21M to Back African AI as Venture Funding Retreats — Launch Base Africa\n• Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent Payments, Landlord Financing — Crunchbase News\n• Proximal Ventures raises debut fund to back startups bringing AI to drug development — TechCrunch\n• Anthropic Seeks Record $88.5B Tied To Public Market Debut — Crunchbase News",
+  "digest": "• Enza Capital Raises USD 21 M First Close For USD 60 M AI Africa Fund — WeeTracker\n• SA fintech startup Lumepay raises $6m pre-seed round — Disrupt Africa\n• How venture capital funds handle performing assets when lifecycles expire — TechCabal\n• Lumepay Raises $6 Million as it Enters Kenya’s Cross-Border Payments Market — TechMoran\n• Yoco Raises $100 Million from Victory Park Capital to Expand Merchant Financing — TechMoran\n• Enza Capital Raises $21M to Back African AI as Venture Funding Retreats — Launch Base Africa\n• VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor — Crunchbase News\n• Olaf Sakkers is betting he can beat the emerging-manager squeeze — TechCrunch\n• Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent Payments, Landlord Financing — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
