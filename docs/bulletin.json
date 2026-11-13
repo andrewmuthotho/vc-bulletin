@@ -1,6 +1,6 @@
 {
   "date_label": "Fri 13 Nov",
-  "updated": "14:37 EAT, Fri 13 Nov 2026",
+  "updated": "15:39 EAT, Fri 13 Nov 2026",
   "count": 9,
   "items": [
     {
@@ -46,18 +46,18 @@
       "age": "Thu 09:00"
     },
     {
+      "title": "Protein Startups Are Selling Lots Of Snacks And Drinks. Our Sample Tasting Found Most Neither Great Nor Horrible",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/agtech-foodtech/protein-startup-snacks-drinks-sample-taste/",
+      "region": "global",
+      "age": "Fri 15:00"
+    },
+    {
       "title": "Norwest pushes deeper into AI with new $4B fund",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
       "region": "global",
       "age": "Thu 18:18"
-    },
-    {
-      "title": "How Founders Can Reduce Platform Risk Before It Threatens Growth",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/ai/startup-founders-reduce-platform-risk-filippenko-intch/",
-      "region": "global",
-      "age": "Thu 15:00"
     },
     {
       "title": "VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor",
@@ -67,7 +67,7 @@
       "age": "Thu 15:00"
     }
   ],
-  "digest": "• NCC considers 15-year spectrum licences to boost broadband investment — TechCabal\n• Pan-African VC firm Enza Capital reaches $21m first close of AI Africa Fund — Disrupt Africa\n• Swedfund Invests $15 Million in Lightrock Africa Fund to Back Growth-Stage Businesses — TechMoran\n• Safaricom’s Ziidi Trader Handles 68% of Retail Applications in Quickmart’s KSh 15 Billion IPO — TechMoran\n• Enza Capital Raises USD 21 M First Close For USD 60 M AI Africa Fund — WeeTracker\n• SA fintech startup Lumepay raises $6m pre-seed round — Disrupt Africa\n• Norwest pushes deeper into AI with new $4B fund — TechCrunch\n• How Founders Can Reduce Platform Risk Before It Threatens Growth — Crunchbase News\n• VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor — Crunchbase News",
+  "digest": "• NCC considers 15-year spectrum licences to boost broadband investment — TechCabal\n• Pan-African VC firm Enza Capital reaches $21m first close of AI Africa Fund — Disrupt Africa\n• Swedfund Invests $15 Million in Lightrock Africa Fund to Back Growth-Stage Businesses — TechMoran\n• Safaricom’s Ziidi Trader Handles 68% of Retail Applications in Quickmart’s KSh 15 Billion IPO — TechMoran\n• Enza Capital Raises USD 21 M First Close For USD 60 M AI Africa Fund — WeeTracker\n• SA fintech startup Lumepay raises $6m pre-seed round — Disrupt Africa\n• Protein Startups Are Selling Lots Of Snacks And Drinks. Our Sample Tasting Found Most Neither Great Nor Horrible — Crunchbase News\n• Norwest pushes deeper into AI with new $4B fund — TechCrunch\n• VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
