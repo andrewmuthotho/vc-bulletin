@@ -1,8 +1,22 @@
 {
-  "date_label": "Fri 13 Nov",
-  "updated": "15:39 EAT, Fri 13 Nov 2026",
+  "date_label": "Sat 14 Nov",
+  "updated": "12:28 EAT, Sat 14 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Egypt’s NoorNation Raises $1.05 Million to Expand Solar Irrigation and Cut Farmers’ Diesel Costs",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/11/13/egypts-noornation-raises-1-05-million-to-expand-solar-irrigation-and-cut-farmers-diesel-costs/",
+      "region": "africa",
+      "age": "Fri 20:55"
+    },
+    {
+      "title": "Knife Capital Backs South African Healthtech Alignd After Its Healthcare Model Saves Insurers $36 Million",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/11/13/knife-capital-backs-south-african-healthtech-alignd-after-its-healthcare-model-saves-insurers-36-million/",
+      "region": "africa",
+      "age": "Fri 20:15"
+    },
     {
       "title": "NCC considers 15-year spectrum licences to boost broadband investment",
       "source": "TechCabal",
@@ -18,56 +32,42 @@
       "age": "Fri 12:00"
     },
     {
-      "title": "Swedfund Invests $15 Million in Lightrock Africa Fund to Back Growth-Stage Businesses",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/11/12/swedfund-invests-15-million-in-lightrock-africa-fund-to-back-growth-stage-businesses/",
+      "title": "👨🏿‍🚀TechCabal Daily – ‘Shelf-made IPO’",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/11/13/techcabal-daily-shelf-made-ipo/",
       "region": "africa",
-      "age": "Thu 19:16"
+      "age": "Fri 09:04"
     },
     {
-      "title": "Safaricom’s Ziidi Trader Handles 68% of Retail Applications in Quickmart’s KSh 15 Billion IPO",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/11/12/safaricoms-ziidi-trader-handles-quickmarts-ksh-15-billion-ipo/",
-      "region": "africa",
-      "age": "Thu 18:57"
-    },
-    {
-      "title": "Enza Capital Raises USD 21 M First Close For USD 60 M AI Africa Fund",
-      "source": "WeeTracker",
-      "link": "https://weetracker.com/2026/11/12/enza-capital-raises-21-million-first-close-ai-africa-fund/",
-      "region": "africa",
-      "age": "Thu 15:52"
-    },
-    {
-      "title": "SA fintech startup Lumepay raises $6m pre-seed round",
+      "title": "Jumpstarter platform helps SA entrepreneurs raise seed capital from their communities",
       "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/11/12/sa-fintech-startup-lumepay-raises-6m-pre-seed-round/?utm_source=rss&utm_medium=rss&utm_campaign=sa-fintech-startup-lumepay-raises-6m-pre-seed-round",
+      "link": "https://disruptafrica.com/2026/11/13/jumpstarter-platform-helps-sa-entrepreneurs-raise-seed-capital-from-their-communities/?utm_source=rss&utm_medium=rss&utm_campaign=jumpstarter-platform-helps-sa-entrepreneurs-raise-seed-capital-from-their-communities",
       "region": "africa",
-      "age": "Thu 09:00"
+      "age": "Fri 09:00"
     },
     {
-      "title": "Protein Startups Are Selling Lots Of Snacks And Drinks. Our Sample Tasting Found Most Neither Great Nor Horrible",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/agtech-foodtech/protein-startup-snacks-drinks-sample-taste/",
-      "region": "global",
-      "age": "Fri 15:00"
-    },
-    {
-      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "region": "global",
-      "age": "Thu 18:18"
+      "age": "Sat 01:43"
     },
     {
-      "title": "VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor",
+      "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
       "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/protein-startups-raise-funding-medici/",
+      "link": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
       "region": "global",
-      "age": "Thu 15:00"
+      "age": "Fri 23:32"
+    },
+    {
+      "title": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+      "region": "global",
+      "age": "Fri 22:20"
     }
   ],
-  "digest": "• NCC considers 15-year spectrum licences to boost broadband investment — TechCabal\n• Pan-African VC firm Enza Capital reaches $21m first close of AI Africa Fund — Disrupt Africa\n• Swedfund Invests $15 Million in Lightrock Africa Fund to Back Growth-Stage Businesses — TechMoran\n• Safaricom’s Ziidi Trader Handles 68% of Retail Applications in Quickmart’s KSh 15 Billion IPO — TechMoran\n• Enza Capital Raises USD 21 M First Close For USD 60 M AI Africa Fund — WeeTracker\n• SA fintech startup Lumepay raises $6m pre-seed round — Disrupt Africa\n• Protein Startups Are Selling Lots Of Snacks And Drinks. Our Sample Tasting Found Most Neither Great Nor Horrible — Crunchbase News\n• Norwest pushes deeper into AI with new $4B fund — TechCrunch\n• VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor — Crunchbase News",
+  "digest": "• Egypt’s NoorNation Raises $1.05 Million to Expand Solar Irrigation and Cut Farmers’ Diesel Costs — TechMoran\n• Knife Capital Backs South African Healthtech Alignd After Its Healthcare Model Saves Insurers $36 Million — TechMoran\n• NCC considers 15-year spectrum licences to boost broadband investment — TechCabal\n• Pan-African VC firm Enza Capital reaches $21m first close of AI Africa Fund — Disrupt Africa\n• 👨🏿‍🚀TechCabal Daily – ‘Shelf-made IPO’ — TechCabal\n• Jumpstarter platform helps SA entrepreneurs raise seed capital from their communities — Disrupt Africa\n• Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say — TechCrunch\n• Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang? — Crunchbase News\n• The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
