@@ -1,6 +1,6 @@
 {
-  "date_label": "Sat 14 Nov",
-  "updated": "14:47 EAT, Sat 14 Nov 2026",
+  "date_label": "Sun 15 Nov",
+  "updated": "12:56 EAT, Sun 15 Nov 2026",
   "count": 9,
   "items": [
     {
@@ -9,13 +9,6 @@
       "link": "https://techmoran.com/2026/11/13/egypts-noornation-raises-1-05-million-to-expand-solar-irrigation-and-cut-farmers-diesel-costs/",
       "region": "africa",
       "age": "Fri 20:55"
-    },
-    {
-      "title": "Knife Capital Backs South African Healthtech Alignd After Its Healthcare Model Saves Insurers $36 Million",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/11/13/knife-capital-backs-south-african-healthtech-alignd-after-its-healthcare-model-saves-insurers-36-million/",
-      "region": "africa",
-      "age": "Fri 20:15"
     },
     {
       "title": "NCC considers 15-year spectrum licences to boost broadband investment",
@@ -32,13 +25,6 @@
       "age": "Fri 12:00"
     },
     {
-      "title": "👨🏿‍🚀TechCabal Daily – ‘Shelf-made IPO’",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/11/13/techcabal-daily-shelf-made-ipo/",
-      "region": "africa",
-      "age": "Fri 09:04"
-    },
-    {
       "title": "Jumpstarter platform helps SA entrepreneurs raise seed capital from their communities",
       "source": "Disrupt Africa",
       "link": "https://disruptafrica.com/2026/11/13/jumpstarter-platform-helps-sa-entrepreneurs-raise-seed-capital-from-their-communities/?utm_source=rss&utm_medium=rss&utm_campaign=jumpstarter-platform-helps-sa-entrepreneurs-raise-seed-capital-from-their-communities",
@@ -46,11 +32,18 @@
       "age": "Fri 09:00"
     },
     {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "region": "global",
-      "age": "Sat 01:43"
+      "title": "Swedfund Invests $15 Million in Lightrock Africa Fund to Back Growth-Stage Businesses",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/11/12/swedfund-invests-15-million-in-lightrock-africa-fund-to-back-growth-stage-businesses/",
+      "region": "africa",
+      "age": "Thu 19:16"
+    },
+    {
+      "title": "Enza Capital Raises USD 21 M First Close For USD 60 M AI Africa Fund",
+      "source": "WeeTracker",
+      "link": "https://weetracker.com/2026/11/12/enza-capital-raises-21-million-first-close-ai-africa-fund/",
+      "region": "africa",
+      "age": "Thu 15:52"
     },
     {
       "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
@@ -65,9 +58,16 @@
       "link": "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
       "region": "global",
       "age": "Fri 22:20"
+    },
+    {
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "region": "global",
+      "age": "Thu 18:18"
     }
   ],
-  "digest": "• Egypt’s NoorNation Raises $1.05 Million to Expand Solar Irrigation and Cut Farmers’ Diesel Costs — TechMoran\n• Knife Capital Backs South African Healthtech Alignd After Its Healthcare Model Saves Insurers $36 Million — TechMoran\n• NCC considers 15-year spectrum licences to boost broadband investment — TechCabal\n• Pan-African VC firm Enza Capital reaches $21m first close of AI Africa Fund — Disrupt Africa\n• 👨🏿‍🚀TechCabal Daily – ‘Shelf-made IPO’ — TechCabal\n• Jumpstarter platform helps SA entrepreneurs raise seed capital from their communities — Disrupt Africa\n• Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say — TechCrunch\n• Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang? — Crunchbase News\n• The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll — Crunchbase News",
+  "digest": "• Egypt’s NoorNation Raises $1.05 Million to Expand Solar Irrigation and Cut Farmers’ Diesel Costs — TechMoran\n• NCC considers 15-year spectrum licences to boost broadband investment — TechCabal\n• Pan-African VC firm Enza Capital reaches $21m first close of AI Africa Fund — Disrupt Africa\n• Jumpstarter platform helps SA entrepreneurs raise seed capital from their communities — Disrupt Africa\n• Swedfund Invests $15 Million in Lightrock Africa Fund to Back Growth-Stage Businesses — TechMoran\n• Enza Capital Raises USD 21 M First Close For USD 60 M AI Africa Fund — WeeTracker\n• Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang? — Crunchbase News\n• The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll — Crunchbase News\n• Norwest pushes deeper into AI with new $4B fund — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
