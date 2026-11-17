@@ -1,8 +1,22 @@
 {
-  "date_label": "Mon 16 Nov",
-  "updated": "16:10 EAT, Mon 16 Nov 2026",
+  "date_label": "Tue 17 Nov",
+  "updated": "14:13 EAT, Tue 17 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Sudanese fintech startup Cashi raises $660k from Proparco",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/11/17/sudanese-fintech-startup-cashi-raises-660k-from-proparco/?utm_source=rss&utm_medium=rss&utm_campaign=sudanese-fintech-startup-cashi-raises-660k-from-proparco",
+      "region": "africa",
+      "age": "Tue 12:00"
+    },
+    {
+      "title": "Ethiopia’s Dodai Raises Series A Funding to $16 Million as Japanese Investors Bet on Electric Motorcycles",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/11/16/ethiopias-dodai-raises-series-a-funding-to-16-million-as-japanese-investors-bet-on-electric-motorcycles/",
+      "region": "africa",
+      "age": "Mon 22:38"
+    },
     {
       "title": "Ethiopian E-Mobility Startup Dodai Raises Additional USD 3 M In Series A Extension",
       "source": "WeeTracker",
@@ -11,25 +25,11 @@
       "age": "Mon 14:21"
     },
     {
-      "title": "Four years after walking away, MTN is back for Telkom",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/11/16/mtn-reopens-talks-to-acquire-telkom/",
-      "region": "africa",
-      "age": "Mon 14:07"
-    },
-    {
       "title": "PROTEGEY Secures Pre-Seed Funding To Expand Fraud Intelligence & Compliance In Africa",
       "source": "WeeTracker",
       "link": "https://weetracker.com/2026/11/16/protegey-secures-pre-seed-funding-lvlup-ventures/",
       "region": "africa",
       "age": "Mon 13:55"
-    },
-    {
-      "title": "NGX Group expands into East Africa with 10% stake in Nairobi bourse",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/11/16/ngx-group-nairobi-exchange-stake/",
-      "region": "africa",
-      "age": "Mon 13:14"
     },
     {
       "title": "SA e-health startup Alignd raises Knife Capital funding to expand into maternity, kidney care",
@@ -46,11 +46,11 @@
       "age": "Mon 08:29"
     },
     {
-      "title": "In The AI Era, Keep Hiring New College Grads — And Make Them Managers From Day One",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/ai/new-college-grads-workforce-management-morse-strattam-quoia-kse/",
+      "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
       "region": "global",
-      "age": "Mon 15:00"
+      "age": "Mon 19:06"
     },
     {
       "title": "VC Firm Plural Closes On $1.1B To Invest In European Startups With Potential For ‘GDP-Level Impact’",
@@ -67,7 +67,7 @@
       "age": "Mon 10:00"
     }
   ],
-  "digest": "• Ethiopian E-Mobility Startup Dodai Raises Additional USD 3 M In Series A Extension — WeeTracker\n• Four years after walking away, MTN is back for Telkom — TechCabal\n• PROTEGEY Secures Pre-Seed Funding To Expand Fraud Intelligence & Compliance In Africa — WeeTracker\n• NGX Group expands into East Africa with 10% stake in Nairobi bourse — TechCabal\n• SA e-health startup Alignd raises Knife Capital funding to expand into maternity, kidney care — Disrupt Africa\n• Dodai Adds $3mn to Series A as Tokyo Gas and Singapore Family Office Bet on Ethiopia’s Battery-Swapping Model — Launch Base Africa\n• In The AI Era, Keep Hiring New College Grads — And Make Them Managers From Day One — Crunchbase News\n• VC Firm Plural Closes On $1.1B To Invest In European Startups With Potential For ‘GDP-Level Impact’ — Crunchbase News\n• Helsing backer Plural raises $1.1B to fund Europe’s next moonshots — TechCrunch",
+  "digest": "• Sudanese fintech startup Cashi raises $660k from Proparco — Disrupt Africa\n• Ethiopia’s Dodai Raises Series A Funding to $16 Million as Japanese Investors Bet on Electric Motorcycles — TechMoran\n• Ethiopian E-Mobility Startup Dodai Raises Additional USD 3 M In Series A Extension — WeeTracker\n• PROTEGEY Secures Pre-Seed Funding To Expand Fraud Intelligence & Compliance In Africa — WeeTracker\n• SA e-health startup Alignd raises Knife Capital funding to expand into maternity, kidney care — Disrupt Africa\n• Dodai Adds $3mn to Series A as Tokyo Gas and Singapore Family Office Bet on Ethiopia’s Battery-Swapping Model — Launch Base Africa\n• Serena Williams winds down her VC firm, launches new fund, seeks $200M — TechCrunch\n• VC Firm Plural Closes On $1.1B To Invest In European Startups With Potential For ‘GDP-Level Impact’ — Crunchbase News\n• Helsing backer Plural raises $1.1B to fund Europe’s next moonshots — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
