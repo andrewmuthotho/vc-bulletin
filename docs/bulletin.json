@@ -1,6 +1,6 @@
 {
   "date_label": "Wed 18 Nov",
-  "updated": "13:46 EAT, Wed 18 Nov 2026",
+  "updated": "15:18 EAT, Wed 18 Nov 2026",
   "count": 9,
   "items": [
     {
@@ -46,6 +46,13 @@
       "age": "Tue 12:00"
     },
     {
+      "title": "Sector Snapshot: Investors Turn Up The Volume On Voice AI",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/",
+      "region": "global",
+      "age": "Wed 15:00"
+    },
+    {
       "title": "Stripe backer Atomico calls for Europe to own its success stories",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
@@ -58,16 +65,9 @@
       "link": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
       "region": "global",
       "age": "Tue 17:00"
-    },
-    {
-      "title": "PwC’s IPO Lead On A Selective Market, AI Valuations And The Outlook For 2027",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/public/ipo-ma-spac-ai-forecast-qa-pwcs-partner-bellin/",
-      "region": "global",
-      "age": "Tue 15:00"
     }
   ],
-  "digest": "• First Circle Capital closes $26m fund for African fintech — The Condia\n• First Circle Capital Closes $26 Million Africa Fund to Back Fintech Startups — TechMoran\n• Egyptian digital gold investment platform Sabika raises funding — Disrupt Africa\n• Savanna Fibre Surpasses 250,000 Subscribers, Raising Equity for 1 Million New Home Passes — TechMoran\n• Saviu II raises €40 million to back 20 African startups — The Condia\n• Sudanese fintech startup Cashi raises $660k from Proparco — Disrupt Africa\n• Stripe backer Atomico calls for Europe to own its success stories — TechCrunch\n• Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses — Crunchbase News\n• PwC’s IPO Lead On A Selective Market, AI Valuations And The Outlook For 2027 — Crunchbase News",
+  "digest": "• First Circle Capital closes $26m fund for African fintech — The Condia\n• First Circle Capital Closes $26 Million Africa Fund to Back Fintech Startups — TechMoran\n• Egyptian digital gold investment platform Sabika raises funding — Disrupt Africa\n• Savanna Fibre Surpasses 250,000 Subscribers, Raising Equity for 1 Million New Home Passes — TechMoran\n• Saviu II raises €40 million to back 20 African startups — The Condia\n• Sudanese fintech startup Cashi raises $660k from Proparco — Disrupt Africa\n• Sector Snapshot: Investors Turn Up The Volume On Voice AI — Crunchbase News\n• Stripe backer Atomico calls for Europe to own its success stories — TechCrunch\n• Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
