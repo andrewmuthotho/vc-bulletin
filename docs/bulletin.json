@@ -1,8 +1,15 @@
 {
   "date_label": "Fri 20 Nov",
-  "updated": "15:13 EAT, Fri 20 Nov 2026",
+  "updated": "16:38 EAT, Fri 20 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Nigerian AI Startup Khaime Raises USD 500 K Pre-Seed Funding Led By Launch Africa Ventures",
+      "source": "WeeTracker",
+      "link": "https://weetracker.com/2026/11/20/khaime-raises-500k-pre-seed-launch-africa-ventures/",
+      "region": "africa",
+      "age": "Fri 15:30"
+    },
     {
       "title": "First Circle Capital completes $26m final close of fund to build next generation of African fintech infrastructure",
       "source": "Disrupt Africa",
@@ -39,13 +46,6 @@
       "age": "Thu 13:40"
     },
     {
-      "title": "Saviu Ventures Closes Second Fund At USD 44 M To Back African Startups",
-      "source": "WeeTracker",
-      "link": "https://weetracker.com/2026/11/19/saviu-ventures-closes-second-fund-40m-francophone-africa/",
-      "region": "africa",
-      "age": "Thu 13:24"
-    },
-    {
       "title": "What The Telecom Bust Taught Me About AI’s Debt Boom",
       "source": "Crunchbase News",
       "link": "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/",
@@ -67,7 +67,7 @@
       "age": "Thu 15:00"
     }
   ],
-  "digest": "• First Circle Capital completes $26m final close of fund to build next generation of African fintech infrastructure — Disrupt Africa\n• African Private Equity Firm Mediterrania Capital Makes Its First Move into Venture with $54m Fund — Launch Base Africa\n• Absa Takes Kenyan Investors Beyond Local Markets With $1.78 Million Fund — TechMoran\n• Egyptian AI startup Chipverse raises pre-seed funding — The Condia\n• First Circle Capital Closes USD 26 M Fund To Back African Fintechs — WeeTracker\n• Saviu Ventures Closes Second Fund At USD 44 M To Back African Startups — WeeTracker\n• What The Telecom Bust Taught Me About AI’s Debt Boom — Crunchbase News\n• Anthropic rival says companies can (mostly) skip the pricey models — TechCrunch\n• The Blue Economy: The World’s Quietest Economic Engine And Its Smartest Cities — Crunchbase News",
+  "digest": "• Nigerian AI Startup Khaime Raises USD 500 K Pre-Seed Funding Led By Launch Africa Ventures — WeeTracker\n• First Circle Capital completes $26m final close of fund to build next generation of African fintech infrastructure — Disrupt Africa\n• African Private Equity Firm Mediterrania Capital Makes Its First Move into Venture with $54m Fund — Launch Base Africa\n• Absa Takes Kenyan Investors Beyond Local Markets With $1.78 Million Fund — TechMoran\n• Egyptian AI startup Chipverse raises pre-seed funding — The Condia\n• First Circle Capital Closes USD 26 M Fund To Back African Fintechs — WeeTracker\n• What The Telecom Bust Taught Me About AI’s Debt Boom — Crunchbase News\n• Anthropic rival says companies can (mostly) skip the pricey models — TechCrunch\n• The Blue Economy: The World’s Quietest Economic Engine And Its Smartest Cities — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
