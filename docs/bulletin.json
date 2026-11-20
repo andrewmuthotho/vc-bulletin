@@ -1,6 +1,6 @@
 {
   "date_label": "Fri 20 Nov",
-  "updated": "13:34 EAT, Fri 20 Nov 2026",
+  "updated": "15:13 EAT, Fri 20 Nov 2026",
   "count": 9,
   "items": [
     {
@@ -13,7 +13,7 @@
     {
       "title": "African Private Equity Firm Mediterrania Capital Makes Its First Move into Venture with $54m Fund",
       "source": "Launch Base Africa",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNalNSVkRubEY2a1dMTUVxX3Z4ZG9fbjh6dGhSb29KUE1EYTFlWldCRlVrSmZDUnpoeGs4YkYzS3lLeEFGVHVVMmtBTWEyTWlsUFZpYVAxTlFweU1BdGFIbzR1WGRhWmJ1U3hXWDdXNEp6eHdUa3hNRUxWeW9VUlFZYUNFR3RSNkdDU29aRVRHMEpfZ0d0UG9pZDR6a1lGOTJLVTJhaTdjZEJFbmRiRVVEdDZ4RUVuWWpGLXRfV1U5RlVJTWlQVzNjbUduTmVONHFwMlNv?oc=5",
+      "link": "https://launchbaseafrica.com/2026/11/20/african-private-equity-firm-mediterrania-capital-makes-its-first-move-into-venture-with-54m-fund/?utm_source=rss&utm_medium=rss&utm_campaign=african-private-equity-firm-mediterrania-capital-makes-its-first-move-into-venture-with-54m-fund",
       "region": "africa",
       "age": "Fri 08:30"
     },
@@ -46,6 +46,13 @@
       "age": "Thu 13:24"
     },
     {
+      "title": "What The Telecom Bust Taught Me About AI’s Debt Boom",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/",
+      "region": "global",
+      "age": "Fri 15:00"
+    },
+    {
       "title": "Anthropic rival says companies can (mostly) skip the pricey models",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
@@ -58,16 +65,9 @@
       "link": "https://news.crunchbase.com/startups/blue-economy-technology-defense-energy-onetti-mind-the-bridge/",
       "region": "global",
       "age": "Thu 15:00"
-    },
-    {
-      "title": "What’s Next For Recruiting, Job Hunting And HR? More AI, Of Course",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/data-recruiting-job-hunting-hr-ai-startups-mercor/",
-      "region": "global",
-      "age": "Thu 15:00"
     }
   ],
-  "digest": "• First Circle Capital completes $26m final close of fund to build next generation of African fintech infrastructure — Disrupt Africa\n• African Private Equity Firm Mediterrania Capital Makes Its First Move into Venture with $54m Fund — Launch Base Africa\n• Absa Takes Kenyan Investors Beyond Local Markets With $1.78 Million Fund — TechMoran\n• Egyptian AI startup Chipverse raises pre-seed funding — The Condia\n• First Circle Capital Closes USD 26 M Fund To Back African Fintechs — WeeTracker\n• Saviu Ventures Closes Second Fund At USD 44 M To Back African Startups — WeeTracker\n• Anthropic rival says companies can (mostly) skip the pricey models — TechCrunch\n• The Blue Economy: The World’s Quietest Economic Engine And Its Smartest Cities — Crunchbase News\n• What’s Next For Recruiting, Job Hunting And HR? More AI, Of Course — Crunchbase News",
+  "digest": "• First Circle Capital completes $26m final close of fund to build next generation of African fintech infrastructure — Disrupt Africa\n• African Private Equity Firm Mediterrania Capital Makes Its First Move into Venture with $54m Fund — Launch Base Africa\n• Absa Takes Kenyan Investors Beyond Local Markets With $1.78 Million Fund — TechMoran\n• Egyptian AI startup Chipverse raises pre-seed funding — The Condia\n• First Circle Capital Closes USD 26 M Fund To Back African Fintechs — WeeTracker\n• Saviu Ventures Closes Second Fund At USD 44 M To Back African Startups — WeeTracker\n• What The Telecom Bust Taught Me About AI’s Debt Boom — Crunchbase News\n• Anthropic rival says companies can (mostly) skip the pricey models — TechCrunch\n• The Blue Economy: The World’s Quietest Economic Engine And Its Smartest Cities — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
