@@ -1,6 +1,6 @@
 {
   "date_label": "Sat 21 Nov",
-  "updated": "13:15 EAT, Sat 21 Nov 2026",
+  "updated": "14:49 EAT, Sat 21 Nov 2026",
   "count": 9,
   "items": [
     {
@@ -16,6 +16,13 @@
       "link": "https://weetracker.com/2026/11/20/chipverse-raises-pre-seed-funding-ai-infrastructure-egypt/",
       "region": "africa",
       "age": "Fri 17:02"
+    },
+    {
+      "title": "Africa Fintech Summit co-founder launches $10m Next Roots Ventures fund",
+      "source": "The Condia",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IUVNvQzNkaFFDc0RTNmlDY2FYcXVFYjhnZnl0SnBaY2JDZ2R3SFpBMWFqVFJxWEdCWTZZb25FZ0pBempoNHVoUmhkT1Bfakd0YnVCVVRBRmdCSWlRREdwRkVzdmpIYTlTNWRCLWtTaWhnMWNINlE?oc=5",
+      "region": "africa",
+      "age": "Fri 16:37"
     },
     {
       "title": "Nigerian AI Startup Khaime Raises USD 500 K Pre-Seed Funding Led By Launch Africa Ventures",
@@ -34,16 +41,9 @@
     {
       "title": "African Private Equity Firm Mediterrania Capital Makes Its First Move into Venture with $54m Fund",
       "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/11/20/african-private-equity-firm-mediterrania-capital-makes-its-first-move-into-venture-with-54m-fund/?utm_source=rss&utm_medium=rss&utm_campaign=african-private-equity-firm-mediterrania-capital-makes-its-first-move-into-venture-with-54m-fund",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNalNSVkRubEY2a1dMTUVxX3Z4ZG9fbjh6dGhSb29KUE1EYTFlWldCRlVrSmZDUnpoeGs4YkYzS3lLeEFGVHVVMmtBTWEyTWlsUFZpYVAxTlFweU1BdGFIbzR1WGRhWmJ1U3hXWDdXNEp6eHdUa3hNRUxWeW9VUlFZYUNFR3RSNkdDU29aRVRHMEpfZ0d0UG9pZDR6a1lGOTJLVTJhaTdjZEJFbmRiRVVEdDZ4RUVuWWpGLXRfV1U5RlVJTWlQVzNjbUduTmVONHFwMlNv?oc=5",
       "region": "africa",
       "age": "Fri 08:30"
-    },
-    {
-      "title": "Connect Money Raises $3.5mn as Egypt’s Embedded Finance Model Goes Regional",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/11/20/connect-money-raises-3-5mn-as-egypts-embedded-finance-model-goes-regional/?utm_source=rss&utm_medium=rss&utm_campaign=connect-money-raises-3-5mn-as-egypts-embedded-finance-model-goes-regional",
-      "region": "africa",
-      "age": "Fri 08:20"
     },
     {
       "title": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
@@ -67,7 +67,7 @@
       "age": "Fri 03:26"
     }
   ],
-  "digest": "• Connect Money Announces $3.5 Million Deal Ahead of Saudi, Morocco Expansion — TechMoran\n• Egypt’s Chipverse Raises Pre-Seed Funding To Expand AI Infrastructure — WeeTracker\n• Nigerian AI Startup Khaime Raises USD 500 K Pre-Seed Funding Led By Launch Africa Ventures — WeeTracker\n• First Circle Capital completes $26m final close of fund to build next generation of African fintech infrastructure — Disrupt Africa\n• African Private Equity Firm Mediterrania Capital Makes Its First Move into Venture with $54m Fund — Launch Base Africa\n• Connect Money Raises $3.5mn as Egypt’s Embedded Finance Model Goes Regional — Launch Base Africa\n• The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More — Crunchbase News\n• What The Telecom Bust Taught Me About AI’s Debt Boom — Crunchbase News\n• Anthropic rival says companies can (mostly) skip the pricey models — TechCrunch",
+  "digest": "• Connect Money Announces $3.5 Million Deal Ahead of Saudi, Morocco Expansion — TechMoran\n• Egypt’s Chipverse Raises Pre-Seed Funding To Expand AI Infrastructure — WeeTracker\n• Africa Fintech Summit co-founder launches $10m Next Roots Ventures fund — The Condia\n• Nigerian AI Startup Khaime Raises USD 500 K Pre-Seed Funding Led By Launch Africa Ventures — WeeTracker\n• First Circle Capital completes $26m final close of fund to build next generation of African fintech infrastructure — Disrupt Africa\n• African Private Equity Firm Mediterrania Capital Makes Its First Move into Venture with $54m Fund — Launch Base Africa\n• The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More — Crunchbase News\n• What The Telecom Bust Taught Me About AI’s Debt Boom — Crunchbase News\n• Anthropic rival says companies can (mostly) skip the pricey models — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
