@@ -1,14 +1,14 @@
 {
   "date_label": "Mon 23 Nov",
-  "updated": "16:43 EAT, Mon 23 Nov 2026",
+  "updated": "18:25 EAT, Mon 23 Nov 2026",
   "count": 9,
   "items": [
     {
-      "title": "South African founder raises $1.67 million to make robots better at handling objects",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/11/23/lupa-robotics-1-67-million-seed-raise/",
+      "title": "Shoprite Acquires 40% Stake In DNI For USD 206 M, Partners With Investec",
+      "source": "WeeTracker",
+      "link": "https://weetracker.com/2026/11/23/shoprite-acquires-40-percent-stake-dni-investec/",
       "region": "africa",
-      "age": "Mon 15:55"
+      "age": "Mon 18:13"
     },
     {
       "title": "Mauritius logistics fintech Korridor gets investment from private equity firm Apis",
@@ -46,28 +46,28 @@
       "age": "Mon 08:30"
     },
     {
+      "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
+      "region": "global",
+      "age": "Mon 15:00"
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "region": "global",
+      "age": "Mon 04:25"
+    },
+    {
       "title": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
       "source": "Crunchbase News",
       "link": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
       "region": "global",
       "age": "Fri 23:15"
-    },
-    {
-      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-      "region": "global",
-      "age": "Wed 22:29"
-    },
-    {
-      "title": "Sector Snapshot: Investors Turn Up The Volume On Voice AI",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/",
-      "region": "global",
-      "age": "Wed 15:00"
     }
   ],
-  "digest": "• South African founder raises $1.67 million to make robots better at handling objects — TechCabal\n• Mauritius logistics fintech Korridor gets investment from private equity firm Apis — The Condia\n• Qualcomm Awards $75,000 to African Livestock AI Startup Qualikeeper as 2026 Accelerator Concludes — TechMoran\n• Francophone Africa-focused VC Saviu closes 2nd fund at $44m — Disrupt Africa\n• Launch Africa Leads $500,000 Investment in AI Commerce Startup Khaime — TechMoran\n• Just Months After Backing Fintech Mission Mobile, DNI Sells a $206m Stake to Retail Giant Shoprite — Launch Base Africa\n• The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More — Crunchbase News\n• Spend management platform Payhawk announces $280M raise, 2B valuation — TechCrunch\n• Sector Snapshot: Investors Turn Up The Volume On Voice AI — Crunchbase News",
+  "digest": "• Shoprite Acquires 40% Stake In DNI For USD 206 M, Partners With Investec — WeeTracker\n• Mauritius logistics fintech Korridor gets investment from private equity firm Apis — The Condia\n• Qualcomm Awards $75,000 to African Livestock AI Startup Qualikeeper as 2026 Accelerator Concludes — TechMoran\n• Francophone Africa-focused VC Saviu closes 2nd fund at $44m — Disrupt Africa\n• Launch Africa Leads $500,000 Investment in AI Commerce Startup Khaime — TechMoran\n• Just Months After Backing Fintech Mission Mobile, DNI Sells a $206m Stake to Retail Giant Shoprite — Launch Base Africa\n• Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates — Crunchbase News\n• How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
