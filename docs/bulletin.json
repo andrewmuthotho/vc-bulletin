@@ -1,8 +1,22 @@
 {
-  "date_label": "Mon 23 Nov",
-  "updated": "18:25 EAT, Mon 23 Nov 2026",
+  "date_label": "Tue 24 Nov",
+  "updated": "15:57 EAT, Tue 24 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Apis Partners Acquires Majority Stake in African Logistics Fintech Korridor",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/11/24/apis-partners-acquires-majority-stake-in-african-logistics-fintech-korridor/",
+      "region": "africa",
+      "age": "Tue 15:01"
+    },
+    {
+      "title": "Venture studios: an under-leveraged first-round pipeline for investors in Africa",
+      "source": "Africa: The Big Deal",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1MkI4RUx3M2JEWUJMWmRUbjRCU3hNcmtvcTZxcUc3YjdEa1BfdWt4QTU1S3R5NElKY1UyLXFSWTBiWUlwTmxQRG1YM1BlQV84UndJ?oc=5",
+      "region": "africa",
+      "age": "Tue 10:20"
+    },
     {
       "title": "Shoprite Acquires 40% Stake In DNI For USD 206 M, Partners With Investec",
       "source": "WeeTracker",
@@ -16,13 +30,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02RlhwNHVwYmpJVVl4a1V5MUkxdktiZlY2ZzY5Q0lLTmFVNTZRV0dEWnFjQ19tVk5DWjVkTkk4YUJRTWJjRm1pek5xWkNuUExlcGtHR2FiQ0U3VS1GZUlLWVZpX2xLQTJ0d25uMk1FVGRqbGc?oc=5",
       "region": "africa",
       "age": "Mon 15:27"
-    },
-    {
-      "title": "Qualcomm Awards $75,000 to African Livestock AI Startup Qualikeeper as 2026 Accelerator Concludes",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/11/23/qualcomm-awards-75000-to-african-livestock-ai-startup-qualikeeper-as-2026-accelerator-concludes/",
-      "region": "africa",
-      "age": "Mon 12:40"
     },
     {
       "title": "Francophone Africa-focused VC Saviu closes 2nd fund at $44m",
@@ -39,11 +46,11 @@
       "age": "Mon 11:46"
     },
     {
-      "title": "Just Months After Backing Fintech Mission Mobile, DNI Sells a $206m Stake to Retail Giant Shoprite",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/11/23/just-months-after-backing-fintech-mission-mobile-dni-sells-a-206m-stake-to-retail-giant-shoprite/?utm_source=rss&utm_medium=rss&utm_campaign=just-months-after-backing-fintech-mission-mobile-dni-sells-a-206m-stake-to-retail-giant-shoprite",
-      "region": "africa",
-      "age": "Mon 08:30"
+      "title": "AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/workplace/ai-bias-in-hr-hiring-job-applications/",
+      "region": "global",
+      "age": "Tue 15:00"
     },
     {
       "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
@@ -58,16 +65,9 @@
       "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
       "region": "global",
       "age": "Mon 04:25"
-    },
-    {
-      "title": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
-      "region": "global",
-      "age": "Fri 23:15"
     }
   ],
-  "digest": "• Shoprite Acquires 40% Stake In DNI For USD 206 M, Partners With Investec — WeeTracker\n• Mauritius logistics fintech Korridor gets investment from private equity firm Apis — The Condia\n• Qualcomm Awards $75,000 to African Livestock AI Startup Qualikeeper as 2026 Accelerator Concludes — TechMoran\n• Francophone Africa-focused VC Saviu closes 2nd fund at $44m — Disrupt Africa\n• Launch Africa Leads $500,000 Investment in AI Commerce Startup Khaime — TechMoran\n• Just Months After Backing Fintech Mission Mobile, DNI Sells a $206m Stake to Retail Giant Shoprite — Launch Base Africa\n• Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates — Crunchbase News\n• How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO — TechCrunch\n• The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More — Crunchbase News",
+  "digest": "• Apis Partners Acquires Majority Stake in African Logistics Fintech Korridor — TechMoran\n• Venture studios: an under-leveraged first-round pipeline for investors in Africa — Africa: The Big Deal\n• Shoprite Acquires 40% Stake In DNI For USD 206 M, Partners With Investec — WeeTracker\n• Mauritius logistics fintech Korridor gets investment from private equity firm Apis — The Condia\n• Francophone Africa-focused VC Saviu closes 2nd fund at $44m — Disrupt Africa\n• Launch Africa Leads $500,000 Investment in AI Commerce Startup Khaime — TechMoran\n• AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It — Crunchbase News\n• Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates — Crunchbase News\n• How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
