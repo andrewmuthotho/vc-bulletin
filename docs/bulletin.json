@@ -1,35 +1,28 @@
 {
   "date_label": "Wed 25 Nov",
-  "updated": "14:46 EAT, Wed 25 Nov 2026",
+  "updated": "16:33 EAT, Wed 25 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "NoorNation raises $1.05M seed for solar irrigation",
+      "source": "The Condia",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10ei1KSE1ZbXFyYmYtRUFNbUdDTWZZeTFSa1h3WUhLY1Z3MEhLa1k4YkE3aGFra3h3Ni1UVU1jQWpxMHVsbWlLaXo5RUpXcU5ZdU5LUkNJSk9YVlFuSldESmJFeE1DY09ieFhrNE5BZG9HX042d2Vn?oc=5",
+      "region": "africa",
+      "age": "Wed 16:32"
+    },
+    {
+      "title": "Aeon Raises $2 Million to Build Africa’s Cyber Defence Infrastructure",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/11/25/aeon-raises-2-million-to-build-africas-cyber-defence-infrastructure/",
+      "region": "africa",
+      "age": "Wed 16:05"
+    },
     {
       "title": "Nigerian cybersecurity startup Aeon extends pre-seed round to $2 million",
       "source": "TechCabal",
       "link": "https://techcabal.com/2026/11/25/aeon-extends-pre-seed-round-to-2-million/",
       "region": "africa",
       "age": "Wed 12:58"
-    },
-    {
-      "title": "Aeon raises another $1 million to build cybersecurity infrastructure for Africa",
-      "source": "The Condia",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rUWExLXRsWG8tY1JDcEtqd1hMR3hDN0FOd1dNTHFjT2N4c1JZcWEtdk9tcmtmbFlEOGh4dHNmdkUyWlhyOGJGbEZ3aXNiTm9hWVljODFoLTk3dTVTTkIyY3VSUjBmYl9IU0pJdVZhN1drYnM?oc=5",
-      "region": "africa",
-      "age": "Wed 12:40"
-    },
-    {
-      "title": "Kenya’s Cloud9 acquires Canadian money services business Monix Pay",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/11/25/kenyas-cloud9-acquires-canadian-money-services-business-monix-pay/?utm_source=rss&utm_medium=rss&utm_campaign=kenyas-cloud9-acquires-canadian-money-services-business-monix-pay",
-      "region": "africa",
-      "age": "Wed 12:00"
-    },
-    {
-      "title": "MTN’s proposed Telkom takeover comes with a competition cost",
-      "source": "TechCabal",
-      "link": "https://techcabal.com/2026/11/25/mtn-telkom-deal-sa-telecoms-market/",
-      "region": "africa",
-      "age": "Wed 10:15"
     },
     {
       "title": "Apis Partners Acquires Majority Stake in African Logistics Fintech Korridor",
@@ -46,28 +39,35 @@
       "age": "Tue 10:20"
     },
     {
+      "title": "NoorNation Secures $1.05mn Seed Round to Scale Solar-Water Infrastructure in Africa and Middle East",
+      "source": "Launch Base Africa",
+      "link": "https://launchbaseafrica.com/2026/11/24/noornation-secures-1-05mn-seed-round-to-scale-solar-water-infrastructure-in-africa-and-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=noornation-secures-1-05mn-seed-round-to-scale-solar-water-infrastructure-in-africa-and-middle-east",
+      "region": "africa",
+      "age": "Tue 07:30"
+    },
+    {
+      "title": "The Art of The Terrible Startup Name",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
+      "region": "global",
+      "age": "Wed 15:00"
+    },
+    {
+      "title": "Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/",
+      "region": "global",
+      "age": "Wed 15:00"
+    },
+    {
       "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
       "region": "global",
       "age": "Tue 21:30"
-    },
-    {
-      "title": "AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/workplace/ai-bias-in-hr-hiring-job-applications/",
-      "region": "global",
-      "age": "Tue 15:00"
-    },
-    {
-      "title": "Startups Are Picking Names That Can Work Even If The Original Business Model Doesn’t",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/startups/startup-name-trends-2026-ai/",
-      "region": "global",
-      "age": "Tue 15:00"
     }
   ],
-  "digest": "• Nigerian cybersecurity startup Aeon extends pre-seed round to $2 million — TechCabal\n• Aeon raises another $1 million to build cybersecurity infrastructure for Africa — The Condia\n• Kenya’s Cloud9 acquires Canadian money services business Monix Pay — Disrupt Africa\n• MTN’s proposed Telkom takeover comes with a competition cost — TechCabal\n• Apis Partners Acquires Majority Stake in African Logistics Fintech Korridor — TechMoran\n• Venture studios: an under-leveraged first-round pipeline for investors in Africa — Africa: The Big Deal\n• Anthropic shares fall below IPO price, a worrying sign for AI startups — TechCrunch\n• AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It — Crunchbase News\n• Startups Are Picking Names That Can Work Even If The Original Business Model Doesn’t — Crunchbase News",
+  "digest": "• NoorNation raises $1.05M seed for solar irrigation — The Condia\n• Aeon Raises $2 Million to Build Africa’s Cyber Defence Infrastructure — TechMoran\n• Nigerian cybersecurity startup Aeon extends pre-seed round to $2 million — TechCabal\n• Apis Partners Acquires Majority Stake in African Logistics Fintech Korridor — TechMoran\n• Venture studios: an under-leveraged first-round pipeline for investors in Africa — Africa: The Big Deal\n• NoorNation Secures $1.05mn Seed Round to Scale Solar-Water Infrastructure in Africa and Middle East — Launch Base Africa\n• The Art of The Terrible Startup Name — Crunchbase News\n• Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today — Crunchbase News\n• Anthropic shares fall below IPO price, a worrying sign for AI startups — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
