@@ -1,14 +1,21 @@
 {
   "date_label": "Wed 25 Nov",
-  "updated": "16:33 EAT, Wed 25 Nov 2026",
+  "updated": "18:01 EAT, Wed 25 Nov 2026",
   "count": 9,
   "items": [
     {
-      "title": "NoorNation raises $1.05M seed for solar irrigation",
+      "title": "Egyptian solar-water startup NoorNation raises $1.05m seed round",
       "source": "The Condia",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10ei1KSE1ZbXFyYmYtRUFNbUdDTWZZeTFSa1h3WUhLY1Z3MEhLa1k4YkE3aGFra3h3Ni1UVU1jQWpxMHVsbWlLaXo5RUpXcU5ZdU5LUkNJSk9YVlFuSldESmJFeE1DY09ieFhrNE5BZG9HX042d2Vn?oc=5",
       "region": "africa",
-      "age": "Wed 16:32"
+      "age": "Wed 16:31"
+    },
+    {
+      "title": "Egypt’s NoorNation Raises USD 1.05 M To Expand Solar-Powered Water Systems",
+      "source": "WeeTracker",
+      "link": "https://weetracker.com/2026/11/25/noornation-raises-1-05m-seed-funding/",
+      "region": "africa",
+      "age": "Wed 16:07"
     },
     {
       "title": "Aeon Raises $2 Million to Build Africa’s Cyber Defence Infrastructure",
@@ -39,13 +46,6 @@
       "age": "Tue 10:20"
     },
     {
-      "title": "NoorNation Secures $1.05mn Seed Round to Scale Solar-Water Infrastructure in Africa and Middle East",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/11/24/noornation-secures-1-05mn-seed-round-to-scale-solar-water-infrastructure-in-africa-and-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=noornation-secures-1-05mn-seed-round-to-scale-solar-water-infrastructure-in-africa-and-middle-east",
-      "region": "africa",
-      "age": "Tue 07:30"
-    },
-    {
       "title": "The Art of The Terrible Startup Name",
       "source": "Crunchbase News",
       "link": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
@@ -67,7 +67,7 @@
       "age": "Tue 21:30"
     }
   ],
-  "digest": "• NoorNation raises $1.05M seed for solar irrigation — The Condia\n• Aeon Raises $2 Million to Build Africa’s Cyber Defence Infrastructure — TechMoran\n• Nigerian cybersecurity startup Aeon extends pre-seed round to $2 million — TechCabal\n• Apis Partners Acquires Majority Stake in African Logistics Fintech Korridor — TechMoran\n• Venture studios: an under-leveraged first-round pipeline for investors in Africa — Africa: The Big Deal\n• NoorNation Secures $1.05mn Seed Round to Scale Solar-Water Infrastructure in Africa and Middle East — Launch Base Africa\n• The Art of The Terrible Startup Name — Crunchbase News\n• Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today — Crunchbase News\n• Anthropic shares fall below IPO price, a worrying sign for AI startups — TechCrunch",
+  "digest": "• Egyptian solar-water startup NoorNation raises $1.05m seed round — The Condia\n• Egypt’s NoorNation Raises USD 1.05 M To Expand Solar-Powered Water Systems — WeeTracker\n• Aeon Raises $2 Million to Build Africa’s Cyber Defence Infrastructure — TechMoran\n• Nigerian cybersecurity startup Aeon extends pre-seed round to $2 million — TechCabal\n• Apis Partners Acquires Majority Stake in African Logistics Fintech Korridor — TechMoran\n• Venture studios: an under-leveraged first-round pipeline for investors in Africa — Africa: The Big Deal\n• The Art of The Terrible Startup Name — Crunchbase News\n• Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today — Crunchbase News\n• Anthropic shares fall below IPO price, a worrying sign for AI startups — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
