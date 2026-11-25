@@ -1,8 +1,36 @@
 {
-  "date_label": "Tue 24 Nov",
-  "updated": "18:20 EAT, Tue 24 Nov 2026",
-  "count": 8,
+  "date_label": "Wed 25 Nov",
+  "updated": "14:46 EAT, Wed 25 Nov 2026",
+  "count": 9,
   "items": [
+    {
+      "title": "Nigerian cybersecurity startup Aeon extends pre-seed round to $2 million",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/11/25/aeon-extends-pre-seed-round-to-2-million/",
+      "region": "africa",
+      "age": "Wed 12:58"
+    },
+    {
+      "title": "Aeon raises another $1 million to build cybersecurity infrastructure for Africa",
+      "source": "The Condia",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rUWExLXRsWG8tY1JDcEtqd1hMR3hDN0FOd1dNTHFjT2N4c1JZcWEtdk9tcmtmbFlEOGh4dHNmdkUyWlhyOGJGbEZ3aXNiTm9hWVljODFoLTk3dTVTTkIyY3VSUjBmYl9IU0pJdVZhN1drYnM?oc=5",
+      "region": "africa",
+      "age": "Wed 12:40"
+    },
+    {
+      "title": "Kenya’s Cloud9 acquires Canadian money services business Monix Pay",
+      "source": "Disrupt Africa",
+      "link": "https://disruptafrica.com/2026/11/25/kenyas-cloud9-acquires-canadian-money-services-business-monix-pay/?utm_source=rss&utm_medium=rss&utm_campaign=kenyas-cloud9-acquires-canadian-money-services-business-monix-pay",
+      "region": "africa",
+      "age": "Wed 12:00"
+    },
+    {
+      "title": "MTN’s proposed Telkom takeover comes with a competition cost",
+      "source": "TechCabal",
+      "link": "https://techcabal.com/2026/11/25/mtn-telkom-deal-sa-telecoms-market/",
+      "region": "africa",
+      "age": "Wed 10:15"
+    },
     {
       "title": "Apis Partners Acquires Majority Stake in African Logistics Fintech Korridor",
       "source": "TechMoran",
@@ -18,32 +46,11 @@
       "age": "Tue 10:20"
     },
     {
-      "title": "Shoprite Acquires 40% Stake In DNI For USD 206 M, Partners With Investec",
-      "source": "WeeTracker",
-      "link": "https://weetracker.com/2026/11/23/shoprite-acquires-40-percent-stake-dni-investec/",
-      "region": "africa",
-      "age": "Mon 18:13"
-    },
-    {
-      "title": "Mauritius logistics fintech Korridor gets investment from private equity firm Apis",
-      "source": "The Condia",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02RlhwNHVwYmpJVVl4a1V5MUkxdktiZlY2ZzY5Q0lLTmFVNTZRV0dEWnFjQ19tVk5DWjVkTkk4YUJRTWJjRm1pek5xWkNuUExlcGtHR2FiQ0U3VS1GZUlLWVZpX2xLQTJ0d25uMk1FVGRqbGc?oc=5",
-      "region": "africa",
-      "age": "Mon 15:27"
-    },
-    {
-      "title": "Francophone Africa-focused VC Saviu closes 2nd fund at $44m",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/11/23/francophone-africa-focused-vc-saviu-closes-2nd-fund-at-44m/?utm_source=rss&utm_medium=rss&utm_campaign=francophone-africa-focused-vc-saviu-closes-2nd-fund-at-44m",
-      "region": "africa",
-      "age": "Mon 12:00"
-    },
-    {
-      "title": "Launch Africa Leads $500,000 Investment in AI Commerce Startup Khaime",
-      "source": "TechMoran",
-      "link": "https://techmoran.com/2026/11/23/launch-africa-leads-500000-investment-in-ai-commerce-startup-khaime/",
-      "region": "africa",
-      "age": "Mon 11:46"
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "region": "global",
+      "age": "Tue 21:30"
     },
     {
       "title": "AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It",
@@ -53,21 +60,14 @@
       "age": "Tue 15:00"
     },
     {
-      "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
+      "title": "Startups Are Picking Names That Can Work Even If The Original Business Model Doesn’t",
       "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
+      "link": "https://news.crunchbase.com/startups/startup-name-trends-2026-ai/",
       "region": "global",
-      "age": "Mon 15:00"
-    },
-    {
-      "title": "",
-      "source": "",
-      "link": "",
-      "region": "",
-      "age": ""
+      "age": "Tue 15:00"
     }
   ],
-  "digest": "• Apis Partners Acquires Majority Stake in African Logistics Fintech Korridor — TechMoran\n• Venture studios: an under-leveraged first-round pipeline for investors in Africa — Africa: The Big Deal\n• Shoprite Acquires 40% Stake In DNI For USD 206 M, Partners With Investec — WeeTracker\n• Mauritius logistics fintech Korridor gets investment from private equity firm Apis — The Condia\n• Francophone Africa-focused VC Saviu closes 2nd fund at $44m — Disrupt Africa\n• Launch Africa Leads $500,000 Investment in AI Commerce Startup Khaime — TechMoran\n• AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It — Crunchbase News\n• Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates — Crunchbase News",
+  "digest": "• Nigerian cybersecurity startup Aeon extends pre-seed round to $2 million — TechCabal\n• Aeon raises another $1 million to build cybersecurity infrastructure for Africa — The Condia\n• Kenya’s Cloud9 acquires Canadian money services business Monix Pay — Disrupt Africa\n• MTN’s proposed Telkom takeover comes with a competition cost — TechCabal\n• Apis Partners Acquires Majority Stake in African Logistics Fintech Korridor — TechMoran\n• Venture studios: an under-leveraged first-round pipeline for investors in Africa — Africa: The Big Deal\n• Anthropic shares fall below IPO price, a worrying sign for AI startups — TechCrunch\n• AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It — Crunchbase News\n• Startups Are Picking Names That Can Work Even If The Original Business Model Doesn’t — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
