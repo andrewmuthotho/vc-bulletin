@@ -1,6 +1,6 @@
 {
   "date_label": "Thu 26 Nov",
-  "updated": "14:31 EAT, Thu 26 Nov 2026",
+  "updated": "16:13 EAT, Thu 26 Nov 2026",
   "count": 9,
   "items": [
     {
@@ -46,6 +46,13 @@
       "age": "Wed 16:05"
     },
     {
+      "title": "The Art of The Terrible Startup Name",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
+      "region": "global",
+      "age": "Wed 15:00"
+    },
+    {
       "title": "Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today",
       "source": "Crunchbase News",
       "link": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/",
@@ -58,16 +65,9 @@
       "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
       "region": "global",
       "age": "Tue 21:30"
-    },
-    {
-      "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
-      "region": "global",
-      "age": "Mon 15:00"
     }
   ],
-  "digest": "• Egyptian Gold Investment Platform Sabika Secures Undisclosed Funding — WeeTracker\n• SA’s Community Wolf raises seed funding round led by Terra Industries — Disrupt Africa\n• Nigerian cybersecurity startup Aeon extends pre-seed round to $2m — Disrupt Africa\n• Egyptian solar-water startup NoorNation raises $1.05m seed round — The Condia\n• Egypt’s NoorNation Raises USD 1.05 M To Expand Solar-Powered Water Systems — WeeTracker\n• Aeon Raises $2 Million to Build Africa’s Cyber Defence Infrastructure — TechMoran\n• Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today — Crunchbase News\n• Anthropic shares fall below IPO price, a worrying sign for AI startups — TechCrunch\n• Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates — Crunchbase News",
+  "digest": "• Egyptian Gold Investment Platform Sabika Secures Undisclosed Funding — WeeTracker\n• SA’s Community Wolf raises seed funding round led by Terra Industries — Disrupt Africa\n• Nigerian cybersecurity startup Aeon extends pre-seed round to $2m — Disrupt Africa\n• Egyptian solar-water startup NoorNation raises $1.05m seed round — The Condia\n• Egypt’s NoorNation Raises USD 1.05 M To Expand Solar-Powered Water Systems — WeeTracker\n• Aeon Raises $2 Million to Build Africa’s Cyber Defence Infrastructure — TechMoran\n• The Art of The Terrible Startup Name — Crunchbase News\n• Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today — Crunchbase News\n• Anthropic shares fall below IPO price, a worrying sign for AI startups — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
