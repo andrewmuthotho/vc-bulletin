@@ -1,21 +1,28 @@
 {
   "date_label": "Fri 27 Nov",
-  "updated": "14:26 EAT, Fri 27 Nov 2026",
+  "updated": "16:10 EAT, Fri 27 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "Payaza Enters Kenya After Repaying Sh8.5 Billion to Nigerian Investors",
+      "source": "TechMoran",
+      "link": "https://techmoran.com/2026/11/27/payaza-enters-kenya-after-repaying-sh8-5-billion-to-nigerian-investors/",
+      "region": "africa",
+      "age": "Fri 15:17"
+    },
+    {
+      "title": "Payaza settles ₦88.94 billion commercial paper obligation with investors",
+      "source": "The Condia",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tejdqZEZVTmlDb0RBTEw2NkpSVkFOVGRDeWFXeXMwX3NHb1BpODlzSmJUU2hDSF84RmM3ZDdiMUNMY0E1TVJueVdJQlRfQ3ZvSDVpSERDeThhdkFUR0dlU29kNEZFclk?oc=5",
+      "region": "africa",
+      "age": "Fri 14:02"
+    },
     {
       "title": "Nigeria, Togo seek investors for $50 million data park project",
       "source": "TechCabal",
       "link": "https://techcabal.com/2026/11/27/nigeria-togo-seek-data-park-investors/",
       "region": "africa",
       "age": "Fri 10:53"
-    },
-    {
-      "title": "Nomba’s CEO on Turning a 2016 AI Chatbot Into a Profitable $6bn-a-Month African Business Bank — ‘We Follow the Cargo’",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/11/27/nombas-ceo-on-turning-a-2016-ai-chatbot-into-a-profitable-6bn-a-month-african-business-bank/?utm_source=rss&utm_medium=rss&utm_campaign=nombas-ceo-on-turning-a-2016-ai-chatbot-into-a-profitable-6bn-a-month-african-business-bank",
-      "region": "africa",
-      "age": "Fri 08:30"
     },
     {
       "title": "Egyptian Gold Investment Platform Sabika Secures Undisclosed Funding",
@@ -39,13 +46,6 @@
       "age": "Thu 09:00"
     },
     {
-      "title": "Ethiopia’s Sovereign Wealth Fund Commits $10m to Open Its Biggest State Companies to Local Startups",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/11/26/ethiopia-kama/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-kama",
-      "region": "africa",
-      "age": "Thu 08:30"
-    },
-    {
       "title": "The Art of The Terrible Startup Name",
       "source": "Crunchbase News",
       "link": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
@@ -67,7 +67,7 @@
       "age": "Tue 21:30"
     }
   ],
-  "digest": "• Nigeria, Togo seek investors for $50 million data park project — TechCabal\n• Nomba’s CEO on Turning a 2016 AI Chatbot Into a Profitable $6bn-a-Month African Business Bank — ‘We Follow the Cargo’ — Launch Base Africa\n• Egyptian Gold Investment Platform Sabika Secures Undisclosed Funding — WeeTracker\n• SA’s Community Wolf raises seed funding round led by Terra Industries — Disrupt Africa\n• Nigerian cybersecurity startup Aeon extends pre-seed round to $2m — Disrupt Africa\n• Ethiopia’s Sovereign Wealth Fund Commits $10m to Open Its Biggest State Companies to Local Startups — Launch Base Africa\n• The Art of The Terrible Startup Name — Crunchbase News\n• Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today — Crunchbase News\n• Anthropic shares fall below IPO price, a worrying sign for AI startups — TechCrunch",
+  "digest": "• Payaza Enters Kenya After Repaying Sh8.5 Billion to Nigerian Investors — TechMoran\n• Payaza settles ₦88.94 billion commercial paper obligation with investors — The Condia\n• Nigeria, Togo seek investors for $50 million data park project — TechCabal\n• Egyptian Gold Investment Platform Sabika Secures Undisclosed Funding — WeeTracker\n• SA’s Community Wolf raises seed funding round led by Terra Industries — Disrupt Africa\n• Nigerian cybersecurity startup Aeon extends pre-seed round to $2m — Disrupt Africa\n• The Art of The Terrible Startup Name — Crunchbase News\n• Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today — Crunchbase News\n• Anthropic shares fall below IPO price, a worrying sign for AI startups — TechCrunch",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
