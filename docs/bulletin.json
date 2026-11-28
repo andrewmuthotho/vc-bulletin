@@ -1,14 +1,28 @@
 {
-  "date_label": "Fri 27 Nov",
-  "updated": "17:26 EAT, Fri 27 Nov 2026",
+  "date_label": "Sat 28 Nov",
+  "updated": "13:55 EAT, Sat 28 Nov 2026",
   "count": 9,
   "items": [
+    {
+      "title": "A VC’s Quest To Fix The Massive Blind Spot In The Middle Of African Tech’s Debt Boom",
+      "source": "WeeTracker",
+      "link": "https://weetracker.com/2026/11/27/africa-tech-debt-boom-missing-middle-mezzanine-financing/",
+      "region": "africa",
+      "age": "Fri 16:16"
+    },
     {
       "title": "Payaza Enters Kenya After Repaying Sh8.5 Billion to Nigerian Investors",
       "source": "TechMoran",
       "link": "https://techmoran.com/2026/11/27/payaza-enters-kenya-after-repaying-sh8-5-billion-to-nigerian-investors/",
       "region": "africa",
       "age": "Fri 15:17"
+    },
+    {
+      "title": "Nigerian Fintech Payaza Acquires Ghanaian Commerce Startup Seesail Technologies",
+      "source": "WeeTracker",
+      "link": "https://weetracker.com/2026/11/27/payaza-acquires-seesail-technologies/",
+      "region": "africa",
+      "age": "Fri 14:32"
     },
     {
       "title": "Payaza settles ₦88.94 billion commercial paper obligation with investors",
@@ -25,32 +39,11 @@
       "age": "Fri 10:53"
     },
     {
-      "title": "SA’s Community Wolf raises seed funding round led by Terra Industries",
+      "title": "develoPPP Ventures opens call for SA startups, offering $110k in matching funding",
       "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/11/26/sas-community-wolf-raises-seed-funding-round-led-by-terra-industries/?utm_source=rss&utm_medium=rss&utm_campaign=sas-community-wolf-raises-seed-funding-round-led-by-terra-industries",
+      "link": "https://disruptafrica.com/2026/11/27/developpp-ventures-opens-call-for-sa-startups-offering-110k-in-matching-funding/?utm_source=rss&utm_medium=rss&utm_campaign=developpp-ventures-opens-call-for-sa-startups-offering-110k-in-matching-funding",
       "region": "africa",
-      "age": "Thu 12:00"
-    },
-    {
-      "title": "Nigerian cybersecurity startup Aeon extends pre-seed round to $2m",
-      "source": "Disrupt Africa",
-      "link": "https://disruptafrica.com/2026/11/26/nigerian-cybersecurity-startup-aeon-extends-pre-seed-round-to-2m/?utm_source=rss&utm_medium=rss&utm_campaign=nigerian-cybersecurity-startup-aeon-extends-pre-seed-round-to-2m",
-      "region": "africa",
-      "age": "Thu 09:00"
-    },
-    {
-      "title": "Ethiopia’s Sovereign Wealth Fund Commits $10m to Open Its Biggest State Companies to Local Startups",
-      "source": "Launch Base Africa",
-      "link": "https://launchbaseafrica.com/2026/11/26/ethiopia-kama/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-kama",
-      "region": "africa",
-      "age": "Thu 08:30"
-    },
-    {
-      "title": "The Art of The Terrible Startup Name",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
-      "region": "global",
-      "age": "Wed 15:00"
+      "age": "Fri 10:00"
     },
     {
       "title": "Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today",
@@ -65,9 +58,16 @@
       "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
       "region": "global",
       "age": "Tue 21:30"
+    },
+    {
+      "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
+      "region": "global",
+      "age": "Mon 15:00"
     }
   ],
-  "digest": "• Payaza Enters Kenya After Repaying Sh8.5 Billion to Nigerian Investors — TechMoran\n• Payaza settles ₦88.94 billion commercial paper obligation with investors — The Condia\n• Nigeria, Togo seek investors for $50 million data park project — TechCabal\n• SA’s Community Wolf raises seed funding round led by Terra Industries — Disrupt Africa\n• Nigerian cybersecurity startup Aeon extends pre-seed round to $2m — Disrupt Africa\n• Ethiopia’s Sovereign Wealth Fund Commits $10m to Open Its Biggest State Companies to Local Startups — Launch Base Africa\n• The Art of The Terrible Startup Name — Crunchbase News\n• Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today — Crunchbase News\n• Anthropic shares fall below IPO price, a worrying sign for AI startups — TechCrunch",
+  "digest": "• A VC’s Quest To Fix The Massive Blind Spot In The Middle Of African Tech’s Debt Boom — WeeTracker\n• Payaza Enters Kenya After Repaying Sh8.5 Billion to Nigerian Investors — TechMoran\n• Nigerian Fintech Payaza Acquires Ghanaian Commerce Startup Seesail Technologies — WeeTracker\n• Payaza settles ₦88.94 billion commercial paper obligation with investors — The Condia\n• Nigeria, Togo seek investors for $50 million data park project — TechCabal\n• develoPPP Ventures opens call for SA startups, offering $110k in matching funding — Disrupt Africa\n• Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today — Crunchbase News\n• Anthropic shares fall below IPO price, a worrying sign for AI startups — TechCrunch\n• Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates — Crunchbase News",
   "sources_ok": [
     "Disrupt Africa",
     "TechCabal",
